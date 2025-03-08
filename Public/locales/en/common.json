@@ -1,0 +1,619 @@
+{
+    "عربي": "Arabic",
+    "إنجليزي": "English",
+    "تركي": "Turkish",
+    "فرنساوي": "French",
+    "روسي": "Russian",
+    "فارسي": "Persian",
+    "الصفحة الرئيسية": "Home",
+    "جامعتنا": "Our universities",
+    "خدامتنا": "Services",
+    "جميع التخصصات": "All majors",
+    "من نحن": "Contact Us",
+    "كن وكيلنا": "Our agent",
+    "مدونتنا": "blogs",
+    "يرجى اختيار البرنامج الدراسي، لغة الدراسة، والتخصص قبل البحث!": "Please select the study program, language of study, and specialization before searching!",
+    "ابحث عن البرنامج الدراسي...🔎": "Search for the study program... 🔎",
+    "ابحث عن لغة الدراسة...🔎": "Search for the language of study... 🔎",
+    "ابحث عن تخصصك...🔎": "Search for your specialization... 🔎",
+    "برنامج الماجستير": "Master's Program",
+    "برنامج البكالوريوس": "Bachelor's Program",
+    "برنامج الدبلوم": "Diploma Program",
+    "برنامج الدكتوراة": "PhD Program",
+    "اللغة الإنجليزية": "English Language",
+   "اللغة التركية": "Turkish Language",
+   "الطب البشري": "Medicine",
+    "الصيدلة": "Pharmacy",
+    "طب الاسنان": "Dentistry",
+    "العلاج الطبيعي": "Physiotherapy",
+    "التمريض": "Nursing",
+    "التخدير": "Anesthesia",
+    "الاسعافات الاولية": "First Aid",
+    "التغذية": "Nutrition",
+    "الهندسة الطبية": "Biomedical Engineering",
+    "هندسة المعمار": "Architecture",
+    "هندسة الميكاترونكس": "Mechatronics Engineering",
+    "هندسة الميكانيكا": "Mechanical  Engineering",
+    "هندسة التصميم الداخلي": "Interior Design Engineering",
+    "الهندسة الصناعية": "Industrial Engineering",
+    "هندسة السيارات": "Automotive Engineering ",
+    "هندسة الفضاء": "Aerospace Engineering ",
+    "هندسة البرمجيات": "Software Engineering",
+    "هندسة الذكاء الاصطناعي": "Artificial Intelligence Engineering   ",
+    "هندسة الكهرباء والاكترونيات": "Electrical and Electronics Engineering",
+    "هندسة المناظر الطبيعية": "Landscape Engineering",
+    "الادارة الهندسية": "Engineering Management",
+    "ادارة الاعمال": "Business Administration",
+    "اداره الخدمات اللوجستية": "Logistics Management",
+    "امن المعلومات": "Information Security",
+    "نظم المعلومات الادارية": "Management Information Systems",
+    "المسرح": "Theater",
+    "الموسيقي": "Music",
+    "معلم الرياضيات": "Mathematics Teacher",
+    "معلم الكمياء": "Chemistry Teacher",
+    "تنمية الطفل": "Child Development",
+    "الترجمة": "Translation",
+    "الصحافة": "Journalism",
+    "الدعاية والاعلان": "Advertising",
+    "تصميم الازياء": "Fashion Design",
+    "تصميم الجرافيك": "Graphic Design",
+    "عدد سنوات الخبرة": "Number of Years of Experience",
+    "القبول الجامعي": "University Admission",
+    "فروعنا": "Our Branches",
+    "مستشار اكاديمي": "Academic Advisor",
+    "دليلك الشامل عن الدراسة في تركيا": "Your Comprehensive Guide to Studying in Turkey",
+    "اجابة اسألتك للدراسة في تركيا هتلاقيها هنا": "You Will Find the Answers to Your Questions About Studying in Turkey Here",
+    "اضغط هنا": "Click Here",
+    "أفضل الجامعات": "The Best Universities",
+    "جامعة ألتن باش": "Altınbaş University",
+    "اسطنبول، تركيا": "Istanbul, Turkey",
+    "اختر تخصصك":"Choose Your Specialty",
+    "بعض التقيمات الموثوقة من عملائنا":"Some trusted reviews from our clients",
+    " أ / محمود عبداللطيف":"A. Mahmoud Abdel Latif",
+    " م / حازم متولي":" Eng. Hazem Metwally",
+    "د / محمد نوفل":"Dr. Mohammed Noufal",
+    "ك / محمد بهاء":"Captain Mohammed Bahaa",
+    " د / احمد علي":"Dr. Ahmed Ali",
+    " انتم مجموعة متميزة جداّ المنقذ اقل ما يقال عنكم كان سيضيع عليا عام دراسي كامل لولاكم وتسهل الامور في اقرب وقت ممكن بدون اي تعقيدات اتمني لكم التميز دوماّ ومزيد من الابداع شكراّ Deva":
+    "You are a truly outstanding team. Savior is the least that can be said about you. Without you, I would have lost an entire academic year. You make things easy in the shortest time possible without any complications. I wish you continuous success and even more creativity. Thank you, Deva!",
+    " لقد ساندني فريقهم كطالب مغترب منذ اللحظة الاولي لم اكن اتخيل ان الامور سوف تكون بهذه السرعه والبساطه في انهاء المعاملات حقيقه لهم جزيل الشكر في متابعتي حتي طول فتره الدراسة":
+    "Their team supported me as an international student from the very first moment. I never imagined that the processes would be completed so quickly and easily. Truly, I am deeply grateful to them for following up with me throughout my entire study period.",
+    " فريق Deva متميز جداّّ في انهاء المعاملات في اقصر وقت ممكن وانهاء كافة الامور بسلاسة وبدون تعقيدات انامدين لهم بلشكر علي جميع التميزات التي حصلت عليها في تركية بسببهم":
+    "The Deva team is highly efficient in completing transactions in the shortest time possible and handling all matters smoothly and without complications. I am grateful to them for all the privileges I have received in Turkey because of them.",
+ " افضل مؤسسة اتعملت معاها حقيقه سرعه في تساهيل السفر والتأشيرةومتابعة بعد السفر ديماّّ وسرعه التسجيل في السكن الجامعي":
+ "The best institution I have dealt with. Truly fast in facilitating travel and visas, continuous follow-up after travel, and quick registration in university housing.",
+ "افضل الاماكن اللي سجلت معاها في درجة الماجستير متميزين في ترجمه جميع الوثائق وتأمين حجوزات السفر":
+ "One of the best places I registered for my master's degree. They are excellent in translating all documents and securing travel bookings.",
+ " من هم Deva Education؟":"Who is Deva Education?",
+ " تأسست Deva Education عام 2018 برؤية حديثة تهدف إلى إحداث نقلة نوعية في مجال الإرشاد الأكاديمي الدولي، من خلال تمكين الطلاب من اتخاذ قراراتواعية ومدروسة بشأن مسارهم التعليمي في تركيا. تؤمن Deva Education بأن التعليم هو مفتاح النجاح، لذا تقدم خدمات متكاملة تبدأ من التوجيه الأكاديمي الشخصي، مرورًا بمساعدة الطلاب في اختيار البرامج والجامعات  التي تتناسب مع تطلعاتهم، وصولًا إلى تسهيل إجراءات التسجيل والإقامة في  تركيا. ما يميز Deva Education هو التزامها بالابتكار والتحديث المستمر،  حيث تقدم برامج إرشادية مصممة خصيصًا لتلبية احتياجات الطلاب، إضافة إلى  تنظيم ورش عمل تدريبية وجلسات توجيه فردية تهدف إلى تطوير مهارات الطلاب  الأكاديمية والشخصية. منذ انطلاقتها، ساعدت الشركة مئات الطلاب الدوليينفي تحقيق أحلامهم الأكاديمية، بفضل شراكاتها القوية مع أبرز الجامعات التركية، وتقديمها فرصًا تعليمية مميزة تشمل منحًا وخصومات حصرية لجميع  المراحل الدراسية."
+:"Deva Education was founded in 2018 with a modern vision aimed at bringing a qualitative transformation in the field of international academic guidance. It enables students to make informed and well-thought-out decisions about their educational path in Turkey. Deva Education believes that education is the key to success; therefore, it offers comprehensive services starting from personalized academic counseling, assisting students in selecting programs and universities that match their aspirations, and facilitating registration and residence procedures in Turkey. What sets Deva Education apart is its commitment to innovation and continuous improvement, offering advisory programs tailored to students’ needs, as well as organizing training workshops and individual guidance sessions aimed at developing students' academic and personal skills. Since its inception, the company has helped hundreds of international students achieve their academic dreams, thanks to its strong partnerships with top Turkish universities and its provision of exceptional educational opportunities, including scholarships and exclusive discounts for all academic levels.",
+"المزيد":"More",
+" نقدم افضل طرق لمساعدة الطلاب علي التقدم للدراسة في تركيا وتأمين  القبول المجاني لهم ":"We offer the best ways to assist students in applying for studies in Turkey and securing free admission for them.",
+ "التخصصات الطبية":" specialtiesMedical ",
+ " التخصصات الطبية تشمل مجموعة واسعة من المجالات التي يركز كل منها على جانب معين من الرعاية الصحية وهناك العديد من التخصصات الأخرى التي تغطي مجالات مختلفة من الرعاية الصحية"
+:"Medical specialties include a wide range of fields, each focusing on a specific aspect of healthcare. There are also many other specialties covering different areas of healthcare.",
+"التخصصات الأدارية":"Administrative specialties",
+" التخصصات الطبية": " Medical specialties",
+"إذا كنت طالبًا مهتمًا بالإدارة، يمكنك بدء رحلتك التعليمية بتحديد المجال الذي يلبي اهتماماتك وطموحاتك وإليك بعض المجالات التي يمكنك دراستها والتخصص فيها"
+:"If you are a student interested in management, you can start your educational journey by choosing the field that matches your interests and aspirations. Here are some areas you can study and specialize in",
+"التخصصات الهندسية":"Engineering Specializations",
+" التخصصات الهندسية تشمل مجموعة من المجالات التي تركز على تصميم وبناء الأنظمة والهياكل التكنولوجية ويمكن تقسيم كل مجال إلى تخصصات دقيقة أخرى بناءً على نوع المشاريع والأنظمة المستهدفة"
+:" Engineering specializations include a range of fields that focus on designing and constructing technological systems and structures. Each field can be further divided into more specific specializations based on the type of projects and targeted systems.",
+"التخصصات الرياضية ":"Sports Specializations",
+"الرياضية تشمل مجموعة من المجالات التي تركز على تحليل وتطويرالمهارات البدنية والعقلية من خلال الأنشطة الرياضية وتتفرع هذه التخصصات إلى مجالات دقيقة أخرى بناءً على نوع الرياضة والأنشطة الممارسة، وكذلك الجوانب الأكاديمية والصحية المرتبطة بكل منها"
+:"Sports specializations include a range of fields that focus on analyzing and developing physical and mental skills through sports activities. These specializations branch into more specific areas based on the type of sport and activities practiced, as well as the academic and health-related aspects associated with each.",
+"تخصصات الطيران":"Aviation Specializations",
+"تخصصات الطيران تشمل مجموعة من المجالات التي تركز على تصميم وتشغيل وصيانة الطائرات، فضلاً عن العمليات المتعلقة بالطيران وتغطي هذه التخصصات جوانب مختلفة من عالم الطيران، وهي تتطور باستمرار لتواكب التقدم التكنولوجي والاحتياجات المتزايدة في صناعة الطيران"
+:"Aviation specializations include a range of fields focusing on the design, operation, and maintenance of aircraft, as well as aviation-related operations. These specializations cover various aspects of the aviation world and are constantly evolving to keep up with technological advancements and the growing demands of the aviation industry.",
+"تخصصات العلوم العامة":"General Science Specializations",
+"تخصصات التدريس والعلوم العامة تشمل مجالات متعددة تهدف إلى إعداد الأفراد لتعليم مختلف المواد العلمية وتطوير مهارات البحث العلمي و هذه التخصصات تشكل حجر الأساس للعديد من الوظائف الأكاديمية والعلمية، وتساعد في تعزيز المعرفة"
+:"Teaching and General Science specializations include various fields aimed at preparing individuals to teach different scientific subjects and develop research skills. These specializations form the foundation for many academic and scientific careers and contribute to the advancement of knowledge.",
+"لاتدع الحيرة تمنعك من اختيار تخصصك جميع الطلاب اختاروا تخصصاتهم وأنت ما زلت تفكر؟ لا تقلق، نحن هنا لمساعدتك! مع ديڤا، خطوتك الأولى للنجاح تبدأ الآن. تواصل مع ديڤا الآن لاختيار التخصص المناسب الذي يناسب طموحاتك وأحلامك"
+:"Don't let confusion stop you from choosing your major. All students have chosen their fields, and you are still thinking? Don't worry, we are here to help! With Deva, your first step to success starts now. Contact Deva now to choose the major that suits your ambitions and dreams.",
+"الهندسة الكميائية":"Chemical Engineering",
+"هندسة الطيران" :"Aerospace Engineering",
+"الهندسة الغذائية":"Food Engineering",
+"الادارة الطبية":"Medical Management",
+"العلاقات الدولية":"International Relations",
+"فن الطهي والطبخ":"Culinary Arts and Cooking",
+" الدراسات الأسلامية ":"Islamic Studies",
+" الارشاد السياحي ":"Tourist Guidance",
+"  الفلسفة " :"Philosophy",
+" الادارة الرياضية ":"Sports Management",
+"التدريب الرياضي ":"Sports Training",
+"القانون ":"Law",
+" الطيران":"Aviation",
+"اليكم بعض الخدمات التي نقدمها في Deva Education وهي الخدمات الطلابية مثل توجيه النصائح وغيرها من الخدمات"
+:"Here are some of the services we offer at Deva Education, including student services such as guidance and other support.",
+"وخدمات مابعد القبول مثل التامين الصحي وغيرها من الخدمات التي ستدهشك"
+:"And post-admission services such as health insurance and other services that will amaze you.",
+"خدمتنا الطلابية":"Our Student Services",
+"القبول الجامعي المجاني":"Free University Admission",
+"نقدّم لك خدمة متكاملة لتحصيل القبولات الجامعية في أفضل الجامعات التركية مجاناّّ وبسهولة واحترافية، من خلال فريقنا المكوّن من أكثر من  60 مستشارًا أكاديميًا مؤهلًا لمساعدتك في كل خطوة"
+:" We offer you a comprehensive service to secure university admissions in the best Turkish universities for free, easily, and professionally through our team of over 60 qualified academic advisors to assist you at every step.",
+"استشارة تعليمية مجانية":"Free Educational Consultation",
+"نقدّم لك استشارة تعليمية مجانية شاملة تساعدك في التخطيط لمستقبلك الدراسي في تركيا بخطوات واضحة ومدروسة. فريقنا المؤلف من أكثر من 60  مستشارًا أكاديميًا معتمدًا جاهز لتقديم المساعدة في توجيهك لاختيار التخصص الأنسب لمهاراتك وطموحاتك"
+:"We offer you a comprehensive free educational consultation to help you plan your academic future in Turkey with clear and well-structured steps. Our team of over 60 certified academic advisors is ready to assist you in choosing the most suitable major for your skills and aspirations.",
+"خدمة المتابعة المجانية":"Free Follow-up Service",
+" نقدم لك خدمة متابعة مجانية شاملة لمرافقتك خطوة بخطوة خلال رحلتك التعليمية في تركيا، حيث يحرص فريقنا المكوّن من أكثر من 60 مستشارًا أكاديميًا على تقديم الدعم الكامل في تحديث مستمر لملفك الأكاديميوتقديم النصائح الأكاديمية"
+:"We offer you a comprehensive free follow-up service to accompany you step by step during your educational journey in Turkey. Our team of more than 60 academic advisors ensures full support with continuous updates to your academic file and provides academic guidance",
+"نحن معك دائمًا":"We are always with you",
+" نحن هنا لتقديم المشورة التي تحتاجها لتحقيق أهدافك الأكاديمية بثقة ونجاح ونصائح للتأقلم مع الثقافة التركية، المعيشة وقديم نصائح حول تنظيم الوقت وتحسين الأداء الدراسي والتميز الأكاديمي"
+:"We are here to provide the guidance you need to achieve your academic goals with confidence and success, as well as advice on adapting to Turkish culture, living conditions, time management, improving academic performance, and excelling in your studies",
+"خدمتنا مابعد القبول":"Our Post-Acceptance Services",
+" يسعدنا تواصلك معنا! في DEVA EDUCATION، نسعى لتقديم تجربة أكاديمية مميزة تدعم نجاحك في كل خطوة. مستشارك التعليمي سيتواصل معك قريبًا لتفاصيل التسجيل والدراسة. وعند التسجيل من خلالنا، ستحصل على باقة مجانية شاملة بقيمة 1000 دولار 💰 نقدمها لك مجانًا"
+:"We are delighted to hear from you! At DEVA EDUCATION, we strive to provide an outstanding academic experience that supports your success every step of the way. Your educational advisor will contact you soon with details about enrollment and studying. By registering through us, you will receive a comprehensive free package worth $1,000 💰 at no cost to you.",
+" باقة مجانية بقيمة1000$":"Free package worth $1000",
+"بداية رحلتك الجامعية بكل راحة":"Start your university journey with ease",
+"✨نقدم لك خدمة الاستقبال من المطار لضمان وصولك إلى تركيا بأمان وراحة، حيث يكون فريقنا بانتظارك فور وصولك لتقديم المساعدة الكاملة"
+: "✨We offer you an airport pickup service to ensure your safe and comfortable arrival in Turkey, where our team will be waiting for you upon arrival to provide full assistance.",
+"إصدار الإقامة الطلابية في تركيا":"ssuance of student residence permit in Turkey",
+"✨نقدّم لك خدمة مساعدة في إصدار الإقامة الطلابية في تركيا، لنوفر عليك عناء الإجراءات المعقدة، حيث يتولى فريقنا المؤهل كل التفاصيل"
+:"✨ We offer you assistance in issuing a student residence permit in Turkey, saving you the hassle of complex procedures. Our qualified team takes care of all the details.",
+"ضمان إكمال الإجراءات بسلاسة":"Ensuring the smooth completion of procedures",
+"✨نحن نقدم لك دعمًا شاملاً في دفع رسوم الإقامة الطلابية وترجمة الأوراق الرسمية، للتأكد من إتمام كافة إجراءات الإقامة بشكل دقيق"
+:"✨ We provide you with comprehensive support in paying student residence fees and translating official documents to ensure the accurate completion of all residence procedures.",
+"تجربة تسجيل ميسّرة":"A Smooth Registration Experience",
+"✨نقدّم لك خدمة المرافقة الشخصية أثناء التسجيل الجامعي لضمان إتمام جميع الإجراءات بسهولة ووضوح وحل أي مشكلات قد تواجهك أثناء التسجيل"
+:"We offer you a personal accompaniment service during university registration to ensure all procedures are completed smoothly and clearly and to resolve any issues you may encounter during registration",
+"فتح حساب بنكي للطلاب":"Student Bank Account Opening",
+"✨نقدّم لك خدمة فتح حساب بنكي في تركيا لضمان تسهيل معاملاتك المالية بأمان وراحة وتفعيل الخدمات المصرفية مثل تفعيل البطاقة البنكية والخدمات الإلكترونية"
+:"We provide a bank account opening service in Turkey to ensure secure and convenient financial transactions, including activating bank cards and online banking services.",
+"تبقى على اتصال منذ يومك الأول":"Stay connected from your first day",
+"✨نقدّم لك خط جوال مجاني لمدة شهر كامل عند وصولك إلى تركيا، لتبقى متصلاً بأحبائك وتدير شؤونك بسهولة منذ اللحظة الأولى و مساعدتك في تفعيل الخط وضبط الإعدادات عند الحاجة"
+:"✨ We offer you a free mobile SIM card for a full month upon your arrival in Turkey, so you can stay connected with your loved ones and manage your affairs easily from the very first moment, with assistance in activation and setting adjustments if needed.",
+"تيسير تنقلاتك داخل المدينة":"Facilitating your transportation within the city",
+"✨نقدّم لك كارت مواصلات عامة فور وصولك إلى تركيا لتسهيل تنقلاتك اليومية داخل المدينة براحة وسهولة وتسليم الكارت وتفعيله عند وصولك مباشرةوشرح آلية استخدام الكارت والاستفادة منه"
+:"✨ We provide you with a public transportation card upon your arrival in Turkey to facilitate your daily commutes within the city with ease and comfort. The card will be delivered, activated upon arrival, and explained on how to use it effectively.",
+"مرشد تعليمي وخط ساخن لخدمتك":"Educational Advisor and Hotline for Your Service",
+"✨نقدّم لك دعمًا تعليميًا متواصلاً طوال العام لمساعدتك في كل خطوة من رحلتك الأكاديمية في تركيا ونصائح مستمرة حول الأداء الدراسي واختيار المواد والاستعداد للامتحانات"
+:"✨ We provide continuous educational support throughout the year to assist you at every step of your academic journey in Turkey, offering ongoing advice on academic performance, course selection, and exam preparation.",
+"هدايا Deva Education":"Deva Education Gifts",
+" ✨طلاب التخصصات الطبية (طب بشري، طب أسنان، صيدلة) سيحصلون على تذكرة طيران مجانية"
+:"✨ Medical students (Medicine, Dentistry, Pharmacy) will receive a free flight ticket",
+" سجل الآن واستفد من خصومات تصل إلى 75% على رسوم الجامعة. نحن هنا لدعمك من أول يوم حتى تخرجك. لا تتردد في التواصل معنا لأي استفسار، ونتمنى لك كل النجاح والتوفيق!"
+:"Register now and benefit from discounts of up to 75% on university fees. We are here to support you from your first day until graduation. Don’t hesitate to contact us for any inquiries, and we wish you success and prosperity!",
+"بعض رحلتنا الترفهية لطلبنا داخل تركيا":"Some of our recreational trips for our students inside Turkey",
+
+    "أنقرة ميديبول": "Ankara Medipol University",
+    "جامعةأتيليم": "Atılım University",
+    "بهشة شهير": "Bahçeşehir University",
+    "جامعة بيكنت": "Beykent University",
+    "جامعة بيكوز": "Beykoz University",
+    "جامعة بيروني": "Biruni University",
+    "فاتح سلطان محمد": "Fatih Sultan Mehmet University",
+    "جامعة فنربهتشه": "Fenerbahçe University",
+    "جامعة الخليج": "Haliç University",
+    "جامعة إيشيك": "Işık University",
+    "إسطنبول بيلجي": "Istanbul Bilgi University",
+    "إسطنبول يني": "Istanbul Yeni University",
+    "إسطنبول أريل": "Istanbul Arel University",
+    "إسطنبول أطلس": "Istanbul Atlas University",
+    "إسطنبول آيدن": "Istanbul Aydın University",
+    "جامعة إستينيا": "Istinye University",
+    "إسطنبول تيجاريت": "Istanbul Ticaret University",
+    "جامعة توبكابي": "Topkapı University",
+    "جامعة كينت": "Kent University",
+    "جامعة كولتور": "Kültür University",
+    "جامعة نيشانتاشي": "Nişantaşı University",
+    "جامعة اوكان": "Okan University",
+    "صباح الدين": "Sabahattin",
+    "جامعة جالاتا": "Galata University",
+    "جامعة جيديك": "Gedik University",
+    "جامعة جيليشيم": "Gelişim University",
+    "جامعة قادر هاس": "Kadir Has University",
+    "جامعة لقمان الحكيم": "Lokman Hekim University",
+    "جامعة اوستيم": "Ostim Technical University",
+    "جامعة اسكوادر": "Üsküdar University",
+    "انقرة، تركيا": "Ankara, Turkey",
+
+    "تعتمد الجامعة اللغتين الإنجليزية والتركية في التعليم، مما يتيح الفرصة للطلاب الدوليين للاندماج بسهولة...": "The university uses both English and Turkish in education, allowing international students to integrate easily...",
+    "هي جامعة تركية خاصة تأسست في عام 2018 في العاصمة أنقرة. تُعد من الجامعات الحديثة التي تقدم تعليمًا متميزًا...": "It is a private Turkish university founded in 2018 in the capital, Ankara. It is one of the modern universities that offers quality education...",
+    "جامعة تركية خاصة تأسست عام 1997 في العاصمة أنقرة. بفضل برامجها الأكاديمية المتميزة وموقعها الاستراتيجي...": "A private Turkish university founded in 1997 in the capital, Ankara. Thanks to its distinguished academic programs and strategic location...",
+    "هي واحدة من الجامعات التركية الخاصة الرائدة، تأسست عام 1998 في قلب مدينة إسطنبول...": "One of Turkey's leading private universities, founded in 1998 in the heart of Istanbul...",
+    "هي جامعة تركية خاصة تأسست عام 1997 في مدينة إسطنبول. تُعرف الجامعة بجودة برامجها الأكاديمية وتنوع تخصصاتها": "A private Turkish university founded in 1997 in Istanbul. The university is known for the quality of its academic programs and diverse specializations...",
+    "جامعة تركية خاصة تأسست عام 2008 في مدينة إسطنبول تُعد من الجامعات المتميزةالتي تركز على التميز..."
+    : "A private Turkish university founded in 2008 in Istanbul. It is one of the distinguished universities focusing on excellence...",
+    "هي جامعة تركية خاصة تأسست عام 2014 في مدينة إسطنبول. تُعد من الجامعات المتميزة في تركيا...": "A private Turkish university founded in 2014 in Istanbul. It is one of the distinguished universities in Turkey...",
+    "جامعة وقفية تركية تأسست عام 2010 في مدينة إسطنبول تهدف الجامعة إلى تقديم تعليم عالي الجودة...": "A foundation Turkish university founded in 2010 in Istanbul. The university aims to provide high-quality education...",
+    "جامعة تركية خاصة حديثة التأسيس، تقع في مدينة إسطنبول. تُقدم الجامعة برامج تعليمية عاليةالجودة...": "A newly established private Turkish university located in Istanbul. The university offers high-quality educational programs...",
+    "جامعة تركية خاصة تأسست عام 1998 في إسطنبول. تُعد واحدة من الجامعات الرائدة التي تركز على الابتكار...": "A private Turkish university founded in 1998 in Istanbul. It is one of the leading universities focusing on innovation...",
+    "جامعة خاصة تأسست عام 1996 في مدينة إسطنبول. تُعد واحدة من الجامعات الرائدة التي تقدم تعليمًا عالي الجودة": "A private university founded in 1996 in Istanbul. It is one of the leading universities that offer high-quality education...",
+    "إحدى الجامعات التركية الخاصة المرموقة، تأسست عام 1996. تُعرف الجامعة بتقديمها برامج...": "One of Turkey's prestigious private universities, founded in 1996. The university is known for offering programs...",
+    "واحدة من الجامعات التركية الخاصة التي تأسست عام 2009. تهدف الجامعة إلى تقديم تعليم عالي الجودة...": "One of Turkey's private universities founded in 2009. The university aims to provide high-quality education...",
+    "جامعة خاصة تأسست عام 2007 في مدينة إسطنبول. تُعد من الجامعات الحديثة التي تقدم برامج...": "A private university founded in 2007 in Istanbul. It is one of the modern universities that offer programs...",
+    "واحدة من الجامعات التركية الحديثة التي تأسست عام 2018. تتميز الجامعة بتقديم تعليم عالي...": "One of Turkey's modern universities founded in 2018. The university stands out for offering high-quality education...",
+    "واحدة من الجامعات التركية الخاصة الرائدة، تأسست عام 2003 في مدينة إسطنبول. تتميز الجامعة ببرامجها واعتمادها...": "One of Turkey's leading private universities, founded in 2003 in Istanbul. The university stands out with its programs and accreditation...",
+    "جامعة تركية خاصة تأسست عام 2015، وهي واحدة من المؤسسات التعليمية الحديثة التي تهدف إلى...": "A private Turkish university founded in 2015, one of the modern educational institutions aiming to...",
+    "واحدة من الجامعات التركية الخاصة التي تأسست عام 2001. تتميز الجامعة بتركيزها على تعليم الطلاب المهارات...": "One of Turkey's private universities founded in 2001. The university is distinguished by its focus on teaching students skills...",
+    "إحدى الجامعات التركية الخاصة التي تقدم تعليمًا عالي الجودة في مجموعة متنوعة من التخصصات. تأسست الجامعة ...": "One of Turkey's private universities that offers high-quality education in various fields. The university was founded...",
+    "تمتلك جامعة اسطنبول كينت حرمين جامعين ويقع الحرم الجامعي الرئيسي في ...": "Istanbul Kent University has two campuses, with the main campus located in ...",
+    "تسعي جامعة اسطنبول كولتور الي ان تصبح بارزة محليا ودوليا في مجالات مختلفة مثل الطب ...": "Istanbul Kültür University aims to become prominent both locally and internationally in various fields such as medicine...",
+"جامعة خاصة تركيه تاسست في عام 2009 من قبل موئسسه نيشانتاشي للتعليم والثقافه...": "A private Turkish university founded in 2009 by the Nişantaşı Education and Culture Foundation...",
+    "تجمع جامعة اسطنبول اوكان بشكل فعال بين التعليم النظري والتطبيقي وتعد من افضل الجامعات...": "Istanbul Okan University effectively combines theoretical and practical education and is among the best universities...",
+    "تهدف الجامعه ان تكون واحده من افضل 5 جامعات في تركيا التي تتميز ببنيتها التحتيه الكبيره...": "The university aims to be one of the top 5 universities in Turkey, distinguished by its large infrastructure...",
+    "تسعي جامعة اسطنبول جالاتا الي توفير نظام تعليمي يتبع التطورات العالميه ويواكب...": "Istanbul Galata University aims to provide an educational system that follows and adapts to global developments...",
+    "واحده من اهم الجامعات الخاصه في تركيا التي تهتم بالتدريب المهني وتتميز دوما بالتنظيم ...": "One of Turkey's leading private universities that focuses on professional training and is always known for its organization...",
+    "تهدف جامعة جيليشيم الي انت تكون واحده من اهم الجامعات العالميه التي تضيف قيمة الي المجتمع...": "Gelişim University aims to be one of the world's leading universities that add value to society...",
+      "تهدف جامعه قادر هاس الي خلق بيئه التعليم والبحوث والمناقشة علي مستوي افضل في المجالات المختلفة...": "Kadir Has University aims to create the best environment for education, research, and discussion across various fields...",
+"تهتم جامعة لقمان الحكيم اهتمام خاص بلتخصصات الطبية بهدف تدريب المتخصصين الذين ...": "Lokman Hekim University places special emphasis on medical fields with the goal of training specialists who...",
+       "تضم جامعة اوستيم مراكز البحث العلمي والتدريب ومركز حضانه المشروعات الشبابية...": "Ostim University houses scientific research and training centers, as well as an incubator for youth projects...",
+        "تأسست جامعة اسكوادر في عام 2011 من قبل مجموعه NP صاحبه السبق في مجالات العلاج...": "Üsküdar University was founded in 2011 by the NP Group, a pioneer in the field of treatment...",
+                "اتصل بنا للحصول على مزيد من المعلومات والحصول على إشعار عندما نقوم بنشر شيء جديد.": "Contact us for more information and to receive a notification when we publish something new.",
+
+                " ⫷الاسم الأول":"⫷First Name",
+                "⫷الاسم الاخير":"⫷Last Name",
+                "الدولة":"Country",
+                "عنوان البريد الالكتروني":"Email Address",
+                "اكتب رسالتك":"Write your message",
+                "ارسال":"Send",
+                "لقد تم ارسال رسالتك بنجاح 🤗":"Your message has been sent successfully 🤗",
+                " أهدافنا ؟":"Our goals",
+                "كلمات المرور غير متطابقة": "Passwords do not match",
+  "تم إرسال البريد الإلكتروني بنجاح!": "Email sent successfully!",
+  "حدث خطأ، حاول مرة أخرى.": "An error occurred, please try again.",
+  "ماهي":"?What are",
+  "تمكين الطلاب أكاديميًا وثقافيًا":"Empowering students academically and culturally",
+  "تأسيس اكبر هوية تعليمية عالمية":"Establishing the largest global educational identity",
+  "دعم تطوير المهارات الشخصية والقيادية":"Supporting the development of personal and leadership skills",
+  "المساهمة في بناء مجتمع معرفي" :"Contributing to the building of a knowledge-based society",
+  "الاستدامة والمسؤولية المجتمعية" :"Sustainability and social responsibility",
+  "الاّن يمكنك تحقيق اداء مميز والانتشار في الأنشطة والمجالات  الطلابية مع Deva":"Now you can achieve outstanding performance and expand in student activities and fields with Deva.",
+  "مكاتب الخدمات العامة":"Public Service Offices",
+  "معاهد اللغات والتدريب":"Language and Training Institutes",
+  "شركات الخدمات الطلابية":"Student Services Companies",
+  "وكالات السياحة والسفر":"Travel and Tourism Agencies",
+  "مستشارين اكادمين متميزين":"Outstanding Academic Advisors",
+  "عن من نبحث":"Who are we looking for",
+  "من الوكلاء؟":"?as agents",
+  "التحلي بالشفافية والوضوح في التعامل، مع الالتزام بالمعايير الأخلاقية والمهنية":"Maintaining transparency and clarity in dealings, while adhering to ethical and professional standards.",
+  "احترام الالتزامات المتفق عليها، بما في ذلك المواعيد والجودة المطلوبة.": "Respecting agreed-upon commitments, including deadlines and required quality.",
+  "الالتزام بأهداف الشركة واستراتيجياتها.":"Commitment to the company's goals and strategies.",
+  "شركات وأفراد لديهم حس عالٍ بالمسؤولية ويؤمنون بأهمية العمل الخدمي الطلابي.":"Companies and individuals with a strong sense of responsibility who believe in the importance of student service work.",
+  "المساهمة في تحقيق أهداف النمو والتوسع.":"Contributing to achieving growth and expansion goals.",
+"معلومات الشركة": "Company Information",
+"اسم الشركة أو الوكيل":"Company or Agent Name",
+"الاسم الكامل" : "Full Name",
+"عنوان الشركة" :"Company Address",
+"البريد الإلكتروني": "Email" ,
+"كلمة المرور" : "Password",
+"إدخال كلمة المرور" :"Enter Password" ,
+"تأكيد كلمة المرور" : "Confirm Password",
+"إرسال الآن": "Send Now",
+"معلومات التواصل" : "Contact Information",
+"وجهتك الأولى لكل ما تحتاجه عن الدراسة والحياة الطلابية في تركيا" : "Your first destination for everything you need about studying and student life in Turkey.",
+"كيف تبدأ رحلتك الدراسية في تركيا؟" : "?How to start your study journey in Turkey",
+"Deva Education تقدم لك هذا الدليل الشامل لمساعدتك على بدء رحلتك الدراسية في تركيا بخطوات بسيطة ومضمونة": "Deva Education offers you this comprehensive guide to help you start your study journey in Turkey with simple and guaranteed steps.",
+"✅اختيار التخصص والجامعة" : "✅ Choosing a major and university",
+"حدد أهدافك الدراسية: نحن في Deva Education نساعدك في اختيار التخصص الذي يناسب طموحاتك والبحث عن الجامعات المناسبة ايضاّ بفضل شراكاتنا مع العديد من الجامعات التركية المرموقة، نوفر لك استشارات مخصصة لاختيار الجامعة المناسبة"
+: "Define your academic goals: At Deva Education, we help you choose the major that aligns with your ambitions and find the right universities. Thanks to our partnerships with many prestigious Turkish universities, we provide personalized consultations to help you select the right university.",
+"✅التأكد من المتطلبات الأكاديمية" : "✅ Ensure academic requirements",
+"سنرشدك لتجهيز جميع الوثائق الأكاديمية المطلوبة والتأكد من توافقها مع متطلبات الجامعات واختبارات القبول نقدم لك دعمًا خاصًا في التحضير لاختبارات القبول (YÖS، SAT) أو اختبارات اللغة (TOEFL، IELTS، TÖMER)"
+: "We will guide you in preparing all the required academic documents and ensuring they meet university requirements and entrance exams. We provide special support for preparing for entrance exams (YÖS, SAT) or language tests (TOEFL, IELTS, TÖMER).",
+"✅ إعداد الوثائق المطلوبة" : "✅ Preparation of Required Documents",
+"فريقنا في Deva Education يساعدك في ترجمة وتصديق الوثائق وإعداد خطاب الدافع بشكل احترافي وتجهيز السيرة الذاتية ورسائل التوصية إذا لزم الأمر"
+:"Our team at Deva Education helps you with translating and notarizing documents, professionally preparing your motivation letter, and organizing your CV and recommendation letters if needed.",
+"أفضل الجامعات التركية وتخصصاتها المميزة؟" : "?The best Turkish universities and their outstanding programs",
+"تركيا تضم عددًا كبيرًا من الجامعات  التي تقدم برامج تعليمية متميزة بمستويات عالمية، وتُعدُّ خيارًا مفضلاً للطلاب الدوليين والمحليين نظرًا لجودة التعليم والبنية التحتية الحديثة   واليك بعض الجامعات "
+: "Turkey has a large number of universities that offer outstanding educational programs at a global level. It is a preferred choice for both international and local students due to the quality of education and modern infrastructure. Here are some universities:",
+"✅ جامعة بيلكنت" :"✅ Bilkent University",
+"تقع في أنقرة وتتميز الجامعه بتخصصات الهندسة والفنون والتصميم وادارة الاعمال وعلوم الحاسب ":"Located in Ankara, the university is distinguished for its programs in engineering, arts and design, business administration, and computer science",
+"✅جامعة بهتشة شهير" : "✅ Bahçeşehir University",
+"تقع في أسطنبول وتتميز الجامعة بتخصصات الطب والهندسة والقانون والاعلام والفنون الجميلة والعديد من التخصصات الاخري": "Located in Istanbul, the university is distinguished by its programs in medicine, engineering, law, media, fine arts, and many other fields.",
+"✅جامعة إسطنبول بيلجي" : "✅ Istanbul Bilgi University",
+"تقع الجامعه في اسطنبول وتتميز الجامعة بتخصصات الاعلام وادارة الاعمال والقانون والعلاقات الدولية والعديد من التخصصات الاخري المميزة"
+: "The university is located in Istanbul and is distinguished by its programs in media, business administration, law, international relations, and many other outstanding fields.",
+"الحياة الثقافية والاجتماعية للطلاب الدوليين في تركيا ؟" :"?The cultural and social life of international students in Turkey",
+"Deva Education تُساعد الطلاب الدوليين على الاندماج والاستفادة من التجربة الثقافية والاجتماعية في تركيا من خلال تقديم خدمات شاملة تهدف إلى جعل حياتهم في تركيا أكثر سهولة وغنى"
+:"Deva Education helps international students integrate and benefit from the cultural and social experience in Turkey by providing comprehensive services aimed at making their life in Turkey easier and more enriching.",
+"✅ التكيف الثقافي" : "✅ Cultural Adaptation",
+"تُوفّر Deva Education برامج تعريفية تهدف إلى تعريف الطلاب الدوليين بالثقافة التركية والتقاليد المحلية": "Deva Education provides orientation programs aimed at introducing international students to Turkish culture and local traditions.",
+"✅ الدعم الاجتماعي" :"✅ Social Support",
+"Deva Education تقوم بتقديم استشارات ودعم للطلاب للتعامل مع التحديات الاجتماعية والثقافية" : "Deva Education provides consultations and support to help students navigate social and cultural challenges.",
+"✅ الدعم في المعيشة اليومية" :"✅ Support in Daily Living",
+"Deva Education تساعد الطلاب في العثور على السكن المناسب، سواء داخل السكن الجامعي أو خارجه وتقوم بتقديم نصائح حول أفضل الخيارات للمواصلات، الطعام، والخدمات اليومية وتوفر لك كارت موصلات مجاني وهو احد مميزات Deva"
+:"Deva Education helps students find suitable accommodation, whether in university housing or outside. It provides advice on the best options for transportation, food, and daily services. Additionally, Deva offers a free transportation card as one of its benefits." ,
+"فرص العمل أثناء وبعد الدراسة في تركيا" : "Job opportunities during and after studying in Turkey",
+"تركيا تُعد وجهة تعليمية مميزة للطلاب الدوليين، وتوفّر فرص عمل متنوعة أثناء الدراسة وبعد التخرج" : "Turkey is a distinguished educational destination for international students, offering various job opportunities during studies and after graduation.",
+"✅ أولاً: العمل أثناء الدراسة" : "✅ First: Working while studying",
+"يُسمح للطلاب الدوليين في الجامعات التركية بالعمل بدوام جزئي وفقاً للقوانين التركية ويحتاج الطالب إلى تصريح عمل رسمي إذا كان مسجلاً في برنامج دراسات عليا (ماجستير أو دكتوراه) وطلاب برامج البكالوريوس يُسمح لهم بالعمل، لكن التراخيص تعتمد على حالة الطالب ونوع الجامعة ويُسمح للطلاب بالعمل حتى 24 ساعة أسبوعياً، بحيث لا يتعارض العمل مع أوقات الدراسة"
+: "International students in Turkish universities are allowed to work part-time according to Turkish laws. A work permit is required for students enrolled in graduate programs (Master's or PhD). Undergraduate students are also allowed to work, but permits depend on the student's status and the type of university. Students can work up to 24 hours per week, provided that work does not interfere with their study schedule.",
+"✅ القطاعات الأكثر طلباً للخريجين الدوليين" : "✅ The Most In-Demand Sectors for International Graduates",
+"التكنولوجيا وعلوم الحاسوب: شركات البرمجة والتكنولوجيا تحتاج إلى متخصصين" : "Technology and Computer Science: Programming and technology companies need specialists",
+"الهندسة: مجالات الهندسة المدنية، الميكانيكية، والكهربائية مطلوبة بشدة" : "Engineering: Civil, mechanical, and electrical engineering fields are in high demand",
+"التعليم: الخريجون الدوليون يُمكنهم العمل كمدرّسين للغات أو في المدارس الدولية" : "Education: International graduates can work as language teachers or in international schools",
+"السياحة والضيافة: القطاع السياحي في تركيا من أكبر القطاعات التي توفر فرص عمل" :"Tourism and Hospitality: The tourism sector in Turkey is one of the largest sectors providing job opportunities" ,
+"التجارة الدولية: بفضل موقع تركيا الإستراتيجي، هناك طلب على المتخصصين في الاستيراد والتصدير" :"International Trade: Thanks to Turkey's strategic location, there is a demand for specialists in import and export",
+"أهم النصائح للطلاب الجدد في تركيا" : "Top Tips for New Students in Turkey",
+"إذا كنت طالبًا دوليًا جديدًا في تركيا، فإن Deva Education ستساعدك في التكيف مع حياتك الدراسية والاجتماعية في تركيا بشكل أكثر سلاسة ونجاح. إليك كيفية استفادتك من خدمات Deva Education في كل جانب من جوانب حياتك الطلابية في تركيا"
+:"If you're a new international student in Turkey, Deva Education will help you adapt to your academic and social life in Turkey more smoothly and successfully. Here’s how you can benefit from Deva Education's services in every aspect of your student life in Turkey.",
+"✅ تعلم اللغة التركية" : "✅ Learn Turkish",
+"يمكنك الانضمام إلى دورات تعلم اللغة التركية قبل وصولك أو أثناء دراستك، مما يعزز من قدرتك على التواصل بفعالية":"You can join Turkish language courses before your arrival or during your studies, which will enhance your ability to communicate effectively.",
+"✅ التكيف مع الطعام التركي" : "✅ Adapting to Turkish Cuisine",
+"تقدم Deva Education نصائح للطلاب حول المأكولات التركية الأكثر شهرة وأماكن تناول الطعام المحلية التي تُناسب مختلف الأذواق ويساعدك الفريق في التعرف على خيارات الطعام المناسبة للطلاب الدوليين مثل مطاعم تقدم المأكولات العالمية أو الخيارات النباتية"
+:"Deva Education provides students with advice on the most famous Turkish dishes and local dining venues that cater to various tastes, and the team helps you identify food options suitable for international students, such as restaurants offering global cuisines or vegetarian choices.",
+"✅ إدارة الميزانية والتكاليف" : "✅ Budget and Cost Management",
+"Deva Education تقدم إرشادات حول كيفية إدارة ميزانيتك الشهرية، بما في ذلك نصائح حول التكاليف المتوقعة للسكن والطعام وتساعدك أيضًا في الاستفادة من العروض والخصومات التي تقدمها الجامعات أو الخدمات المحلية"
+: "Deva Education provides guidance on how to manage your monthly budget, including advice on the expected costs for housing and food, and also helps you take advantage of offers and discounts provided by universities or local services.",
+"لماذا تعتبر تركيا وجهة مفضلة للدراسة؟" :"?Why is Turkey considered a preferred destination for studying",
+"إذا كنت تفكر في الدراسة في تركيا، Deva Education تقدم لك الدعم الكامل لتجعل من تجربتك الدراسية في هذا البلد الرائع تجربة ناجحة وثرية. إليك لماذا تركيا هي وجهة مفضلة للدراسة وكيف يمكن لـ Deva Education أن تكون شريكك المثالي في رحلتك الأكاديمية"
+: "If you are considering studying in Turkey, Deva Education offers you complete support to make your academic experience in this wonderful country successful and enriching. Here’s why Turkey is a preferred destination for studying and how Deva Education can be your ideal partner on your academic journey.",
+"✅ التعليم العالي ذو الجودة" : "✅ Quality Higher Education",
+"Deva Education تساهم في إرشادك لاختيار الجامعات التركية المعترف بها دوليًا والتي تقدم برامج أكاديمية ذات جودة عالية. سواء كنت تبحث عن دراسة في الهندسة، الطب، العلوم الاجتماعية أو أي مجال آخر، Deva Education توفر لك المعلومات اللازمة لاختيار البرنامج الأنسب لك"
+:"Deva Education contributes by guiding you in choosing internationally recognized Turkish universities that offer high-quality academic programs. Whether you are looking to study engineering, medicine, social sciences, or any other field, Deva Education provides you with the necessary information to choose the most suitable program for you.",
+"✅ بيئة طلابية نشطة" : "✅ Active Student Environment",
+"Deva Education تقدم لك الفرص للمشاركة في الأنشطة الطلابية والفعاليات الجامعية. من خلال تنظيم لقاءات اجتماعية، ورش عمل، ومؤتمرات ثقافية، ستتمكن من بناء شبكة علاقات قوية مع زملائك من جميع أنحاء العالم"
+: "Deva Education offers you opportunities to participate in student activities and university events. By organizing social gatherings, workshops, and cultural conferences, you will be able to build a strong network of relationships with your peers from around the world.",
+"✅ دعم الحكومة التركية للطلاب الدوليين" : "✅ Turkish Government Support for International Students",
+"من خلال Deva Education، ستحصل على الإرشاد بشأن المنح الدراسية التي تقدمها الحكومة التركية، مثل منحة تركيا، والتي يمكن أن تغطي الرسوم الدراسية والإقامة. كما أن Deva Education توفر لك مساعدة في التقديم للحصول على تأشيرة الإقامة الدراسية في تركيا"
+: "Through Deva Education, you will receive guidance on the scholarships offered by the Turkish government, such as the Turkey Scholarship, which can cover tuition fees and accommodation. Additionally, Deva Education provides assistance in applying for a student residence visa in Turkey.",
+"كيف تستفيد من خبرتك الدراسية في تركيا لبناء مستقبلك المهني؟" : "?How can you use your study experience in Turkey to build your professional future",
+"الدراسة في تركيا ليست فقط فرصة للحصول على تعليم عالي الجودة، بل هي أيضًا بوابة لبناء مستقبل مهني ناجح. إليك مجموعة من النصائح حول كيفية الاستفادة من خبرتك الدراسية في تركيا لتحقيق أهدافك المهنية، مع دعم من Deva Education لضمان نجاحك"
+:"Studying in Turkey is not only an opportunity to receive a high-quality education but also a gateway to building a successful career. Here are some tips on how to leverage your study experience in Turkey to achieve your career goals, with support from Deva Education to ensure your success.",
+"✅ بناء شبكة علاقات مهنية" : "✅ Building a Professional Network",
+"استغل الفرص للتواصل مع زملائك، الأساتذة، والخريجين. تركيا بلد يعج بالمؤتمرات والفعاليات الأكاديمية التي تتيح لك التعرف على شخصيات مؤثرة في مجالك والجامعات التركية، خاصة الخاصة منها، تنظم العديد من المؤتمرات والشراكات مع شركات عالمية وDeva Education تساعدك في الوصول إلى هذه الفرص وربطك بأهم شبكات الأعمال في تركيا"
+:"Take advantage of opportunities to connect with classmates, professors, and alumni. Turkey is full of academic conferences and events that allow you to meet influential figures in your field. Turkish universities, especially private ones, organize many conferences and partnerships with global companies. Deva Education helps you access these opportunities and connects you with the most important business networks in Turkey.",
+"✅ تطوير مهاراتك العملية" : "الإنجليزية: ✅ Develop your practical skills",
+"لبرامج التدريبية: استفد من الفرص التدريبية (Internships) التي تقدمها الجامعات التركية بالتعاون مع الشركات المحلية والدولية"
+: "✅ Training Programs: Take advantage of internship opportunities offered by Turkish universities in collaboration with local and international companies.",
+"✅ فهم سوق العمل التركي" : "✅ Understanding the Turkish job market" ,
+"البحث عن التخصصات المطلوبة: تركيا تشهد نموًا في قطاعات مثل الهندسة، التكنولوجيا، السياحة، والتجارة الدولية. اختيارك لتخصص مرتبط بسوق العمل يمنحك ميزة تنافسية واحرص على الاطلاع على احتياجات السوق من خلال المعارض الوظيفية أو الاستشارات المهنية التي تنظمها الجامعات"
+: "✅ Researching In-Demand Majors: Turkey is experiencing growth in sectors such as engineering, technology, tourism, and international trade. Choosing a major aligned with the job market gives you a competitive edge. Be sure to stay updated on market needs through job fairs or career counseling sessions organized by universities." ,
+"كيف تختار الجامعة الأنسب لك في تركيا؟" : " ?How to choose the best university for you in Turkey" ,
+"اختيار الجامعة الأنسب لك في تركيا هو قرار مهم يؤثر على تجربتك الأكاديمية ومستقبلك المهني Deva Education تقدم لك إرشادات شاملة لمساعدتك في اتخاذ القرار الصائب"
+: "✅ Choosing the right university for you in Turkey is a crucial decision that impacts your academic experience and future career. Deva Education offers comprehensive guidance to help you make the best decision." ,
+"✅ تحديد أهدافك الأكاديمية والمهنية" : "✅ Defining your academic and career goals" ,
+"حدد التخصص الذي ترغب في دراسته بناءً على اهتماماتك وقدراتك وخططك المستقبلية إذا كنت تخطط للعمل في بيئة دولية، فقد تكون الجامعات التي تقدم برامج باللغة الإنجليزية هي الخيار الأفضل"
+: "✅ Choose the major you want to study based on your interests, abilities, and future plans. If you plan to work in an international environment, universities offering programs in English might be the best option." ,
+"✅ التحقق من جودة الجامعة" : "✅ Verifying the university's quality" ,
+"تأكد من أن الجامعة معترف بها دوليًا ولديها اعتماد قوي واقرأ آراء الطلاب الحاليين والخريجين حول تجربتهم في الجامعة"
+: "✅ Make sure the university is internationally recognized and has strong accreditation. Read reviews from current students and alumni about their experiences at the university." ,
+"✅ استشارة المتخصصين" : "✅ Consulting specialists" ,
+"إذا كنت محتارًا بين عدة خيارات، يمكن لـ Deva Education مساعدتك في اختيار الجامعة الأنسب بناءً على تخصصك وميزانيتك والتقديم على الجامعات والمنح الدراسية وحصول على معلومات دقيقة حول الحياة الدراسية في تركيا"
+: "✅ If you are unsure between several options, Deva Education can assist you in selecting the most suitable university based on your major and budget, applying to universities and scholarships, and obtaining accurate information about student life in Turkey." ,
+"برامج الماجستير والدكتوراه في تركيا" : "✅ Master’s and PhD programs in Turkey" ,
+"برامج الماجستير والدكتوراه في تركيا تُعتبر من الخيارات الرائدة للطلاب الدوليين الذين يسعون للحصول على تعليم عالي الجودة في بيئة تعليمية غنية بالثقافة والابتكار. تقدم الجامعات التركية برامج متنوعة باللغتين التركية والإنجليزية، مع تركيز قوي على البحث والتطوير. هنا نظرة شاملة على برامج الماجستير والدكتوراه في تركيا، وكيف يمكن لـ Deva Education مساعدتك في اختيار الأنسب لك"
+: "✅ Master’s and PhD programs in Turkey are among the top choices for international students seeking high-quality education in a culturally rich and innovative environment. Turkish universities offer a wide range of programs in both Turkish and English, with a strong focus on research and development. Here’s a comprehensive overview of master’s and PhD programs in Turkey, and how Deva Education can help you choose the best fit for you." ,
+" ✅مميزات دراسة الماجستير والدكتوراه في تركيا" : "✅ Benefits of studying for a master’s and PhD in Turkey" ,
+"التعليم عالي الجودة وتقدم الجامعات التركية برامج معتمدة عالميًا ومتوافقة مع نظام بولونيا الأوروبي وتوفر الجامعات الحديثة مراكز بحثية ومختبرات مجهزة بأحدث التقنيات"
+: "✅ High-quality education: Turkish universities offer globally accredited programs aligned with the European Bologna system. Modern universities provide research centers and laboratories equipped with the latest technologies." ,
+"✅ هيكل برامج الماجستير والدكتوراه" : "✅ Structure of master’s and PhD programs" ,
+"مده الماجستير تستغرق عادةً من 1.5 إلى 2 سنة وانواع البرامج نوعين الماجستير الأكاديمي (مع رسالة): موجه للطلاب الذين يهدفون للبحث الأكاديمي أو متابعة الدكتوراه والنوع الثاني الماجستير المهني (بدون رسالة): مخصص للطلاب الراغبين في تطوير مهارات عملية"
+: "✅ The duration of a master’s program usually ranges from 1.5 to 2 years, with two types of programs:Academic Master’s (with thesis): Designed for students aiming for academic research or pursuing a PhD.Professional Master’s (without thesis): Tailored for students seeking to develop practical skills." ,
+
+"✅ أفضل الجامعات التركية للدراسات العليا" : "✅ Top Turkish universities for graduate studies" ,
+"جامعة بيلكنت: تركز على البحث والابتكار في مجالات التكنولوجيا والهندسة" : " ✅ Bilkent University: Focuses on research and innovation in technology and engineering.",
+"جامعة التن باش معروفة ببرامج الدراسات العليا المتقدمة في العلوم الإدارية والهندسة والعديد من الجامعات الاخري" : "✅ Altınbaş University: Known for advanced graduate programs in administrative sciences, engineering, and many other fields." ,
+"السكن الطلابي في تركيا" : "✅ Student housing in Turkey" ,
+"السكن الطلابي في تركيا هو أحد العوامل المهمة التي تساهم في توفير بيئة مريحة وآمنة للطلاب الدوليين خلال فترة دراستهم. يختلف نوع السكن بناءً على المدينة، الجامعة، والميزانية. Deva Education تقدم لك دليلًا شاملًا لمساعدتك في اختيار السكن المناسب"
+: "✅ Student housing in Turkey is an important factor in providing a comfortable and safe environment for international students during their studies. The type of accommodation varies depending on the city, university, and budget. Deva Education offers a comprehensive guide to help you choose the right housing." ,
+"✅ السكن الجامعي" : "✅ University dormitories" ,
+"مساكن يديرها حرم الجامعة وتكون مخصصة للطلاب وتتميز بأنها قريبة من الجامعة، مما يوفر وقتًا وجهدًا في التنقل وتكلفة معقولة مقارنة بالخيار الخاص وعيوبها قد تكون الغرف صغيرة ومشاركة المرافق أمرًا شائعًا"
+: "✅ University-managed dormitories are dedicated to students and are located close to campus, saving time and effort on commuting. They are more affordable compared to private housing. However, rooms may be small, and sharing facilities is common." ,
+"✅ السكن الحكومي (KYK)" : "✅ Government housing (KYK)",
+"تديره الحكومة التركية، ويوفر خيارات ميسورة التكلفة للطلاب ويتميز برسومه المنخفضة للغاية وتقديم وجبات يومية ضمن التكلفة وعيوبها قيود على الأنشطة اليومية (مثل أوقات الدخول والخروج)"
+: "✅ Managed by the Turkish government, KYK housing offers affordable options for students, with very low fees and daily meals included in the cost. However, it comes with restrictions on daily activities, such as entry and exit times." ,
+"✅ السكن الخاص" : "✅ Private housing" ,
+"مساكن تديرها شركات خاصة ويتميز بغرف متنوعة (مفردة، مزدوجة، أو مشتركة) وخدمات إضافية مثل التنظيف، الإنترنت، والوجبات وعيوبه هي التكلفة العالية مقارنة بغيرها"
+: "✅ Private housing is managed by private companies and offers various room options (single, double, or shared) with additional services like cleaning, internet, and meals. However, the downside is the higher cost compared to other options." ,
+"أفضل المدن التركية للطلاب الدوليين" : "الإنجليزية: ✅ Best Turkish cities for international students" ,
+"تركيا تُعد واحدة من أفضل الوجهات التعليمية للطلاب الدوليين، حيث توفر جامعات مرموقة، تكاليف معيشة معقولة، وبيئة ثقافية متنوعة. عند اختيار مدينة للدراسة، يجب مراعاة جودة التعليم، تكاليف المعيشة، فرص العمل، والأنشطة الطلابية."
+: "✅ Turkey is one of the top educational destinations for international students, offering prestigious universities, affordable living costs, and a rich cultural environment. When choosing a city to study in, it's important to consider the quality of education, living expenses, job opportunities, and student activities.",
+"✅ إسطنبول 🏙️" : "✅ Istanbul 🏙️" ,
+"إسطنبول هي أكبر مدينة في تركيا، وتضم أفضل الجامعات والمراكز الثقافية، مما يجعلها الوجهة الأولى للطلاب الدوليين وتتميز المدينة بوجود أكبر عدد من الجامعات المرموقة وفرص تدريب وعمل واسعة وحياة ثقافية واجتماعية غنية وتدتها تكون في تكلفة المعيشة مرتفعة مقارنةً بمدن أخرى"
+: "✅ Istanbul is the largest city in Turkey, home to top universities and cultural centers, making it the top destination for international students. The city offers the highest number of prestigious universities, extensive internship and job opportunities, and a vibrant cultural and social life. However, living costs can be higher compared to other cities." ,
+"✅ أنقرة 🏛️" : "✅ Ankara 🏛️",
+"أنقرة، عاصمة تركيا، تُعد مركزًا أكاديميًا مهمًا، حيث تضم جامعات حكومية قوية وتكاليف معيشة أقل من إسطنبول وتتميز بتكلفة معيشة أقل من إسطنبول ومواصلات منظمة وسهلة وبيئة أكاديمية قوية وتكمن تديتها في الطقس بارد في الشتاء"
+: "✅ Ankara, the capital of Turkey, is an important academic hub with strong public universities and lower living costs than Istanbul. The city offers organized and easy transportation and a strong academic environment. However, the downside is the cold winters." ,
+
+"✅ أنطاليا 🏖️" : "✅ Antalya 🏖️",
+"مدينة سياحية رائعة توفر جودة حياة عالية وشواطئ خلابة وتتميز في مناخ رائع وشواطئ جميلة وبيئة طلابية نشطة وتكون تديتها في الوظائف المحدودة خارج السياحة"
+: " A stunning tourist city offering a high quality of life and beautiful beaches. It features a great climate, vibrant student life, and breathtaking seaside views. The downside is the limited job opportunities outside the tourism sector.",
+"أفضل التخصصات الطبية والهندسية في تركيا" : " The best medical and engineering majors in Turkey" ,
+"تركيا تُعد واحدة من أفضل الدول لدراسة التخصصات الطبية والهندسية، حيث تضم جامعات مرموقة، ومناهج تعليمية متقدمة، وفرص عمل ممتازة بعد التخرج. إليك دليل شامل لأفضل التخصصات في المجالين، مع دعم Deva Education لمساعدتك في اختيار الأفضل لك"
+: " Turkey is one of the best countries to study medical and engineering specialties, with prestigious universities, advanced curricula, and excellent job opportunities after graduation. Here’s a comprehensive guide to the top fields in both areas, with Deva Education ready to help you choose the best option for you.",
+" ✅ أولًا: التخصصات الطبية في تركيا 🏥" : "✅ First: Medical Specialties in Turkey 🏥",
+"تركيا توفر نظامًا تعليميًا طبيًا متميزًا، حيث يتم تدريس التخصصات الطبية وفق أحدث المعايير العالمية، مع توفر فرص تدريب عملية في المستشفيات الكبرى ونبدأ ب الطب البشري ومده دراسته 6سنوات ويدرس باللغة التركية والانجليزية ويتميز بمستوي التعليم العالي والمناهج الحديثة وامكانية التخصص بعد التخرج في مختلف الفروع"
+: " Turkey offers an outstanding medical education system, where medical specialties are taught according to the latest global standards, with practical training opportunities in major hospitals. Starting with Medicine, the study period is 6 years, available in both Turkish and English. It is known for its high educational standards, modern curricula, and the possibility of specializing in various fields after graduation.",
+"الصيدلة ومده الدراسة5 سنوات وتتميز بفرص عمل في المستشفيات وشركات الأدوية ورواتب جيدة بعد التخرج"
+: " Pharmacy, with a study duration of 5 years, offers job opportunities in hospitals, pharmaceutical companies, and good salaries after graduation.",
+"العلاج الطبيعي والتأهيل ومدة دراستة 4سنوات ويتميز بذدياد طلبه عالميا وبيئه عمله المريحة"
+: " Physical Therapy and Rehabilitation, with a study duration of 4 years, is highly in demand globally and offers a comfortable working environment." ,
+"✅ التخصصات الهندسية في تركيا 🏗️" : "✅ Engineering Specialties in Turkey 🏗️",
+"تُعد تركيا واحدة من أفضل الدول لدراسة الهندسة، حيث توفر الجامعات برامج قوية مع معامل حديثة وشراكات مع شركات كبرى  واهم التخصصات الهندسة الطبية الحيوية ومده الدراسة 4سنوات وكذلك هندسة الكمبيوتر رواتبها مرتفعة وفرص العمل بها عاليه دا والهندسة الميكانيكية والكهربائية والمدنية"
+:" Turkey is one of the best countries to study engineering, offering strong programs with modern laboratories and partnerships with major companies. Key specialties include Biomedical Engineering (4 years), Computer Engineering with high salaries and abundant job opportunities, as well as Mechanical, Electrical, and Civil Engineering.",
+"بعض أسئلة الطلاب وأولياء الأمور" : "Some Questions from Students and Parents",
+"أسئلة الطلاب ؟" : "?Student Questions" ,
+"تكاليف المعيشة ؟" : "? Cost of Living" ,
+"ماهي التخصصات المتاحة ؟" : "?What are the available majors",
+"ماهي لغة الدراسة في تركيا ؟" : "?What is the language of instruction in Turkey",
+"هل يوجد منح دراسة ؟" : "?Are there scholarships available" ,
+"ماهي الخطوات الازمة للقبول بلجماعات التركية ؟" : "? What are the necessary steps for admission to Turkish universities",
+"كيفية التكيف مع المجتمع التركي ؟" : "?How to adapt to Turkish society" ,
+"أسئلة أولياء الأمور ؟" : "?Parents' Questions",
+"تكاليف المعيشة لأولياء الامور مع اولادهم ؟" : "?Cost of Living for Parents with Their Children",
+"ما هي تكلفة الدراسة السنوية في الجامعات التركية ؟" : "?What is the annual tuition cost at Turkish universities",
+"ما طرق دفع الرسوم الدراسية ؟" : "?What are the payment methods for tuition fees" ,
+"هل يحتاج الطالب إلى تأشيرة دراسة ؟" : "?Does the student need a study visa",
+"ما أفضل المدن للدراسة من حيث الأمان والتكاليف ؟" : "?What are the best cities to study in terms of safety and cost",
+"للطلاب:" : "For Students:" ,
+"في تركيا مرنة وتناسب مختلف الميزانيات. الجامعات تقدم منحًا دراسية وخيارات سكن مناسبة للطلاب الدوليين. المصاريف اليومية مثل الطعام والمواصلات منخفضة مقارنة بدول أخرى"
+: "In Turkey, living costs are flexible and suit various budgets. Universities offer scholarships and affordable housing options for international students. Daily expenses like food and transportation are lower compared to other countries.",
+"لأولياء الأمور" : "For Parents:",
+"المعيشة في تركية رخيصة مقارنة بدول كثيرة وتوفر فرص عمل ايضا للشباب وكبار السن في تركيا دولة نامية من حيث العمل والوظائف"
+:"Living in Turkey is affordable compared to many countries, and there are job opportunities for both young people and seniors. Turkey is a developing country in terms of work and employment.",
+"لغة الدراسة؟" : "?Language of Study",
+"تركيا تقدم لك الخيارين ببرامج دراسية عالية الجودة ولكن الدراسة باللغة التركية يكون الاندماج اسرع وافضل وتكايف دراسية أقل"
+:"Turkey offers you both options with high-quality study programs, but studying in Turkish allows for faster and better integration, with lower tuition costs.",
+"اما عن الدراسة باللغة الانجليزية فهي تعني فرص عالمية اكبر وسهولة في التواصل مع الطلاب الدولين"
+: "Studying in English means greater global opportunities and easier communication with international students",
+"تُقدم بعض الجامعات منحًا دراسية في تخصصات محددة. على سبيل المثال: منحة جامعة أيدن : تُقدم منحة مسبقة الدفع بقيمة 14,950 دولارًا لجميع سنوات الدراسة، تُدفع على دفعة واحدة"
+: "Some universities offer scholarships in specific fields. For example: Aydın University Scholarship: Provides a prepaid scholarship of $14,950 for all years of study, paid in a single installment." ,
+"إسطنبول" : "Istanbul:" ,
+"تُعتبر إسطنبول مدينة آمنة نسبيًا، مع وجود بعض المناطق التي يُنصح بتجنبها ليلًا وتكاليف المعيشة غالية الي حدا ما من المدن الاخري نظرا لحجمها الكبير وتنوع خدمتها"
+:"Istanbul is considered a relatively safe city, with some areas recommended to avoid at night. The cost of living is relatively high compared to other cities due to its large size and diverse services.",
+"تُعتبر أنقرة من المدن الآمنة والمستقرة، بفضل كونها العاصمة السياسية لتركيا اما عن كاليف المعيشة أقل تكلفةً مقارنةً بإسطنبول، مما يجعلها خيارًا مناسبًا للطلاب"
+: "Ankara is considered one of the safest and most stable cities, thanks to being Turkey's political capital. The cost of living is lower compared to Istanbul, making it an affordable option for students.",
+"نعم، يحتاج الطالب الدولي الراغب في الدراسة في تركيا إلى الحصول على تأشيرة دراسة قبل دخول البلاد كل اللي عليك تجهز ورقك Deva بتقولك تاشيرتك هتستلمها في اسرع وقت"
+: " Yes, international students who wish to study in Turkey need to obtain a student visa before entering the country. All you need to do is prepare your documents — Deva tells you, your visa will be ready in no time!",
+" تُقدِّم الجامعات التركية مجموعة واسعة من التخصصات الأكاديمية التي تُلبي احتياجات الطلاب في مختلف المجالات. تتنوع التخصصات ما بين العلوم الطبية والهندسية والعلوم الإنسانية والفنون"
+: "Turkish universities offer a wide range of academic disciplines that meet students' needs across various fields. The specialties vary from medical and engineering sciences to humanities and arts.",
+"ملاحظة: تختلف التخصصات المتاحة من جامعة لأخرى، لذا يُفضَّل التحقق من الموقع الرسمي للجامعة التي ترغب في الالتحاق بها."
+: "Note: Available majors vary from one university to another, so it’s best to check the official website of the university you wish to join.",
+"اولا يجب عليك احترام العادات والتقاليد كل مجتمع له عاداته وتقاليده احترم تلك العادات لتجنب اي مواقف غير مريحة"
+:"First, you must respect customs and traditions. Every society has its own customs, and respecting them helps you avoid uncomfortable situations.",
+"ثانيا تعلم عن التاريخ والثقافة لتركيا واقراء عنهم وهذا ايضا يساعدك في فهم السياق العام والتاريخي للمجتمع التركي"
+:"Second, learn about Turkey's history and culture. Reading about them helps you understand the broader social and historical context of Turkish society.",
+"ثالثا استكشف الطعام المحلي جرب الأطعمة المحلية قد تكون وسيلة ممتعة للتعرف علي الثقافة التركية اذهب الي المطاعم المحلية وجرب الأطباق التركية التقليدية"
+:"Third, explore local food. Trying local dishes can be a fun way to learn about Turkish culture. Visit local restaurants and try traditional Turkish dishes.",
+"ماهي الخطوات الازمة للقبول في الجامعات التركية ؟" : "?What are the necessary steps for admission to Turkish universities" ,
+"اعداد جميع الوثائق المطلوبة مثل الصور وجواز السفر وخطابات التوصية وشاهدة اللغة اذا كانت مطلوبة"
+:"Prepare all the required documents, such as photos, passport, recommendation letters, and language certificate if needed",
+" التقديم المبكر عادةّّ مايتم فتح باب التقديم بعد العام الدراسي  بفترة قصيرة لذا حاول تقديم طلبك مبكراّ"
+:"Early application: The application period usually opens shortly after the academic year, so try to submit your application early.",
+" التحقق من متطلبات اللغة بعض الجامعات التركية تتطلب مستوي معين من اللغة الانجليزية او التركية تأكد من استيفاء هذه الطلبات"
+:"Check language requirements: Some Turkish universities require a certain level of English or Turkish. Make sure you meet these requirements.",
+"البحث عن الجامعة والتخصص قم بتحديد التخصص الذي ترغب في دراسته وتحقق من متطلبات القبول لكل جامعة"
+:"Research the university and major: Choose the major you want to study and check the admission requirements for each university.",
+"ماهي مميزات وعيوب الدراسة في تركيا ؟" : "?What are the advantages and disadvantages of studying in Turkey",
+"المميزات" : "Advantages",
+"جودة التعليم" : "Quality of education",
+"الاعترافات" : "Accreditations",
+"المنح الدراسية":"Scholarships",
+"البيئة الثقافية والتاريخية" : "Cultural and historical environment",
+"سهولة القبول" : "Ease of admission",
+"تكاليف دراسية معقولة" : "Affordable tuition fees",
+"تتميز الجامعات التركية بتوفير كافة التخصصات فيها، الأمر الذي يلبي كافة اهتمامات الطلاب الذين ينوون إكمال مسيرتهم التعليمية في تركيا."
+:"Turkish universities offer a wide range of specialties, meeting the diverse interests of students planning to continue their educational journey in Turkey.",
+"تركيا تضم العديد من الجامعات المرموقة والمعترف بها عالميًا وتقدم بعض الجامعات برامج باللغة الإنجليزية."
+: "Turkey is home to many prestigious and internationally recognized universities, with some offering programs in English.",
+"تقدم الحكومة التركية العديد من المنح الدراسية التي تشمل الرسوم الدراسية والإقامة وبدل معيشة وتأمين صحي"
+: "The Turkish government offers many scholarships that cover tuition fees, accommodation, living allowances, and health insurance.",
+"تركيا تجمع بين الشرق والغرب، مما يوفر بيئة ثقافية مميزة ومتنوعة والعديد من المواقع التاريخية والسياحية"
+: "Turkey bridges East and West, offering a unique and diverse cultural environment with many historical and tourist sites.",
+"إجراءات القبول في بعض الجامعات تكون أسهل من بعض الدول الغربية" : "Admission procedures at some universities are easier than in some Western countries.",
+"الرسوم الدراسية أقل مقارنة بدول أوروبا وأمريكا وتكاليف المعيشة أيضًا منخفضة نسبيًا مقارنة بالعديد من الدول الأوروبية"
+: "Tuition fees are lower compared to European and American countries, and living costs are also relatively lower than in many European countries.",
+"العيوب" : "Disadvantages",
+"النظام التعليمي قد يختلف عن بعض الدول العربية أو الأوروبية، مما يستدعي بعض التكيف"
+: " The educational system may differ from some Arab or European countries, requiring some adaptation",
+"جودة التعليم تختلف بشكل كبير بين الجامعات الحكومية والخاصة" : "The quality of education varies significantly between public and private universities",
+"بعض الطلاب قد يواجهون صعوبات في التأقلم مع الثقافة والعادات التركية" : "Some students may face difficulties adapting to Turkish culture and traditions" ,
+"تعتبر الدراسة باللغة التركية في الجامعات التركية من السلبيات التي قد يواجهها الطالب أثناء الدراسة في تركيا"
+: "Studying in Turkish at Turkish universities can be a challenge that students may face during their studies in Turkey",
+"إذا كنت من الأشخاص الذين اعتادوا الإقامة في مناطق غير مكتظة سكانياً، فقد تواجهك مشكلة الاكتظاظ السكاني في المدن الكبرى داخل تركيا كاسطنبول"
+: "If you are used to living in less crowded areas, you might face the challenge of overpopulation in major Turkish cities like Istanbul",
+"ربما يواجه الطالب رسومًا دراسية مرتفعة في بعض الجامعات التركية سواءً الحكومية أو الخاصة، لكن من الميزات المتوفرة في تركيا هو تنوع الاختيارات وتوفر رسوم دراسية مناسبة لكل طالب مما يساهم في تلافي هذه الصعوبة."
+: "A student might face high tuition fees at some Turkish universities, whether public or private. However, one of the advantages of studying in Turkey is the variety of options and the availability of affordable tuition fees for every student, which helps mitigate this difficulty.",
+"اختلاف النظام التعليمي" : "Educational system differences",
+"تفاوت جودة التعليم" : " Variability in education quality",
+"لغة الدراسة" : "Language of instruction",
+"الاكتظاظ السكاني" : "Overpopulation",
+"تكاليف المعيشة والدراسة" : " Cost of living and studying",
+"نظام تعليمي متقدم ومرموق على المستوى الدولي" : "An advanced and prestigious education system on an international level",
+"بيئة متعددة الثقافات، مما يمنحك تجربة تعليمية وحياتية غنية" : "A multicultural environment, providing you with a rich educational and life experience",
+"فرص واسعة لتعلم اللغة التركية بجانب الدراسة الأكاديمية" : "Wide opportunities to learn Turkish alongside academic studies",
+"تركيا تجمع بين الحداثة والتراث، مما يوفر تجربة فريدة للطلاب الدوليين." : "Turkey combines modernity and heritage, offering a unique experience for international students.",
+"في النهاية، الاختيار الصحيح للجامعة والبرنامج الدراسي يمكن أن يساعدك في تحقيق أحلامك دون الحاجة"
+: " In the end, choosing the right university and academic program can help you achieve your dreams without the need",
+"إلى تكاليف باهظة و التركيز على جودة التعليم وفرص المنح هو المفتاح لتحقيق أهدافك الدراسية في تركيا"
+: " To high costs, focusing on the quality of education and scholarship opportunities is the key to achieving your academic goals in Turkey.",
+"لماذا تركيا؟" : "?Why Turkey",
+"رسالتنا": "Our message",
+"مستشار تعليمي محترف يتمتع بخبرة واسعة، يكرس جهوده لمساندة الطلاب الأجانب الراغبين في الدراسة بتركيا، عبر تقديم فرص تعليمية متميزة وخدمات متكاملة تشمل توجيههم لاختيار التخصص الأمثل، تأمين القبول الجامعي، المساعدة في التسجيل والإقامة، مع توفير دعم مستمر يرافقهم طوال رحلتهم التعليمية وصولاً إلى التخرج، لضمان مستقبل أكاديمي ناجح.": 
+"A professional educational consultant with extensive experience, dedicated to supporting foreign students wishing to study in Turkey, by providing distinguished educational opportunities and integrated services, including guiding them to choose the optimal specialization, securing university admission, assisting with registration and accommodation, while offering continuous support throughout their educational journey up to graduation, ensuring a successful academic future.",
+
+"رؤيتنا":"Our vision",
+"بوابتك الأولى لتحقيق طموحاتك الأكاديمية في تركيا. نقدم خدمات متكاملة للطلاب الدوليين تشمل الاستشارات التعليمية، القبول الجامعي، والإرشاد الأكاديمي، مع التزام تام بالاحترافية والمصداقية":"Your first gateway to achieving your academic ambitions in Turkey. We provide integrated services for international students, including educational consultation, university admission, and academic guidance, with a complete commitment to professionalism and credibility.",
+"بعض معاير ومبادئ Deva Education":"Some standards and principles of Deva Education",
+"الثقة والاحترام المتبادل":"Trust and mutual respect",
+"تبني علاقات قوية مع الطلاب تعتمد على الثقة، الاحترام، والمسؤولية":"Building strong relationships with students based on trust, respect, and responsibility",
+"النمو المستمر":"Continuous growth",
+"تشجع على التعلم المستمر وتطوير مهارات الطلاب والمعلمين على حد سواء":"It encourages continuous learning and developing the skills of students and teachers alike",
+"المسؤولية والالتزام":"Responsibility and commitment",
+"تحمل المسؤولية والالتزام بتقديم أفضل ما يمكن لضمان نجاح الطلاب في مسيرتهم التعليمية":"Take responsibility and commit to providing the best possible to ensure students' success in Their educational career",
+"الابتكار":"Innovation",
+"تسعى الشركة إلى تبني أساليب تعليمية حديثة ومبتكرة لضمان تجربة تعليمية متميزة":"The company seeks to adopt modern and innovative educational methods to ensure an excellent experience Outstanding educational",
+"النزاهة":"Integrity",
+"تعمل الشركة بصدق وشفافية في جميع تعاملاتها مع الطلاب والشركاء":"The company works honestly and transparently in all its dealings with students and partners",
+"الاستدامة":"Sustainability",
+"تسعى الشركة إلى تحقيق الاستدامة في تقديم التعليم والموارد بطريقة تواكب تطورات العصر":"The company seeks to achieve sustainability in providing education and resources in a...Keeping pace with the developments of the times",
+"الالتزام بالجودة":"Commitment to quality",
+"تضمن الشركة تقديم خدمات تعليمية ذات معايير عالية تلبي احتياجات الطلاب":"The company ensures the provision of educational services of high standards that meet the needs of... Students",
+"الدعم الشامل":"Comprehensive support",
+"توفر بيئة تعليمية داعمة تساعد الطلاب على التفوق الأكاديمي والنمو الشخص":"Provides a supportive learning environment that helps students excel academically and grow The person",
+"لماذا تختار Deva Education": "Why choose Deva Education",
+"الاحترافية والمصداقية: تقدم Deva Education خدمات استشارية موثوقة تعتمد على الشفافية والمصداقية في جميع مراحل القبول الجامعي.": 
+"Professionalism and credibility: Deva Education provides reliable consulting services based on transparency and credibility throughout all stages of university admission.",
+"تقديم حلول متكاملة: من استشارات اختيار التخصص والجامعة، إلى متابعة طلب القبول والإقامة، نقدم لك حزمة متكاملة من الخدمات التعليمية": 
+"Providing integrated solutions: From consultations on choosing the right specialization and university to monitoring admission and accommodation applications, we offer you a comprehensive package of educational services.",
+"شراكات مع أفضل الجامعات: شراكاتنا الواسعة مع الجامعات التركية المرموقة تضمن لك الوصول إلى أفضل البرامج التعليمية بخصومات مميزة": 
+"Partnerships with top universities: Our extensive partnerships with prestigious Turkish universities ensure you access to the best educational programs with exclusive discounts.",
+"دعم مخصص للطلاب: نؤمن بأن كل طالب لديه احتياجات فريدة، لذا نقدم استشارات مخصصة تراعي أهدافك الأكاديمية والمهنية": 
+"Dedicated student support: We believe that every student has unique needs, so we provide tailored consultations that consider your academic and career goals.",
+"فريق ذو خبرة: يضم فريقنا نخبة من المستشارين التعليميين ذوي الخبرة في التعامل مع الطلاب الدوليين، لتقديم تجربة سلسة وناجحة": 
+"Experienced team: Our team consists of a selection of experienced educational consultants who specialize in working with international students to ensure a smooth and successful experience.",
+"خدمات ما بعد القبول: لا ينتهي دورنا عند حصولك على القبول الجامعي بل نستمر في دعمك من خلال خدمات الإقامة و معادلة الشهادات والتوجيه": 
+"Post-admission services: Our role doesn't end when you receive university admission; we continue to support you with accommodation services, diploma equivalence, and academic guidance.",
+"الأكاديمي واكتشاف أروع الأماكن الترفيهية والثقافية": 
+"Academic excellence and discovering the finest recreational and cultural places",
+"Deva Education – نرسم طريقك نحو مستقبل أكاديمي مشرق": 
+"Deva Education – We pave your way to a bright academic future",
+"تواصل معنا":"Contact us",
+"لقد تم ارسال رسالتك بنجاح":"Your message has been sent successfully",
+"الاسم الأول": "First Name",
+"الاسم الاخير": "Last Name",
+"أهدافنا ؟": "nos objectifs ?",
+"التخصص الذي تبحث عنه موجود في الجامعات التالية":"The major you are looking for is available at the following universities.",
+
+"تركيا -أسطنبول":"Turkey - Istanbul",
+"سجل الاّن":"Register now",
+
+"تركيا -أنقرة":"Türkiye - Ankara",
+
+"جامعة بهشة شهير":"Bahçeşehir University",
+
+"جامعة فاتح سلطان محمد":"Fatih Sultan Mehmet University",
+"جامعة يني يوزل":"Yeni Yüzel University",
+"جامعة أسطنبول اّريل":"Istanbul Ariel University",
+"جامعة أسطنبول أطلس":"Istanbul University Atlas",
+"جامعة إسطنبول آيدن":"Istanbul Aydin University",
+"جامعة إسطنبول تيجاريت":"Istanbul Tigarit University",
+"جامعة توباكي":"Tubaki University",
+"جامعة صباح الدين زعيم":"Sabah al-Din Zaim University",
+"جامعة أوستيم":"Ustem University",
+"سجل الآن في هذا التخصص":"Register now in this specialization",
+"الاسم":"the name",
+"اللقب أو الكنية":"Title or nickname",
+"الجنس":"Sex",
+"ذكر":"male",
+"أنثى":"female",
+"اختر الدولة":"Select country",
+"جاري التحميل...":"Loading...",
+"رقم الهاتف":"phone number",
+"إرسال":"send",
+"أنقرة" : "Ankara",
+"جامعة اسكودار في تركيا" : "Üsküdar University in Turkey",
+"الموقع الرسمي للجامعة" : "Official University Website",
+"التصنيف العالمي:" : "World Ranking:",
+"التصنيف المحلي:" : "Local Ranking:",
+"عدد البرامج الدراسية :" : "Number of Study Programs:",
+"عدد الطلاب :" : " Number of Students:",
+"عدد الطلاب الاجانب:" : " Number of International Students:",
+"معلومات عامة عن جامعة اسكودار" : "General Information about Üsküdar University",
+"تاريخ التأسيس" : " Founding Date",
+"جامعة إسكودار هي جامعة خاصة تقع في مدينة  إسطنبول التركية، وتأسست في عام 2011. تشتهر الجامعة بتخصصاتها في  مجالات العلوم الصحية، والفنون، والتكنولوجيا، والعلوم الاجتماعية.  تهدف جامعة إسكودار إلى تقديم تعليم عالي الجودة في بيئة بحثي  وتحفيز الطلاب على التفوق الأكاديمي. من بين الأقسام المهمة في  الجامعة، يوجد برامج في الطب، وعلاج النطق، وعلوم الكمبيوتر،  والهندسة، والتمريض، وعلم النفس، وغيرها من التخصصات. كما أن لديها  مراكز بحثية تركز على مواضيع متعددة مثل الطب النفسي، والتكنولوجيا  الحيوية، والدراسات الإنسانية"
+: "Üsküdar University is a private university located in Istanbul, Turkey, and was founded in 2011. The university is known for its specializations in health sciences, arts, technology, and social sciences. Üsküdar University aims to provide high-quality education in a research-driven environment and encourages students to achieve academic excellence. Among its important departments are programs in medicine, speech therapy, computer science, engineering, nursing, psychology, and more. It also has research centers focusing on various topics such as psychiatry, biotechnology, and humanities studies.",
+"أحرمها الجامعية" : "Campus",
+"إسطنبول، وهي منطقة جميلة على الضفة الآسيوية من المدينة. الحرم الجامعي يتميز بتصميم حديث ومرافق متطورة، مع التركيز على توفير بيئة تعليمية مريحة وعصرية للطلاب. وتشمل مرافق الحرم الجامعي"
+: "Istanbul, a beautiful area on the Asian side of the city. The university campus features a modern design and advanced facilities, focusing on providing a comfortable and contemporary educational environment for students. The campus facilities include",
+"المباني الدراسية: تحتوي على قاعات محاضرات مجهزة بأحدث التقنيات  لدعم التعليم الجامعي"
+: "Academic buildings: Equipped with lecture halls featuring the latest technology to support university education",
+"المختبرات: خصوصاً في التخصصات مثل الطب، وعلاج النطق، والهندسة، حيث  يوجد مختبرات مجهزة لدعم التعليم العملي"
+: "Laboratories: Especially in fields such as medicine, speech therapy, and engineering, with well-equipped labs to support practical learning.",
+"الأنشطة الطلابية: يوجد العديد من الأندية والفعاليات الثقافية والرياضية التي يمكن للطلاب الانضمام إليها."
+: "Student activities: There are many clubs and cultural and sports events that students can join.",
+"المرافق الاجتماعية: مثل المقاهي والمطاعم التي توفر بيئة مريحة للطلاب للتفاعل والتواصل"
+: "Social facilities: Such as cafés and restaurants that provide a comfortable environment for students to interact and communicate."
+
+}

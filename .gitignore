@@ -1,0 +1,17 @@
+node_modules/
+*.log
+*.zip
+.next/cache/
+# next-video
+
+!videos/*.json
+!videos/*.js
+!videos/*.ts
+
+
+# next-video
+
+!videos/*.json
+!videos/*.js
+!videos/*.ts
+

@@ -1,0 +1,174 @@
+ <h2 className="bg-red-500 max-sm:mr-[30rem] w-fit px-4 py-2 font-bold text-2xl rounded-full mt-9 mx-auto max-lg:mr-[70%] ">
+        {t("المميزات")}
+      </h2>
+      <div className="flex -mt-6 max-sm:w-[70rem] ">
+        <div className="absolute text-white text-2xl grid font-bold mt-24 pt-2 z-10 mr-9 max-lg:mt-6 max-lg:text-center">
+          <h1 className=" max-lg:mt-32 max-sm:mt-28"> {t("جودة التعليم")}</h1>
+          <h1 className="mt-8 max-lg:mt-16 max-sm:mt-12"> {t("الاعترافات")}</h1>
+          <h1 className="mt-8 max-lg:mt-16 max-sm:mt-12">
+            {" "}
+            {t("المنح الدراسية")}
+          </h1>
+          <h1 className="mt-10 max-lg:mt-[3.5rem] max-sm:mt-16  -mr-3">
+            {" "}
+            {t("البيئة الثقافية والتاريخية")}
+          </h1>
+          <h1 className="mt-8 max-lg:mt-16 max-sm:mt-12">
+            {" "}
+            {t("سهولة القبول")}{" "}
+          </h1>
+          <h1 className="mt-9 max-lg:mt-16 max-sm:mt-12 -mr-3 font-bold">
+            {" "}
+            {t("تكاليف دراسية معقولة")}
+          </h1>
+        </div>
+        <Image src={sahm} className="w-72 h-[70vh] max-sm:mt-" />
+        <div className="grid max-lg:mt-9">
+          <h1 className="text-white bg-fuchsia-900 mt-24 max-sm:mt-[5.5rem] rounded-3xl w-fit px-7 py-3">
+            {t(
+              "تتميز الجامعات التركية بتوفير كافة التخصصات فيها، الأمر الذي يلبي كافة اهتمامات الطلاب الذين ينوون إكمال مسيرتهم التعليمية في تركيا."
+            )}
+          </h1>
+          <h1 className="text-white bg-fuchsia-900 mt-5 rounded-3xl w-fit px-7 py-3">
+            {t(
+              "تركيا تضم العديد من الجامعات المرموقة والمعترف بها عالميًا وتقدم بعض الجامعات برامج باللغة الإنجليزية."
+            )}
+          </h1>
+          <h1 className="text-white bg-fuchsia-900 mt-5 rounded-3xl max-sm:mt-9 w-fit px-7 py-3">
+            {t(
+              "تقدم الحكومة التركية العديد من المنح الدراسية التي تشمل الرسوم الدراسية والإقامة وبدل معيشة وتأمين صحي"
+            )}
+          </h1>
+          <h1 className="text-white bg-fuchsia-900 mt-4 rounded-3xl max-sm:mt-12 w-fit px-7 py-3">
+            {t(
+              "تركيا تجمع بين الشرق والغرب، مما يوفر بيئة ثقافية مميزة ومتنوعة والعديد من المواقع التاريخية والسياحية"
+            )}
+          </h1>
+          <h1 className="text-white bg-fuchsia-900 mt-4 rounded-3xl w-fit max-sm:mt-9 px-7 py-3">
+            {t("إجراءات القبول في بعض الجامعات تكون أسهل من بعض الدول الغربية")}
+          </h1>
+          <h1 className="text-white bg-fuchsia-900 mt-4 rounded-3xl max-sm:mt-8 w-fit px-7 py-3">
+            {t(
+              "الرسوم الدراسية أقل مقارنة بدول أوروبا وأمريكا وتكاليف المعيشة أيضًا منخفضة نسبيًا مقارنة بالعديد من الدول الأوروبية"
+            )}
+          </h1>
+        </div>
+      </div>
+      <h2 className="bg-yellow-500 w-fit mt-5 -mb-10 px-4 py-2 text-2xl font-bold rounded-full max-lg:mr-[70%] max-sm:mr-[30rem] mx-auto">
+        {t("العيوب")}
+      </h2>
+      <div className="flex -mt-6  max-sm:ml-12">
+        <div className="gird max-lg:mr-32 max-sm:-mt-12 ">
+          <h1
+            className="text-white bg-fuchsia-900 mt-28 rounded-3xl mr-[48%] max-lg:w-[47rem] 
+        max-lg:mt-[10.5rem] max-lg:mr-24 max-lg:text-center w-fit px-7 py-3"
+          >
+            {t(
+              "النظام التعليمي قد يختلف عن بعض الدول العربية أو الأوروبية، مما يستدعي بعض التكيف"
+            )}
+          </h1>
+          <h1
+            className="text-white bg-fuchsia-900 mt-5 rounded-3xl w-fit mr-[61%] max-lg:mt-12
+        max-lg:w-[47rem] max-lg:mr-48 px-7 py-3 max-sm:mt-8"
+          >
+            {t("جودة التعليم تختلف بشكل كبير بين الجامعات الحكومية والخاصة")}
+          </h1>
+          <h1
+            className="text-white bg-fuchsia-900 mt-5 rounded-3xl w-fit px-7 max-sm:mt-12 
+        mr-[56%] max-lg:w-[47rem] max-lg:mt-[3.5rem] max-lg:mr-48 py-3"
+          >
+            {t(
+              "بعض الطلاب قد يواجهون صعوبات في التأقلم مع الثقافة والعادات التركية"
+            )}
+          </h1>
+          <h1
+            className="text-white bg-fuchsia-900 mt-5 rounded-3xl w-fit px-7 mr-[39%] 
+        max-sm:mt-10 max-lg:text-center max-lg:w-[47rem] max-lg:mt-[3rem] max-lg:mr-28 py-3"
+          >
+            {t(
+              "تعتبر الدراسة باللغة التركية في الجامعات التركية من السلبيات التي قد يواجهها الطالب أثناء الدراسة في تركيا"
+            )}
+          </h1>
+          <h1
+            className="text-white bg-fuchsia-900 mt-5 rounded-3xl mr-[16%] max-lg:w-[47rem] 
+        max-lg:mt-[2.5rem] max-sm:mt-7 max-lg:mr-24 max-lg:rounded-l-lg w-fit px-7 py-3"
+          >
+            {t(
+              "إذا كنت من الأشخاص الذين اعتادوا الإقامة في مناطق غير مكتظة سكانياً، فقد تواجهك مشكلة الاكتظاظ السكاني في المدن الكبرى داخل تركيا كاسطنبول"
+            )}
+          </h1>
+          <h1
+            className="text-white bg-fuchsia-900 mt-3 rounded-3xl w-fit px-7 max-lg:w-[47rem] 
+        max-lg:mt-[1rem] max-sm:mt-2 max-lg:mr-24 max-lg:rounded-l-lg py-3"
+          >
+            {t(
+              "ربما يواجه الطالب رسومًا دراسية مرتفعة في بعض الجامعات التركية سواءً الحكومية أو الخاصة، لكن من الميزات المتوفرة في تركيا هو تنوع الاختيارات وتوفر رسوم دراسية مناسبة لكل طالب مما يساهم في تلافي هذه الصعوبة."
+            )}
+          </h1>
+        </div>
+
+        <div className="absolute text-white text-3xl max-sm:ml-12 grid font-bold mt-24 pt-2 z-10 mr-[85%] max-lg:-left-[28rem] max-sm:mt-1 max-sm:-left-[54rem] overflow-hidden">
+          <h1 className="text-[22px] mt-3 max-lg:mt-20 max-sm:mt-28">
+            {t("اختلاف النظام التعليمي")}
+          </h1>
+          <h1 className="text-[22px] mr-2 mt-7 max-lg:mt-12 max-sm:mt-12">
+            {t("تفاوت جودة التعليم")}
+          </h1>
+          <h1 className="mr-7 mt-9 text-[22px] max-lg:mt-12 max-sm:mt-12">
+            {t("المنح الدراسية")}
+          </h1>
+          <h1 className="mr-9 text-[22px] mt-9 -ml-5 max-lg:mt-16 max-sm:mt-16">
+            {t("لغة الدراسة")}
+          </h1>
+          <h1 className="mt-8 text-[22px] max-lg:mt-16 max-sm:mt-16">
+            {t("الاكتظاظ السكاني")}
+          </h1>
+          <h1 className="mt-10 text-xl -ml-5 font-bold max-lg:mt-16 max-sm:mt-12">
+            {t("تكاليف المعيشة والدراسة")}
+          </h1>
+        </div>
+
+        <Image
+          src={left}
+          className="w-72 h-[74vh] max-lg:-mr-24 max-sm:-mt-9 "
+        />
+      </div>
+       <div className="flex justify-center mt-9 overflow-hidden max-lg:w-[75rem] max-lg:mr-16">
+        <div className="grid">
+          <div className="">
+            <div className="text-white h-[5.8rem] mr-16 w-[30rem]  mt-3 bg-[#7a0066cb] rounded-full text-center px-5 pt-4 text-xl font-semibold ">
+              <p>
+                {t(
+                  "اعداد جميع الوثائق المطلوبة مثل الصور وجواز السفر وخطابات التوصية وشاهدة اللغة اذا كانت مطلوبة"
+                )}
+              </p>
+            </div>
+          </div>
+          <div className="">
+            <div className="text-white h-[5.8rem] mr-16 mt-12 bg-[#7a0066cb] rounded-full text-center px-5 pt-4 text-xl font-semibold ">
+              <p>
+                {t(
+                  " التقديم المبكر عادةّّ مايتم فتح باب التقديم بعد العام الدراسي  بفترة قصيرة لذا حاول تقديم طلبك مبكراّ"
+                )}
+              </p>
+            </div>
+          </div>
+        </div>
+        <Image src={wrak} className="w-1/3 h-96 scroll-pr-36 max-lg:hidden" />
+        <div className="grid">
+          <div className="flex">
+            <div className="text-white h-20 bg-[#7a0066cb] rounded-full ml-16 text-center px-5 pt-4 w-[36rem] mt-28 text-xl font-semibold ">
+              {t(
+                " التحقق من متطلبات اللغة بعض الجامعات التركية تتطلب مستوي معين من اللغة الانجليزية او التركية تأكد من استيفاء هذه الطلبات"
+              )}
+            </div>
+          </div>
+          <div className="flex">
+            <div className="text-white h-[4rem] bg-[#7a0066cb] rounded-full ml-16 text-center px-5 pt-1 mt-32 text-xl font-semibold mb-5">
+              {t(
+                "البحث عن الجامعة والتخصص قم بتحديد التخصص الذي ترغب في دراسته وتحقق من متطلبات القبول لكل جامعة"
+              )}{" "}
+            </div>
+          </div>
+        </div>
+      </div>
