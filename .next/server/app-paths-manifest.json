@@ -1,7 +1,7 @@
 {
-  "/yeni-yuzyil/page": "app/yeni-yuzyil/page.js",
   "/page": "app/page.js",
   "/biruni/page": "app/biruni/page.js",
-  "/fatih-sultan/page": "app/fatih-sultan/page.js",
-  "/isik/page": "app/isik/page.js"
+  "/isik/page": "app/isik/page.js",
+  "/yeni-yuzyil/page": "app/yeni-yuzyil/page.js",
+  "/fatih-sultan/page": "app/fatih-sultan/page.js"
 }
