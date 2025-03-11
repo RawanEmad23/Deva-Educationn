@@ -48,7 +48,7 @@ const ankraMedipol = () => {
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-8 my-10  -mt-0 pt-24 max-lg:w-[75rem] max-lg:mr-6">
         <div className="h-auto rounded-lg bg-gradient-to-r from-purple-50 to-pink-50  lg:col-span-2 max-[1366px]:grid-cols-1">
           <Image
-             src={images[lang].cover}
+             src={images[lang].ankracover}
             className="w-[60rem] justify-center items-center mx-auto my-6 rounded-lg"
           />
           <Image
