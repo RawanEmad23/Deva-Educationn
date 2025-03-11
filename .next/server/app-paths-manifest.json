@@ -1,8 +1,7 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
+  "/yeni-yuzyil/page": "app/yeni-yuzyil/page.js",
   "/page": "app/page.js",
-  "/khadamat/page": "app/khadamat/page.js",
-  "/madonatna/page": "app/madonatna/page.js",
-  "/takass/page": "app/takass/page.js",
-  "/universitys/page": "app/universitys/page.js"
+  "/biruni/page": "app/biruni/page.js",
+  "/fatih-sultan/page": "app/fatih-sultan/page.js",
+  "/isik/page": "app/isik/page.js"
 }

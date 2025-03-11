@@ -12,31 +12,60 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/khadamat/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/khadamat/page.css",
-      "static/chunks/app/khadamat/page.js"
-    ],
-    "/madonatna/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/madonatna/page.js"
-    ],
-    "/takass/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/takass/page.js"
-    ],
     "/universitys/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/universitys/page.js"
     ],
-    "/_not-found/page": [
+    "/altnbash/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/altnbash/page.js"
+    ],
+    "/bahcesehir/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/bahcesehir/page.js"
+    ],
+    "/ankraMedipol/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/ankraMedipol/page.js"
+    ],
+    "/atilim/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/atilim/page.js"
+    ],
+    "/arel/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/arel/page.js"
+    ],
+    "/bilgi/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/bilgi/page.js"
+    ],
+    "/yeni-yuzyil/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/yeni-yuzyil/page.js"
+    ],
+    "/biruni/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/biruni/page.js"
+    ],
+    "/isik/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/isik/page.js"
+    ],
+    "/fatih-sultan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/fatih-sultan/page.js"
     ]
   }
 }
