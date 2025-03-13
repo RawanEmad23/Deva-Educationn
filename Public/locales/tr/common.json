@@ -573,7 +573,6 @@
 
   
 "جامعة التن باش في تركيا" : "Türkiye'de Altınbaş Üniversitesi",
-"الموقع الرسمي للجامعة" : "Üniversitenin resmi web sitesi",
 "التصنيف العالمي" : "Küresel sıralama",
 "التصنيف المحلي" : "Yerel sıralama",
 "عدد البرامج الدراسية" : "Eğitim programlarının sayısı",
@@ -582,7 +581,8 @@
 "معلومات عامة عن جامعة ألتن باش" : "Altınbaş Üniversitesi hakkında genel bilgiler",
 "موقع الجامعة" : "Üniversitenin web sitesi",
 "تقع جامعة ألتن باش في اسطنبول الجانب الأوروبي، بمنطقة باغجلار في حي محمود بيه" : "Altınbaş Üniversitesi, İstanbul'un Avrupa yakasında, Bağcılar ilçesinin Mahmutbey mahallesinde yer almaktadır.",
-"أحرمها الجامعية" : "Kampüsleri",
+"تقنيات المخاب الطبية":"Tıbbi laboratuvar teknikleri",
+"الإسعافات الأول الطوارئ":"Acil ilk yardım",
 "1-حرم محمود بيه" : "1- Mahmutbey Kampüsü",
 "، وهو حرم الجامعة الرئيسي في جامعة ألتن باش يحتوي هذا الحرم الجامعي على كلية الهندسة والعلوم الطبيعية ومبنى اللغات الأجنبية، بالإضافة إلى المرافق المخصصة للمؤتمرات الدولية والحفلات الموسيقية والمهرجانات والمعارض وما إلى ذلك." : "Bu kampüs, Altınbaş Üniversitesi'nin ana kampüsüdür ve Mühendislik ve Doğa Bilimleri Fakültesi ile Yabancı Diller Binası'nı içerir. Ayrıca uluslararası konferanslar, konserler, festivaller, sergiler ve benzeri etkinlikler için ayrılmış tesislere sahiptir.",
 "2-حرم جايرتيبيه للعلوم الاجتماعية" : "2- Gayrettepe Sosyal Bilimler Kampüsü",
@@ -600,7 +600,7 @@
 "السكن الطلابي في الجامعة" : "Üniversitede öğrenci yurdu",
 "توفر جامعة ألتن باش سكنًا طلابيًا بالقرب من حرم محمود بيه وهو ينقسم إلى مبنى للذكور وآخر للإناث، يتسع هذا المكان لحوالي 400 طالب ما بين غرف فردية وغرف ثنائية وغرف رباعية الأفراد. تحرص الجامعة على توفير الاسترخاء والراحة للطلاب واستقرارهم في بيئة آمنة ونظيفة." : "Altınbaş Üniversitesi, Mahmutbey Kampüsü yakınında öğrenci yurdu sunmaktadır. Bu yurt, erkekler ve kadınlar için ayrı binalara sahiptir ve yaklaşık 400 öğrenciye tek kişilik, çift kişilik ve dört kişilik odalarla hizmet verir. Üniversite, öğrencilerin güvenli ve temiz bir ortamda rahat ve huzurlu bir şekilde kalmalarını sağlamaya özen gösterir.",
 "الحياة الطلابية" : "Öğrenci yaşamı",
-"تهتم جامعة آلتن باش بتكوين علاقات قوية بين الطلاب وإدارة الجامعة، وإجراء حوار مستمر مع الطلاب لمعرفة احتياجاتهم وتلبيتها. كما توفر الجامعة حياة طلابية نشطة وممتعة وتعمل على تطويرها، من خلال ما يلي:" : "Altınbaş Üniversitesi, öğrenciler ve üniversite yönetimi arasında güçlü ilişkiler kurmaya ve öğrencilerin ihtiyaçlarını anlamak ve karşılamak için onlarla sürekli bir diyalog içinde olmaya özen gösterir. Ayrıca üniversite, aşağıdakiler aracılığıyla aktif ve keyifli bir öğrenci yaşamı sunar ve bunu geliştirmeye çalışır:",
+"تهتم جامعة آلتن باش بتكوين علاقات قوية بين الطلاب وإدارة الجامعة، وإجراء حوار مستمر مع الطلاب لمعرفة احتياجاتهم وتلبيتها. كما توفر الجامعة حياة طلابية نشطة وممتعة وتعمل على تطويرها، منخلال ما يلي:": "Altınbaş Üniversitesi, öğrenciler ve üniversite yönetimi arasında güçlü ilişkiler kurmaya ve öğrencilerin ihtiyaçlarını anlamak ve karşılamak için onlarla sürekli bir diyalog içinde olmaya özen gösterir. Ayrıca üniversite, aşağıdakiler aracılığıyla aktif ve keyifli bir öğrenci yaşamı sunar ve bunu geliştirmeye çalışır:",
 "توفر الجامعة صالات الألعاب الرياضية المتنوعة" : "Üniversite, çeşitli spor salonları sunar",
 "تضم الجامعة مكتبة كبيرة وشاملة لمختلف المصادر العلمية والبحثية" : "Üniversite, çeşitli bilimsel ve araştırma kaynaklarına sahip büyük ve kapsamlı bir kütüphaneye sahiptir",
 "تعقد الجامعة مسابقات يعرض بها الطلاب مشروعاتهم لاختيار الأفضل منها ليحصلوا على جوائز تشجيعية" : "Üniversite, öğrencilerin projelerini sunduğu ve en iyilerin ödüllendirildiği yarışmalar düzenler",
@@ -738,6 +738,13 @@
 "غسيل الكلى":"Diyaliz",
 
 
+
+
+
+
+
+
+
 "جامعة أتيليم في تركيا":
 "Türkiye'deki Atılım Üniversitesi",
 "اداره":"yönetim",
@@ -764,9 +771,6 @@
   "الهندسة المدنية":"İnşaat mühendisliği",
   "هندسة الكهرباء و الالكترون":  "Elektrik ve Elektronik Mühendisliği",
   "أتيليم":"Atelem",
-
-
-   
   "كليات وتخصصات جامعة أتيليم": "Atılim Üniversitesi Fakülteleri ve Uzmanlık Alanları",
   "الأوراق المطلوبة للتقديم على جامعة أتيليم":"Atılim Üniversitesine Başvuru İçin Gerekli Belgeler",
   "تعليم عالي المستوى في مختلف التخصصات الأكاديمية وتقديم معظمها باللغة الإنجليزية":"",
@@ -833,6 +837,890 @@
 "جامعة اتيليم معتمدة من الشبكة الأوروبية لاعتماد التعليم الهندسي (ENAEE)، وحصلت الجامعة على اعتماد 8 أقسام في كلية الهندسة من قبل جمعية تقييم واعتماد البرامج الهندسية MUDEK.":"Atılım Üniversitesi, Avrupa Mühendislik Eğitimi Akreditasyon Ağı (ENAEE) tarafından akredite edilmiştir ve Mühendislik Fakültesi'ndeki sekiz bölüm, Mühendislik Programlarını Değerlendirme ve Akreditasyon Derneği (MÜDEK) tarafından akredite edilmiştir.",
 "أنقره":"Ankara",
 "شهادة الماجستير":"Yüksek lisans",
-"أتليم":"Atlim"
+"أتليم":"Atlim",
+
+
+
+
+
+
+
+
+"جامعة بهشة شهير في تركيا":"Türkiye'deki Bahçeşehir Üniversitesi",
+"معلومات عامة عن جامعة بهشة شهير":"Bahçeşehir Üniversitesi Hakkında Genel Bilgiler",
+"تقع جامعة بهتشه شهير في موقع متميز للغاية، فهي تقع في منطقة بشكتاش على حافة مضيق البوسفور بمدينة اسطنبول الجانب الأوروبي، يتميز موقع الجامعة بأنه يتواجد في منطقة حية يوجد بها كل ما يحتاجه الطالب من مواد دراسية ومناطق ترفيهية ووسائل المواصلات.":
+"Bahçeşehir Üniversitesi, son derece seçkin bir konumda yer almaktadır. İstanbul'un Avrupa yakasında, Boğaziçi kıyısındaki Beşiktaş bölgesinde bulunmaktadır. Üniversitenin konumu, öğrencilerin ihtiyaç duyduğu tüm eğitim materyalleri, eğlence alanları ve ulaşım imkanlarının bulunduğu hareketli bir bölgede olmasıyla dikkat çekmektedir.",
+"علم الأعصاب":"nöroloji",
+"أهداف الجامعة":"Üniversitenin Amaçları",
+"تهدف جامعة بهتشه شهير إلى أن تكون جامعة عالمية رائدة في البحث والتطوير، تركز على التميز في التعليم والمساهمة في المجتمع على المستوى المحلي والعالمي.":
+"Bahçeşehir Üniversitesi, araştırma ve geliştirme alanında öncü bir küresel üniversite olmayı hedeflemekte, eğitimde mükemmeliyeti esas alarak yerel ve uluslararası düzeyde topluma katkıda bulunmayı amaçlamaktadır.",
+
+"كما تهدف الجامعة إلى تخريج كوادر ذات كفاءة علمية ومهنية عالية تساهم في رفع المستوى المعيشي للأوطان والإنسانية، من خلال الدراسات العلمية المتفوقة، ونماذج التعليم المعاصرة التي تم تطويرها بناءً على أساليب وتقنيات التعليم الرائدة.":
+"Ayrıca üniversite, üstün bilimsel araştırmalar ve çağdaş eğitim modelleri ile geliştirilmiş öncü öğretim teknikleri sayesinde, ülkelerin ve insanlığın yaşam standartlarını yükseltmeye katkıda bulunacak yüksek bilimsel ve mesleki yeterliliğe sahip mezunlar yetiştirmeyi amaçlamaktadır.",
+
+"جامعة بهتشه شهير كانت من أوائل الجامعات التركية التي قدمت محاضراتها باللغة الإنجليزية، لذلك لا تزال تمثل أولوية لدى الطلاب من حيث جودة التعليم والحصول على تعليم متكامل باللغة الإنكليزية.":
+"Bahçeşehir Üniversitesi, derslerini İngilizce olarak sunan ilk Türk üniversitelerinden biri olmuştur. Bu nedenle, kaliteli eğitim ve tam donanımlı İngilizce eğitim alma açısından öğrenciler için hala öncelikli bir tercih olmaya devam etmektedir.",
+
+"تهدف الجامعة إلى البحث والتطوير ونشر المعرفة والوعي بين أفراد المجتمع بهدف رفع المستوى المعيشي والعلمي للأفراد.":
+"Üniversite, araştırma, geliştirme ve topluma bilgi ve farkındalık yaymayı amaçlayarak bireylerin yaşam ve eğitim seviyesini yükseltmeyi hedeflemektedir.",
+
+"لغات التدريس في جامعة بهتشه شهير؟":
+"Bahçeşehir Üniversitesi'nde eğitim dilleri nelerdir?",
+
+"اللغات المعتمدة في جامعة بهتشه شهير الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":
+"Bahçeşehir Üniversitesi'nde onaylı eğitim dilleri İngilizce veya Türkçedir. Bu durum, öğrencinin tercihine ve seçilen bölüme bağlı olarak belirlenir.",
+
+"اعترافات جامعة بهتشه شهير":
+"Bahçeşehir Üniversitesi'nin Tanınmaları",
+
+"جامعة بهتشه شهير (Bahçeşehir University) هي واحدة من الجامعات الخاصة الرائدة في تركيا، وتتمتع باعتمادات واعترافات دولية ومحلية تجعلها خيارًا جذابًا للطلاب من مختلف أنحاء العالم. إليك أهم المعلومات عن اعتماداتها واعترافاتها:":
+"Bahçeşehir Üniversitesi, Türkiye'nin önde gelen özel üniversitelerinden biridir ve uluslararası ve yerel akreditasyonlara sahiptir. Bu da onu dünyanın dört bir yanından gelen öğrenciler için cazip bir seçenek haline getirmektedir. İşte akreditasyonları ve tanınırlıkları hakkında önemli bilgiler:",
+
+"مجلس التعليم العالي التركي (YÖK): جميع برامج الجامعة معتمدة من قبل YÖK، مما يعني أن شهادتها معترف بها رسميًا داخل تركيا.":
+"Türkiye Yükseköğretim Kurulu (YÖK): Üniversitenin tüm programları YÖK tarafından akredite edilmiştir, bu da diplomasının Türkiye'de resmi olarak tanındığı anlamına gelir.",
+
+"الجامعة عضو في برامج مثل Erasmus+، الذي يتيح للطلاب فرص التبادل الأكاديمي في العديد من الجامعات الأوروبية.":
+"Üniversite, öğrencilerine birçok Avrupa üniversitesinde akademik değişim fırsatları sunan Erasmus+ gibi programların üyesidir.",
+
+"برامجها معترف بها في العديد من الدول، مما يجعلها خيارًا ممتازًا للطلاب الدوليين.":
+"Üniversitenin programları birçok ülkede tanınmaktadır, bu da onu uluslararası öğrenciler için mükemmel bir seçenek haline getirmektedir.",
+
+"توفر الجامعة لطلابها سكن خاص بهم على مساحة 4000 م2. يتضمن سكن منفصل خاص بالشباب، وسكن منفصل خاص للفتيات.":
+"Üniversite, öğrencilerine 4000 metrekarelik bir alanda özel yurt imkanı sunmaktadır. Erkek öğrenciler ve kız öğrenciler için ayrı yurtlar bulunmaktadır.",
+
+"السكن الأول هو سكن يونيهال Unihall":
+"İlk yurt, Unihall Yurdu'dur.",
+
+"يمكنه استضافة حوالي 400 طالب.":
+"Yaklaşık 400 öğrenciye ev sahipliği yapabilir.",
+
+
+"يوجد به مرافق خدمية مثل المقاهي والمطاعم والمحلات والأسواق التجارية.":
+"Hizmet tesisleri arasında kafeler, restoranlar, mağazalar ve ticari pazarlar bulunmaktadır.",
+
+"مراقب طوال اليوم عبر الكاميرات.":
+"Gün boyu kameralarla izlenmektedir.",
+
+"السكن الثاني هو سكن بيشكتاش للفتيات":
+"İkinci yurt, Beşiktaş Kız Yurdu’dur.",
+
+"يقع بالقرب من حرم بتشكتاش.":
+"Beşiktaş kampüsüne yakın bir konumda bulunmaktadır.",
+
+"يتميز التصميم المعماري لهذا السكن بالأناقة والعصرية.":
+"Bu yurdun mimari tasarımı şık ve modern bir yapıya sahiptir.",
+
+"يتوفر به خدمات أساسية متنوعة مثل المطاعم والكافيهات، وغرف الغسيل والتنظيف.":
+"Restoranlar, kafeler, çamaşır ve temizlik odaları gibi çeşitli temel hizmetler sunmaktadır.",
+
+"مزود بكاميرات مراقبة 24 ساعة، وأنظمة إنذار الحريق.":
+"24 saat güvenlik kameraları ve yangın alarm sistemleri ile donatılmıştır.",
+
+"مميزات الدراسة في جامعة بهتشه شهير":
+"Bahçeşehir Üniversitesi'nde okumanın avantajları",
+
+"توفر الجامعة لطلابها تدريبات الإبحار، فهي تمتلك عدة قوارب لذاك. كما أنها تنظم كل عام بطولة تقليدية لكرة القدم يشارك في العديد من الفرق.":
+"Üniversite, öğrencilerine yelken eğitimi sunmaktadır. Bunun için birkaç tekneye sahiptir. Ayrıca her yıl birçok takımın katıldığı geleneksel bir futbol turnuvası düzenlemektedir.",
+
+"تهتم الجامعة أيضًا بتنظيم العديد من المهرجانات والحفلات والرحلات البحرية، وإقامة الكثير من المؤتمرات في قاعات مجهزة لذلك.":
+"Üniversite ayrıca birçok festival, parti ve gemi gezisi düzenlemekte ve bu amaçla donatılmış salonlarda çeşitli konferanslar gerçekleştirmektedir.",
+
+"تهتم جامعة بهتشه شهير بتقديم العديد من الخدمات والأنشطة الترفيهية لطلابها، حيث تحتوي الجامعة على عدٍد من الملاعب الرياضية لكرة القدم والسلة وتنس الطاولة.":
+"Bahçeşehir Üniversitesi, öğrencilerine birçok eğlence hizmeti ve aktivite sunmaya özen göstermektedir. Üniversite bünyesinde futbol, basketbol ve masa tenisi sahaları bulunmaktadır.",
+
+"حصلت فرق الجامعة الرياضية المختلفة على مراكز متقدمة في المسابقات الرياضية، فعلى سبيل المثال، حصل فريق كرة السلة للرجال على لقب بطل تركيا لأعوام 2007-2008-2009-2010-2011.":
+"Üniversitenin çeşitli spor takımları, spor müsabakalarında önemli dereceler elde etmiştir. Örneğin, erkek basketbol takımı 2007-2008-2009-2010-2011 yıllarında Türkiye Şampiyonu unvanını kazanmıştır.",
+"الأوراق المطلوبة للتقديم على جامعة بهتشه شهير":
+"Bahçeşehir Üniversitesi'ne başvuru için gerekli belgeler:",
+
+"تقدم الجامعة جلسات إرشاد نفسي مجانية للطلاب والأكاديميين والموظفين في الجامعة، من خلال مركز الإرشاد والدعم النفسي في حرم الجامعة في منطقة بشيكتاش.":
+"Üniversite, öğrenciler, akademisyenler ve çalışanlar için, Beşiktaş kampüsündeki Rehberlik ve Psikolojik Destek Merkezi aracılığıyla, ücretsiz psikolojik danışmanlık seansları sunmaktadır.",
+
+"وجود مركز تدريب BAU HUB لإنتاج وصناعة الألعاب وتطوير المشاريع الناشئة المتعلقة بالتكنولوجيا والذكاء الصناعي وتقديم محاضرات وندوات من قبل خبراء لتطوير أفكار الطلبة في ذات المجال.":
+"Oyun üretimi ve geliştirme, teknoloji ve yapay zeka ile ilgili yenilikçi projelerin desteklenmesi amacıyla, BAU HUB eğitim merkezi bulunmaktadır. Öğrencilerin fikirlerini geliştirmek için, uzmanlar tarafından seminerler ve dersler verilmektedir.",
+
+"تحتوي على مكتبة بارباروس والتي تدعم برامج التعليم والبحث في الجامعة وتضمن وصول مستخدميها إلى المعلومات الصحيحة والدقيقة وفقاً للعديد من المراجع والأبحاث.":
+"Üniversitenin eğitim ve araştırma programlarını destekleyen, ve kullanıcılarına birçok referans ve araştırma kaynağına dayanarak, doğru ve güvenilir bilgiye erişim sağlayan, Barbaros Kütüphanesi bulunmaktadır.",
+
+"تتميز الجامعة بطاقمها الأكاديمي والإداري المتميز الذي وصل إلى ما يقرب من 1360 أكاديمي بعضهم تم إدراجه في قائمة العلماء الأكثر تأثيراً على مستوى العالم.":
+"Üniversite, yaklaşık 1360 akademisyenden oluşan, seçkin akademik ve idari kadrosu ile öne çıkmaktadır. Bu akademisyenlerden bazıları, dünya çapında en etkili bilim insanları listesine dahil edilmiştir.",
+
+"تقدم الجامعة مناهج دراسية متطورة، تواكب التطورات العلمية العالمية ويتم تدريسها بأساليب تعليمية حديثة.":
+"Üniversite, küresel bilimsel gelişmelere ayak uyduran, ve modern öğretim yöntemleriyle verilen, gelişmiş ders müfredatları sunmaktadır.",
+
+"كليات وتخصصات جامعة بهتشه شهير":
+"Bahçeşehir Üniversitesi Fakülteleri ve Bölümleri:",
+
+"العلاج الطبيعي، إعادة التأهيل.":
+"Fizyoterapi ve Rehabilitasyon.",
+
+"هندسة نظم الطاقة":
+"Enerji Sistemleri Mühendisliği.",
+
+"هندسة الإدارة":
+"Yönetim Mühendisliği.",
+
+"الاقتصاد والمالية":
+"Ekonomi ve Finans.",
+
+"إدارة الخدمات اللوجستية":
+"Lojistik Yönetimi.",
+
+"التمويل الدولي":
+"Uluslararası Finans.",
+
+"تصميم الألعاب الرقمية":
+"Dijital Oyun Tasarımı.",
+
+"الاتصال والتصميم":
+"İletişim ve Tasarım.",
+
+"الدعاية، و الإعلان.":
+"Reklamcılık ve Tanıtım.",
+
+"السينما والتلفزيون":
+"Sinema ve Televizyon.",
+
+"علم الأحياء الجزيئي، وعلم الوراثة":
+"Moleküler Biyoloji ve Genetik.",
+
+"تدريس تقنيات الحاسوب، والتعليم":
+"Bilgisayar Teknolojileri ve Eğitim Öğretimi.",
+
+"تدريس اللغة الإنجليزية":
+"İngilizce Öğretmenliği.",
+
+"معلم رياض الأطفال":
+"Okul Öncesi Öğretmenliği.",
+
+"الإعلام الجديد، الاتصال، و الصحافة.":
+"Yeni Medya, İletişim ve Gazetecilik.",
+
+
+
+"ماجستير مع أطروحة.":
+"Tezli Yüksek Lisans.",
+
+"الإدارة الصحية.":
+"Sağlık Yönetimi.",
+"الإدارة الرياضية،":
+"رياض Yönetimi.",
+
+
+
+"التكنولوجيا المالية،":
+"Finansal Teknoloji.",
+
+"ريادة الأعمال، وإدارة الابتكار،":
+"Girişimcilik ve İnovasyon Yönetimi.",
+
+"الأمن المعلوماتي، والسيبراني،":
+"Bilgi ve Siber Güvenlik.",
+
+"تكنولوجيا تشغيل نظم الطاقة،":
+"Enerji Sistemleri İşletme Teknolojisi.",
+
+"الإدارة الهندسية،":
+"Mühendislik Yönetimi.",
+
+"تقنيات الصوت،":
+"Ses Teknolojileri.",
+
+"الإرشاد النفسي، والتوجيه،":
+"Psikolojik Danışmanlık ve Rehberlik.",
+
+"فني صناعة،":
+"Endüstri Teknisyeni.",
+
+"الأسواق الكبرى، والمالية،":
+"Büyük Pazarlar ve Finans.",
+
+"علوم السياسة العالمية، والعلاقات الدولية،":
+"Küresel Siyaset Bilimi ve Uluslararası İlişkiler.",
+
+"الدعاية، وإدارة تواصل العلامات التجارية،":
+"Reklamcılık ve Marka İletişimi Yönetimi.",
+
+"الأسواق الكبرى، وقانون التجارة،":
+"Büyük Pazarlar ve Ticaret Hukuku.",
+
+"قانون تكنولوجيا المعلومات،":
+"Bilişim Hukuku.",
+
+"تصميم الاتصالات،":
+"İletişim Tasarımı.",
+
+"التصميم، والتقييم التعليمي،":
+"Eğitim Tasarımı ve Değerlendirme.",
+
+"سلسلة التوريد، والإدارة اللوجستية،":
+"Tedarik Zinciri ve Lojistik Yönetimi.",
+
+"إدارة وسائل الإعلام الرقمية،":
+"Dijital Medya Yönetimi.",
+
+"تحليل البيانات الكبيرة، وإدارتها،":
+"Büyük Veri Analizi ve Yönetimi.",
+
+"إدارة البناء،":
+"İnşaat Yönetimi.",
+
+"تقنيات تطوير الألعاب،":
+"Oyun Geliştirme Teknolojileri.",
+
+"إدارة الأعمال التنفيذية،":
+"Yönetici İşletme Yönetimi.",
+
+"إدارة الموارد البشرية،":
+"İnsan Kaynakları Yönetimi.",
+
+"ماجستير بدون أطروحة،":
+"Tezsiz Yüksek Lisans.",
+
+"تدريس اللغة الإنجليزية،":
+"İngilizce Öğretimi.",
+
+"التاريخ،":
+"Tarih.",
+
+"الهندسة الحيوية،":
+"Biyomühendislik.",
+
+"علم الأعصاب،":
+"Nöroloji.",
+
+"السينما، ودراسات الإعلام،":
+"Sinema ve Medya Çalışmaları.",
+
+"شهادة الماجستير،":
+"Yüksek Lisans Diploması.",
+
+"بكالوريوس،":
+"Lisans.",
+
+"بهتشه شهير،":
+"Bahçeşehir.",
+
+
+
+"الإنجليزية،":
+"İngilizce.",
+
+"الموسيقى،":
+"Müzik.",
+"الخدمات المصرفية، والمالية.":
+"Bankacılık ve Finans Hizmetleri.",
+
+"بكالوريس":
+"Lisans",
+
+"بهتشه شهير":
+"Bahçeşehir",
+
+"الدعاية و الإعلان":
+"Reklamcılık ve Tanıtım",
+
+"الإعلام الجديد و الاتصال و الصحافة":
+"Yeni Medya, İletişim ve Gazetecilik",
+
+"علم الأحياء الجزيئي وعلم الوراثة":
+"Moleküler Biyoloji ve Genetik",
+
+"تدريس تقنيات الحاسوب والتعليم":
+"Bilgisayar Teknolojisi Öğretimi ve Eğitimi",
+
+"ماجستير مع اطروحة":
+"Tezli Yüksek Lisans",
+
+"الإدارة الصحية":
+"Sağlık Yönetimi",
+
+"التاريخ":
+"Tarih",
+
+"الموسيقى":
+"Müzik",
+
+"الإدارة الرياضية":
+"Spor Yönetimi",
+
+"العلاج الطبيعي إعادة التأهيل":
+"Fizyoterapi ve Rehabilitasyon",
+
+"الإرشاد النفسي العائلي":
+"Aile Psikolojik Danışmanlığı",
+
+"التكنلوجيا المالية":
+"Finansal Teknoloji",
+
+"ريادة الأعمال و إدارة الابتكار":
+"Girişimcilik ve İnovasyon Yönetimi",
+
+"الانجليزيه":
+"İngilizce",
+
+"الأمن المعلوماتي و السيبراني":
+"Bilgi ve Siber Güvenlik",
+
+"تكنلوجيا تشغيل نظم الطاقة":
+"Enerji Sistemleri İşletme Teknolojisi",
+
+"الإدارة الهندسية":
+"Mühendislik Yönetimi",
+
+"الإرشاد النفسي و التوجيه":
+"Psikolojik Danışmanlık ve Rehberlik",
+
+"فني صناعة":
+"Endüstri Teknisyeni",
+
+"الدعاية و إدارة تواصل العلامات التجارية":
+"Reklamcılık ve Marka İletişimi Yönetimi",
+
+"الأسواق الكبرى و قانون التجارة":
+"Büyük Pazarlar ve Ticaret Hukuku",
+
+"قانون تكنلوجيا المعلومات":
+"Bilgi Teknolojisi Hukuku",
+
+"إدارة الموارد البشرية":
+"İnsan Kaynakları Yönetimi",
+
+"تقنيات تطوير الألعاب":
+"Oyun Geliştirme Teknikleri",
+
+"إدارة الأعمال التنفيذية":
+"Yönetici İşletme Yönetimi",
+
+"تحليل لبيانات الكبيرة وادارتها":
+"Büyük Veri Analizi ve Yönetimi",
+
+"ادارة البناء":
+"İnşaat Yönetimi",
+
+"إدارة وسائل الإعلام الرقمية":
+"Dijital Medya Yönetimi",
+
+"التصميم و التقييم التعليمي":
+"Eğitim Tasarımı ve Değerlendirmesi",
+
+"تصميم الاتصالات":
+"İletişim Tasarımı",
+
+"ماجستير بدون اطروحة":
+"Tezsiz Yüksek Lisans",
+
+"تدريس اللغة الانجليزية":
+"İngilizce Öğretmenliği",
+
+"تقنيات الصوت":
+"Ses Teknolojileri",
+
+"الأسواق الكبرى و المالية":
+"Büyük ve Finansal Pazarlar",
+
+"علوم السياسة العالمية و العلاقات الدولية":
+"Küresel Siyaset Bilimi ve Uluslararası İlişkiler",
+
+"سلسلة التوريد والإدارة اللوجستية":
+"Tedarik Zinciri ve Lojistik Yönetimi",
+
+"السينما و دراسات الإعلام":
+"Sinema ve Medya Çalışmaları",
+
+
+
+
+
+
+
+
+"جامعة بيكنت في تركيا":"Beykent Üniversitesi Türkiye'de",
+"معلومات عامة عن جامعة بيكنت":"Beykent Üniversitesi hakkında genel bilgiler",
+"تقع جامعة بيكنت في مدينة اسطنبول في الجانب الأوروبي منها، وتمتلك أربعة حرم جامعية مجهزة على أعلى مستوى وتقع في المناطق المركزية في اسطنبول":"Beykent Üniversitesi, İstanbul şehrinin Avrupa yakasında yer alır. Dört kampüsü vardır ve en üst düzeyde donatılmış olup İstanbul'un merkezi bölgelerinde bulunur.",
+"حرم أيازاغا-مسلك":"Ayazağa-Maslak Kampüsü",
+"الحرم الجامعي":"Kampüs",
+"وهو الحرم الرئيسي لجامعة بيكنت ويقع في ساريير باسطنبول، ويضم كليات الهندسة والعمارة، والفنون الجميلة، والاتصال، إضافة إلى ورش العمل، والمختبرات، والمطاعم، والمقاهي، والمكتبة":"Beykent Üniversitesi'nin ana kampüsüdür ve İstanbul'un Sarıyer ilçesinde yer alır. Mühendislik, mimarlık, güzel sanatlar ve iletişim fakültelerinin yanı sıra atölyeler, laboratuvarlar, restoranlar, kafeler ve kütüphane bulunur.",
+"حرم بيليك دوزو":"Beylikdüzü Kampüsü",
+"يقع حرم بيليك في بيوك تشكمجة وهو يضم العديد من كليات جامعة بيكنت، فهو يضم كليتي الطب البشري، وطب الأسنان، وكلية الآداب والعلوم، وكلية العلوم الصحية، وكلية العلوم التطبيقية، وبالإضافة إلى مدرسة اللغات الأجنبية.":"Belek Kampüsü, Büyükçekmece'de yer alır ve Beykent Üniversitesi'nin birçok fakültesini barındırır. İnsan Tıbbı ve Diş Hekimliği Fakülteleri, Fen-Edebiyat Fakültesi, Sağlık Bilimleri Fakültesi, Uygulamalı Bilimler Fakültesi ve Yabancı Diller Okulu bulunur.",
+"حرم هاديمكوي":"Hadımköy Kampüsü",
+"تم تأسيس حرم هاديمكوي في العام الدراسي 2017-2018 وهو يقع في مقاطعة إسنيورت باسطنبول ويضم كلية الاقتصاد والعلوم الإدارية،والمدرسة المهنية، كما يضم قاعة خاصة للقراءة وقاعة للمعارض.":"Hadımköy Kampüsü, 2017-2018 akademik yılında kurulmuştur ve İstanbul'un Esenyurt ilçesinde yer alır. İktisadi ve İdari Bilimler Fakültesi, Meslek Yüksekokulu, özel bir okuma salonu ve sergi salonu bulunur.",
+"لغات التدريس في جامعة بيكنت؟":"Beykent Üniversitesi'nde öğretim dilleri?",
+"اللغات المعتمدة في جامعة بيكنت الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":"Beykent Üniversitesi'nde onaylanan diller İngilizce veya Türkçe'dir. Bu, gerekli uzmanlığa ve öğrencinin seçimine göre belirlenir.",
+"اعترافات جامعة بيكنت":"Beykent Üniversitesi İtirafları",
+"جامعة بيكنت (Beykent University) هي جامعة خاصة في تركيا معروفة بجودة برامجها الأكاديمية وتعدد تخصصاتها. فيما يلي ملخص حول الاعتمادات والاعترافات الخاصة بالجامعة:":"Beykent Üniversitesi, Türkiye'de akademik programlarının kalitesi ve uzmanlık alanlarının çeşitliliği ile tanınan özel bir üniversitedir. Aşağıda üniversitenin akreditasyonları ve tanınmaları hakkında bir özet bulunmaktadır:",
+"جميع برامج جامعة بيكنت معتمدة من قبل مجلس التعليم العالي في تركيا.":"Beykent Üniversitesi'nin tüm programları Türkiye Yükseköğretim Kurulu (YÖK) tarafından akredite edilmiştir.",
+"جامعة بيكنت تسعى باستمرار لتطوير برامجها الأكاديمية بما يتماشى مع المعايير الدولية.":"Beykent Üniversitesi, akademik programlarını uluslararası standartlara uygun şekilde geliştirmek için sürekli çaba göstermektedir.",
+"العديد من الدول تعترف بشهادات الجامعة، خاصة تلك التي لديها اتفاقيات ثنائية تعليمية مع تركيا.":"Birçok ülke, özellikle Türkiye ile ikili eğitim anlaşmaları olanlar, üniversite derecelerini tanır.",
+"يمكن للطلاب الدوليين التحقق من الاعتراف بشهادة الجامعة في بلدانهم من خلال السفارات أو الجهات التعليمية الرسمية.":"Uluslararası öğrenciler, üniversite derecelerinin kendi ülkelerinde tanınmasını büyükelçilikler veya resmi eğitim kurumları aracılığıyla doğrulayabilir.",
+"الجامعة عضو نشط في برنامج إيراسموس+ (Erasmus+)، الذي يسمح للطلاب بالدراسة في العديد من الجامعات الأوروبية لفصل دراسي أو عام كامل.":"Üniversite, öğrencilerin bir dönem veya bir tam yıl boyunca birçok Avrupa üniversitesinde eğitim almalarına olanak tanıyan Erasmus+ programının aktif bir üyesidir.",
+"تقدم جامعة بيكنت خدماتها التعليمية بأحدث الطرق والنظم التعليمية داخل بيئة تعليمية فعالة تساعد الطلاب على البحث والابتكار تحت إشراف طاقم أكاديمي قوي من الأساتذة والخبراء":"Beykent Üniversitesi, öğrencilerin araştırma yapmasına ve yenilikçi fikirler geliştirmesine yardımcı olan etkili bir eğitim ortamında en son eğitim yöntemleri ve sistemleri kullanarak eğitim hizmetleri sunar. Bu süreç, güçlü bir akademik kadro ve uzmanların gözetiminde gerçekleşir.",
+"تمتلك الجامعة أكثر من 10 مراكز أبحاث ومركز للتعلم المستمر والتوظيف ومركز التعليم عن بعد":"Üniversitenin 10'dan fazla araştırma merkezi, sürekli öğrenme ve istihdam merkezi ve uzaktan eğitim merkezi bulunmaktadır.",
+"تضم جامعة بيكنت أكثر من 100 مجتمع طلابي تغطي مختلف المجالات ليستطيع الطلابة ممارسة هواياتهم المفضلة والمشاركة في الأنشطة الطلابية المختلفة":"Beykent Üniversitesi, öğrencilerin favori hobilerini uygulayabilecekleri ve çeşitli öğrenci etkinliklerine katılabilecekleri 100'den fazla öğrenci topluluğuna sahiptir.",
+"مساعدة الطلاب على إنشاء سيرتهم الذاتية خلال فترة الدراسة ومنح الطلاب فرصة للعمل كطلاب مساعدين في الخدمات الإدارية":"Öğrencilere eğitim süreçleri boyunca CV oluşturma konusunda yardımcı olunur ve idari hizmetlerde öğrenci asistanı olarak çalışma fırsatı sunulur.",
+"خدمات التدريب المهني من خلال التعاون مع الرواد في مختلف قطاعات الصناعة والأعمال لتوفير فرص التدريب للطلاب خلال فترة الدراسة بالإضافة إلى تمكين الطلاب من إنشاء المشاريع المبتكرة":"Çeşitli endüstri ve iş sektörlerindeki öncülerle iş birliği yaparak öğrencilere eğitim süreçleri boyunca staj imkanları sunulur ve öğrencilerin yenilikçi projeler oluşturmaları sağlanır.",
+"مميزات الدراسة في جامعة بيكنت":"Beykent Üniversitesi'nde Eğitimin Avantajları",
+"4 أحرم جامعية متمركزة في أشهر المناطق الاستراتيجية على الجانبي الآسيوي والأوروبي لمدينة إسطنبول.":"İstanbul'un Asya ve Avrupa yakalarındaki en ünlü stratejik bölgelerde konumlanmış 4 kampüs.",
+"تحتوي الجامعة على مكتبة ضخمة تضم مراجع وكتب وأوراق بحثية.":"Üniversite, referanslar, kitaplar ve araştırma makaleleri içeren büyük bir kütüphaneye sahiptir.",
+"يعتبر القسم الأوروبي من مدينة اسطنبول والتي تقع فيها الجامعة مركز لأغلب المناطق السياحية وباعتبار الجامعة تمتلك العديد من الأحرام الجامعية فلكل حرم جامعي له ميزته في الحرم الجامعي الموجود في مسلك وتقسيم يعتبر الأفضل من ناحية الترفيه":"Üniversitenin bulunduğu İstanbul'un Avrupa yakası, çoğu turistik bölgenin merkezi olarak kabul edilir. Üniversitenin birden fazla kampüsü olduğu için her kampüsün kendi avantajı vardır. Maslak ve Taksim'deki kampüsler, eğlence açısından en iyi olarak kabul edilir.",
+"تقدم الجامعة فرص متساوية للطلاب ذوي الاحتياجات الخاصة في التحصيل العلمي والمشاركة في الأنشطة الاجتماعية والثقافية.":"Üniversite, özel ihtiyaçları olan öğrencilere akademik başarı ve sosyal ve kültürel etkinliklere katılım konusunda eşit fırsatlar sunar.",
+"الأوراق المطلوبة للتقديم على جامعة بيكنت":"Beykent Üniversitesi'ne Başvuru İçin Gerekli Belgeler",
+"كليات وتخصصات جامعة بيكنت":"Beykent Üniversitesi Fakülteleri ve Uzmanlık Alanları",
+"التجارة الدولية":"Uluslararası Ticaret",
+"الصحة والسلامة المهنية":"İş Sağlığı ve Güvenliği",
+"الخدمات المصرفية و المالية":"Bankacılık ve Finansal Hizmetler",
+"العمل الاجتماعي":"Sosyal Hizmet",
+"تقنيات مخابر الأمراض":"Patoloji Laboratuvar Teknikleri",
+"خدمات الصيدلة":"Eczacılık Hizmetleri",
+"الخدمات اللوجستية":"Lojistik Hizmetleri",
+"تصميم الأزياء":"Moda Tasarımı",
+"الترجمة التطبيقية":"Uygulamalı Çeviri",
+"برمجة الراديو و التلفزيون":"Radyo ve Televizyon Programcılığı",
+"إدارة المنشآت الصحية":"Sağlık Tesisleri Yönetimi",
+"خدمات قمرة الطيران المدني":"Sivil Havacılık Kokpit Hizmetleri",
+"الهندسة الكيميائية":"Kimya Mühendisliği",
+"الفنون المسرحية":"Sahne Sanatları",
+"العمارة الداخلية":"İç Mimarlık",
+"العلوم المالية والمصرفية":"Finans ve Bankacılık Bilimleri",
+"سوق رأس المال":"Sermaye Piyasası",
+"الترجمة الروسية والترجمة الفورية":"Rusça Çeviri ve Simultane Tercüme",
+"اللغة التركية وآدابها":"Türk Dili ve Edebiyatı",
+"تصميم الاتصالات المرئية":"Görsel İletişim Tasarımı",
+"وسائل الإعلام والاتصالات الجديدة":"Yeni Medya ve İletişim",
+"البرمجة والصحافة التلفزيونية":"Radyo ve Televizyon Programcılığı",
+"الإدارة والتنظيم":"Yönetim ve Organizasyon",
+"هندسة الزلازل والإنشاءات":"Deprem Mühendisliği ve İnşaat",
+"الفن و التصميم":"Sanat ve Tasarım",
+"بيكنت":"Beykent",
+"إدارة النقل في الطيران المدني":"Sivil Havacılıkta Ulaşım Yönetimi",
+"توفر جامعة بيكنت سكن طلابي حديث منفصل للطلاب والطالبات، يقع فيمنطقة أيازاغا ويبعد فقط عشر دقائق من الحرم الجامعي أيازاغا – مسلك. يوفر السكن للطلابي بيئة مريحة وآمنة للطلاب ويقدم لهم كافة الخدمات والمرافق والمساحات المشتركة حيث يستطيع الطلاب المذاكرة أو اللعب والاستمتاع باوقات فراغهم.":"Beykent Üniversitesi, Ayazağa bölgesinde bulunan ve Ayazağa - Maslak kampüsüne sadece on dakika uzaklıkta olan, erkek ve kız öğrenciler için ayrı modern öğrenci yurtları sunar. Öğrenci yurtları, öğrencilere rahat ve güvenli bir ortam sağlar ve öğrencilerin ders çalışabileceği, oynayabileceği ve boş zamanlarını değerlendirebileceği tüm hizmetleri, olanakları ve ortak alanları sunar.",
+"هندسة الحاسوب":"Bilgisayar Mühendisliği",
+
+
+
+
+
+
+
+"جامعة بيكوز في تركيا" : "Beykoz Üniversitesi Türkiye'de",
+"معلومات عامة عن جامعة بيكوز" : "Beykoz Üniversitesi hakkında genel bilgiler",
+"تحتل جامعة بيكوز موقع استراتيجي مميز في اسطنبول، حيث تقع بمنطقة بيكوز وتطل على مضيق البوسفور الخلاب." : "Beykoz Üniversitesi, İstanbul'da Beykoz bölgesinde bulunan ve muhteşem Boğaziçi'ne bakan stratejik bir konuma sahiptir.",
+"تمتلك جامعة بيكوز 5 أحرم جامعية أشبه بتحفة معمارية وفنية، وكل حرم منهم مزود بأحدث التقنيات والمرافق والخدمات." : "Beykoz Üniversitesi, mimari ve sanatsal bir şahesere benzeyen 5 kampüse sahiptir ve her biri en son teknolojiler, tesisler ve hizmetlerle donatılmıştır.",
+"اعترافات جامعة بيكوز" : "Beykoz Üniversitesi'nin Tanınması",
+"جامعة بيكوز (Beykoz University) هي جامعة خاصة في تركيا، تأسست حديثًا نسبيًا مقارنة بالجامعات الأخرى. رغم ذلك، تسعى الجامعة لتقديم تعليم عالي الجودة معترف به محليًا ودوليًا. فيما يلي تفاصيل حول اعتمادات واعترافات جامعة بيكوز:" : "Beykoz Üniversitesi (Beykoz University), diğer üniversitelere kıyasla nispeten yeni kurulmuş bir özel üniversitedir. Bununla birlikte, üniversite yerel ve uluslararası düzeyde tanınan yüksek kaliteli bir eğitim sunmayı hedeflemektedir. İşte Beykoz Üniversitesi'nin akreditasyonları ve tanınması hakkında detaylar:",
+"جميع برامج جامعة بيكوز معتمدة من قبل مجلس التعليم العالي التركي(YÖK)، مما يعني أن شهاداتها معترف بها داخل تركيا." : "Beykoz Üniversitesi'nin tüm programları, Türkiye Yükseköğretim Kurulu (YÖK) tarafından akredite edilmiştir, bu da derecelerinin Türkiye içinde tanındığı anlamına gelir.",
+"شهادة الجامعة معترف بها في العديد من الدول، خصوصًا تلك التي تربطها اتفاقيات تعليمية مع تركيا." : "Üniversite diploması, özellikle Türkiye ile eğitim anlaşmaları olan birçok ülkede tanınmaktadır.",
+"الجامعة تعمل على توسيع شبكتها الدولية من خلال شراكات مع جامعات ومؤسسات أكاديمية حول العالم." : "Üniversite, dünya çapında üniversiteler ve akademik kurumlarla ortaklıklar kurarak uluslararası ağını genişletmektedir.",
+"تعتمد جامعة بيكوز على النظام الأوروبي لتحويل الساعات الدراسية (ECTS)، مما يسهل انتقال الطلاب إلى الجامعات الأوروبية ويضمن الاعتراف بالدورات والشهادات." : "Beykoz Üniversitesi, Avrupa Kredi Transfer Sistemi'ne (ECTS) dayanmaktadır, bu da öğrencilerin Avrupa üniversitelerine geçişini kolaylaştırır ve derslerin ve derecelerin tanınmasını sağlar.",
+"لغات التدريس في جامعة بيكوز؟" : "Beykoz Üniversitesi'nde eğitim dilleri?",
+"اللغات المعتمدة في جامعة بيكوز الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب." : "Beykoz Üniversitesi'nde onaylanan diller İngilizce veya Türkçe'dir ve bu, gerekli uzmanlık alanına ve öğrencinin seçimine göre belirlenir.",
+"الهدف الأول أن تكون الجامعة رقم واحد في جميع التخصصات العلمية." : "İlk hedef, tüm bilimsel disiplinlerde bir numaralı üniversite olmaktır.",
+"أهداف جامعة بيكوز هي:" : "Beykoz Üniversitesi'nin hedefleri şunlardır:",
+"الإبداع في برامجها التعليمية وتطويرها وخلق روح المنافسة بين" : "Eğitim programlarında yaratıcılık, onları geliştirme ve rekabet ruhu oluşturma",
+"العمل على دعم البحث العلمي للطلاب الموهوبين." : "Yetenekli öğrenciler için bilimsel araştırmaları destekleme çalışmaları.",
+"تقدم جامعة بيكنت خدماتها التعليمية بأحدث الطرق والنظم التعليمية العمل على نشر الأعمال الطلابية بشتى تخصصاتها وذلك دعما للطلاب وزيادة ثقتهم بأنفسهم." : "Beykent Üniversitesi, eğitim hizmetlerini en son eğitim yöntemleri ve sistemleriyle sunar, öğrencileri desteklemek ve özgüvenlerini artırmak için çeşitli uzmanlık alanlarındaki öğrenci çalışmalarını yayınlamaya çalışır.",
+"وهي تدعم المجال الرياضي للطلاب من خلال دعم القطاع الرياضي في الجامعة." : "Üniversitedeki spor sektörünü destekleyerek öğrencilerin spor alanını desteklemektedir.",
+"احترام حقوق الإنسان وحرية الأفراد" : "İnsan haklarına ve bireysel özgürlüklere saygı",
+"مميزات الدراسة في جامعة بيكوز" : "Beykoz Üniversitesi'nde okumanın avantajları",
+"حصول جامعة بيكوز على اعتماد من قبل YÖK مجلس التعليم العالي التركي، وهو المجلس المختص باعتماد الجامعات." : "Beykoz Üniversitesi, üniversiteleri akredite etmekle görevli kurum olan Türkiye Yükseköğretim Kurulu (YÖK) tarafından akredite edilmiştir.",
+"تتسم بسمعة طيبة في برامجها التعليمية." : "Eğitim programlarıyla iyi bir itibara sahiptir.",
+"تعتمد الجامعة على التعليم العملي لا النظري؟ من خلال توفير تدريبات عملية في مجالات مختلفة." : "Üniversite teorik değil, pratik eğitime mi dayanıyor? Farklı alanlarda pratik eğitimler sağlayarak.",
+"تمتلك الجامعة طاقم تدريسي ذو خبرة وكفاءة عالية." : "Üniversite, deneyimli ve yüksek nitelikli bir öğretim kadrosuna sahiptir.",
+"جامعة رائدة في مجال البحث العلمي حيث تضم 4 مراكز وهم مركز تعلم اللغة التركية، مركز التعليم عن بعد، مركز التعليم مدى الحياة، مركز الأبحاث اللوجستية." : "Bilimsel araştırma alanında öncü bir üniversite olup, 4 merkez içermektedir: Türkçe Öğrenme Merkezi, Uzaktan Eğitim Merkezi, Yaşam Boyu Eğitim Merkezi ve Lojistik Araştırmalar Merkezi.",
+"الأوراق المطلوبة للتقديم على جامعة بيكوز" : "Beykoz Üniversitesi'ne başvurmak için gerekli belgeler",
+"كليات وتخصصات جامعة بيكوز" : "Beykoz Üniversitesi'nin Fakülteleri ve Uzmanlık Alanları",
+"إدارة الموانئ البحرية" : "Deniz Limanları Yönetimi",
+"التسويق الرقمي" : "Dijital Pazarlama",
+"الرسوم المتحركة والرسوم المتحركة" : "Animasyon ve Çizgi Film",
+"الذكاء الاصطناعي" : "Yapay Zeka",
+"بيكوز" : "Beykoz",
+"الإنجليزية" : "İngilizce",
+"الاأنجليزية":"İngilizce",
+
+
+
+
+
+
+
+"جامعة بيروني في تركيا":"Biruni Üniversitesi Türkiye'de",
+"معلومات عامة عن جامعة بيروني":"Biruni Üniversitesi hakkında genel bilgiler",
+"تقع جامعة بيروني بمدينة اسطنبول الطرف الأوروبي":"Biruni Üniversitesi, İstanbul'un Avrupa yakasında yer almaktadır",
+"يقع الحرم الجامعي الرئيسي والوحيد لجامعة بيروني في الجانب الأوروبي من مدينة اسطنبول في منطقة زيتون بورنو. يضم كافة كليات الجامعة ويمكن الوصول إليه بسهولة باستخدام وسائل النقل العام":"Biruni Üniversitesi'nin tek ve ana kampüsü, İstanbul'un Avrupa yakasında Zeytinburnu bölgesinde bulunmaktadır. Üniversitenin tüm fakültelerini içermekte ve toplu taşıma ile kolayca ulaşılabilmektedir.",
+"لغات التدريس في جامعة بيروني ؟":"Biruni Üniversitesi'nde eğitim dilleri?",
+"اللغات المعتمدة في جامعة بيروني الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":"Biruni Üniversitesi'nde eğitim dilleri İngilizce veya Türkçe olup, bu durum öğrencinin seçtiği bölüme ve tercihine göre belirlenir.",
+"اعترافات جامعة بيروني":"Biruni Üniversitesi'nin tanınırlığı",
+"جامعة البيروني هي جامعة خاصة في تركيا، معترف بها من قبل مجلس التعليم العالي التركي (YÖK)، مما يضمن أن شهاداتها معترف بها محليًا ودوليًا. تحظى الجامعة باعترافات واعتمادات من عدة دول ومؤسسات دولية، بما في ذلك الاتحاد الأوروبي والعديد من الدول العربية مثل مصر، اليمن، لبنان، وليبيا. كما أنها عضو في منظمات تعليمية دولية مثل NAFSA (جمعية التعليم الدولي) وEAIE (الرابطة الأوروبية للتعليم الدولي)، مما يعزز من فرص التعاون الأكاديمي والتبادل الدولي.":"Biruni Üniversitesi, Türkiye'de özel bir üniversitedir ve Türk Yükseköğretim Kurulu (YÖK) tarafından tanınmaktadır. Bu, üniversitenin derecelerinin hem yerel hem de uluslararası düzeyde tanındığını garanti eder. Üniversite, Avrupa Birliği ve Mısır, Yemen, Lübnan ve Libya gibi birçok Arap ülkesi dahil olmak üzere çeşitli ülkeler ve uluslararası kurumlar tarafından tanınmaktadır. Ayrıca, NAFSA (Uluslararası Eğitimciler Birliği) ve EAIE (Avrupa Uluslararası Eğitim Birliği) gibi uluslararası eğitim organizasyonlarına üyedir, bu da akademik iş birliği ve uluslararası değişim fırsatlarını artırır.",
+"أهداف جامعة بيروني هي:":"Biruni Üniversitesi'nin hedefleri:",
+"تهدف جامعة بيروني أن تحافظ على مكانتها باعتبارها جامعة خاصة مفضلة للطلاب عالميًا ومحليًا، وذلك بسبب الجودة التعليمية المقدمة في كافة برامجها التعليمية، واشتمالها على كادر أكاديمي هم الأفضل في مجالاتهم.":"Biruni Üniversitesi, sunduğu eğitim kalitesi ve alanlarında en iyi olan akademik kadrosu sayesinde, hem uluslararası hem de yerel öğrenciler için tercih edilen bir özel üniversite olma konumunu korumayı hedeflemektedir.",
+"الحياة العملية لطلاب جامعة بيروني.":"Biruni Üniversitesi öğrencilerinin iş hayatı.",
+"تمتلك الجامعة مستشفيات من أكبر مستشفيات تركيا وهما مستشفى بيروني اسطنبول العام في كوتشوك شكمجه، ومستشفى طب الأسنان، مما يتيح لطلابها الحصول على فترة التدريب العملي قبل التخرج في أفضل وأهم الأماكن.":"Üniversite, Türkiye'nin en büyük hastanelerinden ikisine sahiptir: Küçükçekmece'deki Biruni İstanbul Genel Hastanesi ve bir Diş Hastanesi. Bu, öğrencilerine mezuniyet öncesi pratik eğitimlerini en iyi ve önemli yerlerde tamamlama imkanı sunar.",
+"توفر جامعة بيروني لطلابها الكثير من المشاريع العملية التي يشارك فيها الأساتذة والأكاديميين، والذي يُسمح للطلاب المشاركة فيها جنبًا إلى جنب مع مدرسيهم لتعزيز قوة الطالب البحثية وتهيئتهم لسوق العمل والأبحاث، وتأتي تحت غطاء برنامج يسمى بـ البرنامج الدراسي لتدريب العلماء الصغار.":"Biruni Üniversitesi, öğrencilerine profesörler ve akademisyenlerin katıldığı birçok pratik proje sunar. Öğrenciler, bu projelere hocalarıyla birlikte katılarak araştırma becerilerini geliştirir ve iş piyasasına ve araştırma faaliyetlerine hazırlanır. Bu girişimler, 'Genç Bilim İnsanları Eğitim Programı' adı verilen bir program kapsamında gerçekleştirilir.",
+"تمتلك الجامعة مركزًا للتوظيف، وذلك لمساعدة طلابها الخريجين من إيجاد فرص العمل بسهولة.":"Üniversite, mezun öğrencilerinin iş fırsatlarını kolayca bulmalarına yardımcı olmak için bir istihdam merkezine sahiptir.",
+"توفر لطلابها العديد من الفرص الدولية بالتعاون مع المؤسسات الصحية الأخرى على مستوى العالم.":"Öğrencilerine, dünya çapındaki diğer sağlık kurumlarıyla iş birliği içinde birçok uluslararası fırsat sunar.",
+"تتميز بتطورها وتغيير تقنياتها بصفة دورية لمواكبة العصر والتقدم والتكنولوجيا.":"Gelişimi ve teknolojisini düzenli olarak değiştirerek çağa, ilerlemeye ve teknolojiye ayak uydurmasıyla öne çıkar.",
+"مميزات الدراسة في جامعة بيروني":"Biruni Üniversitesi'nde eğitimin avantajları",
+"تمتلك الجامعة عدد 2 مستشفى تعليمي، هما مستشفى البيروني ومستشفى طب الأسنان، اللذان يقدمان للطلاب فرصة مميزة التدريب العملي تحت رعاية فريق من الخبراء المؤهلين.":"Üniversite, iki eğitim hastanesine sahiptir: Biruni Hastanesi ve Diş Hastanesi. Bu hastaneler, öğrencilere nitelikli uzmanların gözetiminde pratik eğitim için eşsiz bir fırsat sunar.",
+"توفر الجامعة منحًا دراسية للطلاب الأجانب.":"Üniversite, yabancı öğrenciler için burs imkanı sağlar.",
+"توفر الجامعة التخصص المزدوج والتخصص المختصر، كما توفر حرية التنقل بين تخصصات جامعة بيروني المختلفة إذا لم تجده ملائمًا لشغفك.":"Üniversite, çift ana dal ve yan dal imkanı sunar. Ayrıca, ilgi alanınıza uygun bulmadığınız takdirde Biruni Üniversitesi'nin farklı bölümleri arasında geçiş yapma özgürlüğü sağlar.",
+"توفر برنامج التبادل الطلابي إيراسموس، الذي يمنح الطلاب فرصة قضاء فصل دراسي أو عام دراسي كامل في إدى الجامعات الأوروبية.":"Erasmus öğrenci değişim programını sunar, bu program öğrencilere Avrupa üniversitelerinde bir dönem veya bir akademik yıl geçirme fırsatı verir.",
+"تتميز بشراكاتها مع مجموعة من المنظمات العالمية من خلال اتفاقيات التبادل الطلابي.":"Öğrenci değişim anlaşmaları aracılığıyla bir dizi uluslararası kuruluşla ortaklıklarıyla öne çıkar.",
+"الأوراق المطلوبة للتقديم على جامعة بيروني":"Biruni Üniversitesi'ne başvurmak için gerekli belgeler",
+"كليات وتخصصات جامعة بيروني":"Biruni Üniversitesi'nin fakülteleri ve bölümleri",
+"بيروني":"Biruni",
+"تقنيات الطب النووي":"Nükleer Tıp Teknikleri",
+"تقنيات الحقن و القسطرة":"Enjeksiyon ve Kateterizasyon Teknikleri",
+"إدارة الطوارئ و الكوارث":"Acil Durum ve Afet Yönetimi",
+"الفيزيولوجيا الكهربائية العصبية":"Nöroelektrofizyoloji",
+"التوجيه والإرشاد النفسي":"Rehberlik ve Psikolojik Danışmanlık",
+"التدريس في مرحلة ما قبل المدرسة":"Okul Öncesi Öğretmenliği",
+"تدريس التربية الخاصة":"Özel Eğitim Öğretmenliği",
+"تعليم الرياضيات الابتدائي":"İlköğretim Matematik Öğretmenliği",
+"علم الوراثة":"Genetik",
+"التغذية والانظمه الغذائيه":"Beslenme ve Diyetetik",
+"علم القدم":"Podoloji",
+
+
+
+
+
+
+
+"جامعة فاتح سلطان محمد في تركيا":"Fatih Sultan Mehmet Üniversitesi Türkiye'de",
+"معلومات عامة عن جامعة فاتح سلطان محمد":"Fatih Sultan Mehmet Üniversitesi hakkında genel bilgiler",
+"تم تأسيس جامعة السلطان محمد الفاتح الوقفية (Fatih Sultan Mehmet Vakıf Üniversitesi) في عام *2010. تأسست الجامعة بموجب مرسوم من مديرية الأوقاف التركية كجزء من الجامعات الوقفية غير الربحية. تستلهم الجامعة اسمها ورؤيتها من السلطان محمد الفاتح، الذي يُعد رمزًا للعلم والثقافة والإنجازات التاريخية، وتهدف إلى تعزيز التعليم والتطوير الثقافي والعلمي على مستوى عالمي. تسعى الجامعة إلى المزج بين التعليم الحديث والمحافظة على التراث التاريخي والثقافي للإمبراطورية العثمانية.":"Fatih Sultan Mehmet Vakıf Üniversitesi (Fatih Sultan Mehmet Vakıf Üniversitesi) 2010 yılında kurulmuştur. Üniversite, Türkiye Vakıflar Genel Müdürlüğü kararnamesiyle kar amacı gütmeyen vakıf üniversitelerinin bir parçası olarak kurulmuştur. İsmini ve vizyonunu, bilgi, kültür ve tarihi başarıların sembolü olarak kabul edilen Fatih Sultan Mehmet'ten alır. Üniversite, eğitimi, kültürel ve bilimsel gelişimi küresel ölçekte desteklemeyi amaçlamaktadır. Modern eğitim ile Osmanlı İmparatorluğu'nun tarihi ve kültürel mirasını korumayı birleştirmeye çalışmaktadır.",
+"جامعة السلطان محمد الفاتح الوقفية تضم عددًا من الأحرام الجامعية الموزعة في مناطق مختلفة من إسطنبول. كل حرم جامعي يتميز بطابعه الخاص ويستضيف برامج أكاديمية متنوعة. فيما يلي أهم الأحرام الجامعية:":"Fatih Sultan Mehmet Vakıf Üniversitesi, İstanbul'un farklı bölgelerine dağılmış birçok kampüse sahiptir. Her kampüs kendi karakterine sahiptir ve çeşitli akademik programlara ev sahipliği yapar. İşte en önemli kampüsler:",
+"1-الحرم الرئيسي - منطقة الفاتح (السلطان أحمد): يقع في قلب إسطنبول التاريخية. يتميز بالهندسة المعمارية العثمانية الفريدة. يحتوي على كليات العلوم الإنسانية، والدراسات الإسلامية، والتاريخ. يضم مكتبة غنية بالمخطوطات التاريخية.":"1- Ana kampüs - Fatih (Sultanahmet) bölgesi: Tarihi İstanbul'un kalbinde yer alır. Eşsiz Osmanlı mimarisiyle karakterizedir. İnsan bilimleri, İslami çalışmalar ve tarih fakültelerini içerir. Tarihi el yazmaları açısından zengin bir kütüphaneye sahiptir.",
+"2-حرم خليل حميد باشا - منطقة أيوب: متخصص في الدراسات الهندسية والمعمارية. يضم مختبرات حديثة ومرافق بحثية متطورة. مناسب لدراسة العمارة والفنون الجميلة.":"2- Halil Hamid Paşa Kampüsü - Eyüp Bölgesi: Mühendislik ve mimarlık çalışmalarında uzmanlaşmıştır. Modern laboratuvarlar ve gelişmiş araştırma tesislerine sahiptir. Mimarlık ve güzel sanatlar eğitimi için uygundur.",
+"3- حرم كاغيتهانه: يركز على كليات الاقتصاد، وإدارة الأعمال، والعلاقات الدولية. يحتوي على قاعات دراسية عصرية ومراكز تدريب للطلاب..":"3- Kağıthane Kampüsü: Ekonomi, işletme ve uluslararası ilişkiler fakültelerine odaklanmıştır. Modern derslikler ve öğrenciler için eğitim merkezleri içerir.",
+"4- حرم أتاشهير: مخصص للتعليم المهني وبرامج الدبلوم. يركز على التخصصات التقنية والمهنية التطبيقية.":"4- Ataşehir Kampüsü: Mesleki eğitim ve diploma programlarına ayrılmıştır. Uygulamalı teknik ve mesleki uzmanlıklara odaklanır.",
+"لغات التدريس في جامعة فاتح سلطان محمد؟":"Fatih Sultan Mehmet Üniversitesi'nde eğitim dilleri nelerdir?",
+"اللغات المعتمدة في جامعة فاتح سلطان محمد الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":"Fatih Sultan Mehmet Üniversitesi'nde onaylanan diller İngilizce veya Türkçe'dir ve bu, gerekli uzmanlık alanına ve öğrencinin seçimine göre belirlenir.",
+"اعترافات جامعة فاتح سلطان محمد":"Fatih Sultan Mehmet Üniversitesi'nin tanınırlığı",
+"حازت جامعة السلطان فاتح محمد في اسطنبول على إعتمادات عالمية عديدة منها:":"İstanbul'daki Fatih Sultan Mehmet Üniversitesi, birçok uluslararası akreditasyon elde etmiştir, bunlar arasında:",
+"إعترف مجلس التعليم العالي التركي الـ YÖK":"Türk Yükseköğretim Kurulu (YÖK) tarafından tanınmıştır:",
+"الجامعة تسعى لتعزيز معاييرها الأكاديمية من خلال التعاون مع جامعات ومؤسسات دولية، ومن المحتمل أن تكون قد حصلت على بعض الاعتمادات من هيئات أكاديمية دولية في مجالات محددة مثل الهندسة أو العلوم الاجتماعية.":"Üniversite, uluslararası üniversiteler ve kurumlarla iş birliği yaparak akademik standartlarını geliştirmeyi hedeflemektedir ve mühendislik veya sosyal bilimler gibi belirli alanlarda uluslararası akademik kuruluşlardan bazı akreditasyonlar almış olabilir.",
+
+"بعض البرامج في الجامعة قد تكون معتمدة دوليًا من هيئات تعليمية عالمية، مما يسهل على الخريجين العمل في الخارج أو مواصلة تعليمهم في جامعات أخرى حول العالم.":"Üniversitedeki bazı programlar, küresel eğitim kuruluşları tarafından uluslararası düzeyde akredite edilmiş olabilir, bu da mezunların yurtdışında çalışmalarını veya dünya çapında diğer üniversitelerde eğitimlerine devam etmelerini kolaylaştırır.",
+
+"الأنواع المتاحة من السكن:":"Mevcut konaklama türleri:",
+
+"سكن داخلي (داخل الحرم الجامعي): يتوفر في بعض الأحيان سكن داخل الحرم الجامعي، مما يوفر للطلاب الراحة بالقرب من قاعات الدراسة والمرافق الجامعية.":"Yurt içi konaklama (kampüs içi): Bazen kampüs içi konaklama mevcuttur, bu da öğrencilere dersliklere ve üniversite tesislerine yakınlık sağlar.",
+
+"سكن خارجي (قريب من الجامعة): إذا لم يكن السكن داخل الحرم متاحًا، يوفر الطلاب خيارات لسكن بالقرب من الجامعة في مناطق مثل فاتح، أو بايزيد، أو المناطق الأخرى المجاورة التي يسهل الوصول إليها.":"Dış konaklama (üniversiteye yakın): Kampüs içi konaklama mevcut değilse, öğrenciler Fatih, Beyazıt veya kolayca ulaşılabilen diğer yakın bölgelerde üniversiteye yakın konaklama seçenekleri sunar.",
+
+"حياة الطلاب في جامعة فاتح سلطان محمد تُعتبر تجربة متكاملة تجمع بين الدراسة الأكاديمية والأنشطة الاجتماعية والثقافية التي تساهم في تطوير الطلاب على المستوى الشخصي والمهني. إليك بعض الجوانب التي تميز الحياة الطلابية في هذه الجامعة:":"Fatih Sultan Mehmet Üniversitesi'nde öğrenci yaşamı, öğrencilerin kişisel ve profesyonel düzeyde gelişimine katkıda bulunan akademik çalışmalar ile sosyal ve kültürel etkinlikleri birleştiren bütünleşik bir deneyim olarak kabul edilir. İşte bu üniversitedeki öğrenci yaşamını ayırt eden bazı yönler:",
+
+"البرامج الأكاديمية: تقدم الجامعة مجموعة واسعة من البرامج الأكاديمية في مختلف التخصصات، مع تركيز على البحث العلمي والتطوير. تشمل هذه التخصصات الهندسة، العلوم الاجتماعية، الاقتصاد، الآداب، الطب، والعلوم الطبيعية.":"Akademik Programlar: Üniversite, bilimsel araştırma ve geliştirmeye vurgu yaparak çeşitli disiplinlerde geniş bir akademik program yelpazesi sunar. Bu disiplinler arasında mühendislik, sosyal bilimler, ekonomi, sanat, tıp ve doğa bilimleri bulunur.",
+
+"الندوات والمحاضرات: تنظم الجامعة ندوات وورش عمل أكاديمية بالتعاون مع خبراء محليين ودوليين، مما يتيح للطلاب فرصة تعلم موضوعات متقدمة ومواكبة آخر التطورات في مجالاتهم.":"Seminerler ve Dersler: Üniversite, yerel ve uluslararası uzmanlarla iş birliği içinde akademik seminerler ve çalıştaylar düzenleyerek öğrencilere ileri düzeyde konular öğrenme ve alanlarındaki son gelişmeleri takip etme fırsatı sunar.",
+
+"الأندية الطلابية: يوجد العديد من الأندية الطلابية التي تنظم فعاليات ثقافية ورياضية وفنية. هذه الأندية تتيح للطلاب التعبير عن اهتماماتهم وتنظيم الأحداث مثل الحفلات الموسيقية، المعارض الفنية، والمناقشات الثقافية.":"Öğrenci Kulüpleri: Kültürel, spor ve sanatsal etkinlikler düzenleyen birçok öğrenci kulübü bulunmaktadır. Bu kulüpler, öğrencilerin ilgi alanlarını ifade etmelerine ve konserler, sanat sergileri ve kültürel tartışmalar gibi etkinlikler düzenlemelerine olanak tanır.",
+
+"الفعاليات الرياضية: توفر الجامعة فرصًا للطلاب للمشاركة في الأنشطة الرياضية مثل كرة القدم، كرة السلة، والرياضات الفردية، بالإضافة إلى تنظيم المسابقات الداخلية بين الكليات.":"Spor Etkinlikleri: Üniversite, öğrencilere futbol, basketbol ve bireysel sporlar gibi spor aktivitelerine katılma ve fakülteler arası iç yarışmalar düzenleme fırsatı sunar.",
+
+"مميزات الدراسة في جامعة فاتح سلطان محمد":"Fatih Sultan Mehmet Üniversitesi'nde Öğrenim Görmenin Avantajları",
+"الدراسة في جامعة فاتح سلطان محمد تتميز بالعديد من الجوانب التي تجعلها خيارًا مميزًا للطلاب المحليين والدوليين. إليك بعض المميزات الرئيسية للدراسة في هذه الجامعة:":"Fatih Sultan Mehmet Üniversitesi'nde öğrenim görmek, yerel ve uluslararası öğrenciler için onu seçkin bir tercih haline getiren birçok yöne sahiptir. İşte bu üniversitede öğrenim görmenin bazı temel avantajları:",
+
+"تقدم جامعة فاتح سلطان محمد برامج أكاديمية في مجموعة متنوعة من التخصصات مثل الهندسة، العلوم الاجتماعية، الاقتصاد، الطب، الآداب، والعلوم الطبيعية.":"Fatih Sultan Mehmet Üniversitesi, mühendislik, sosyal bilimler, ekonomi, tıp, sanat ve doğa bilimleri gibi çeşitli disiplinlerde akademik programlar sunar.",
+
+"تتمتع برامج الجامعة بمعايير أكاديمية عالية، حيث تسعى الجامعة لتحقيق تعليم متميز من خلال أعضاء هيئة تدريس ذوي خبرة وكفاءة عالية.":"Üniversitenin programları, yüksek akademik standartlara sahiptir çünkü üniversite, deneyimli ve yetkin öğretim üyeleri aracılığıyla seçkin bir eğitim sunmayı hedefler.",
+
+"دعم البحث العلمي: تشجع الجامعة البحث العلمي وتوفر مرافق حديثة للطلاب وأعضاء هيئة التدريس لإجراء أبحاث متقدمة.":"Bilimsel araştırmayı destekleme: Üniversite, bilimsel araştırmayı teşvik eder ve öğrenciler ile öğretim üyelerine ileri düzey araştırmalar yapmaları için modern tesisler sunar.",
+
+"تقدم الجامعة برامج تدريبية وتعاون مع شركات محلية ودولية، مما يساعد الطلاب في الحصول على فرص تدريب عملي والتعرف على سوق العمل.":"Üniversite, yerel ve uluslararası şirketlerle iş birliği içinde eğitim programları sunar ve bu da öğrencilerin pratik eğitim fırsatları elde etmelerine ve iş piyasasını tanımalarına yardımcı olur.",
+
+"الأوراق المطلوبة للتقديم على جامعة فاتح سلطان محمد":"Fatih Sultan Mehmet Üniversitesi'ne Başvurmak İçin Gerekli Belgeler",
+
+"كليات وتخصصات جامعة فاتح سلطان محمد":"Fatih Sultan Mehmet Üniversitesi Fakülteleri ve Uzmanlık Alanları",
+
+"تكنلوجيا أمن المعلومات":"Bilgi Güvenliği Teknolojisi",
+
+"تعليم اللغة التركية":"Türkçe Öğretimi",
+
+"معلم اللغة العربية":"Arapça Öğretmeni",
+
+"الدراسات الإسلامية":"İslami Çalışmalar",
+
+"علم النفس السريري":"Klinik Psikoloji",
+
+"العربيه":"Arapça",
+
+"اسطنبول":"İstanbul",
+
+"جامعة فاتح سلطان محمد توفر سكنًا للطلاب داخل الحرم الجامعي وفي المناطق المحيطة به. السكن الطلابي في الجامعة يُعتبر من الخيارات المريحة للطلاب المحليين والدوليين، ويهدف إلى توفير بيئة ملائمة للدراسة والعيش. إليك بعض المعلومات حول سكن الطلاب في جامعة فاتح سلطان محمد:":"Fatih Sultan Mehmet Üniversitesi, kampüs içinde ve çevresindeki bölgelerde öğrenciler için konaklama imkanı sunar. Üniversitedeki öğrenci konaklaması, yerel ve uluslararası öğrenciler için rahat bir seçenek olarak kabul edilir ve öğrenim görmek ve yaşamak için uygun bir ortam sağlamayı hedefler. İşte Fatih Sultan Mehmet Üniversitesi'ndeki öğrenci konaklaması hakkında bazı bilgiler:",
+
+
+
+
+
+
+
+"جامعة بيلجي في تركيا":"Türkiye'de Bilgi Üniversitesi",
+"معلومات عامة عن جامعة بيلجي":"Bilgi Üniversitesi Hakkında Genel Bilgiler",
+"تعد جامعة اسطنبول بيلجي (Bilgi university) واحدة من الجامعات التأسيسية الأولى في تركيا. تأسست الجامعة في عام 1996 من قبل مؤسسة بيلجي للتربية والثقافة؛ من أجل تطوير التعليم الجامعي في تركيا. بفضل العمل الدؤوب والعطاء الأكاديمي على مدار 23 عامًا، أصبح لدى الجامعة 3 أفرع جامعية، وأكثر من 130 برنامج وتخصص، وأكثر من 20000 طالبًا، وأكثر من 60000 خريج. أعدت الجامعة بنيتها التحتية التعليمية ومناهجها الدراسية بالتعاون مع كلية لندن للاقتصاد والعلوم السياسية التابعة لجامعة لندن وجامعة بورتسموث.":"İstanbul Bilgi Üniversitesi, Türkiye'deki ilk vakıf üniversitelerinden biridir. 1996 yılında Bilgi Eğitim ve Kültür Vakfı tarafından Türkiye'de yükseköğretimi geliştirmek amacıyla kurulmuştur. 23 yıllık yoğun çalışma ve akademik başarı sayesinde üniversite, 3 kampüs, 130'dan fazla program ve bölüm, 20.000'den fazla öğrenci ve 60.000'den fazla mezun ağına sahiptir. Üniversite, eğitim altyapısını ve müfredatını Londra Üniversitesi'ne bağlı London School of Economics and Political Science (LSE) ve Portsmouth Üniversitesi ile iş birliği içinde geliştirmiştir.",
+"تمتلك جامعة اسطنبول بيلجي 3 أحرم جامعية تغطي ما يقرب من 210.000 متر مربع، وهي:":"İstanbul Bilgi Üniversitesi, yaklaşık 210.000 metrekareyi kapsayan 3 kampüse sahiptir. Bunlar:",
+"حرم سانترال اسطنبول، وهو حرمها الأكبر، يقع في الطرف العلوي من القرن الذهب في منطقة أيوب. تم افتتاحه عام 2007.":"Santral İstanbul Kampüsü, en büyük kampüsüdür ve Haliç'in üst ucunda Eyüp semtinde yer alır. 2007 yılında açılmıştır.",
+"حرم دولابديري، يقع هذا الحرم بالقرب من تقسيم، حصل في عام 2002 على جائزة الهيكل والعمارة الحياتية، وفي عام 2005 حصل على الجائزة الأوروبية للهيكل الصلب.":"Dolapdere Kampüsü, Taksim'e yakın bir konumda bulunur. 2002 yılında Yapı ve Yaşam Mimarlığı Ödülü'nü ve 2005 yılında Avrupa Çelik Yapı Ödülü'nü kazanmıştır.",
+"حرم كوش تيبيه، وهو أول حرم تم إنشاؤه للجامعة ويقع في منطقة شيشلي.":"Kuştepe Kampüsü, üniversitenin ilk kampüsüdür ve Şişli semtinde yer alır.",
+"لغات التدريس في جامعة بيلجي؟":"Bilgi Üniversitesi'nde Öğretim Dilleri?",
+"اللغات المعتمدة في جامعة بيلجي الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":"Bilgi Üniversitesi'nde kabul edilen diller İngilizce veya Türkçe'dir ve bu, gerekli uzmanlık ve öğrencinin seçimine göre belirlenir.",
+"اعترافات جامعة بيلجي":"Bilgi Üniversitesi Akreditasyonları",
+"تُعَدُّ جامعة إسطنبول بيلجي من الجامعات التركية الخاصة المرموقة، وقد حصلت على عدة اعتمادات دولية تعكس جودة برامجها التعليمية والتزامها بالمعايير الأكاديمية العالمية. من أبرز هذه الاعتمادات:":"İstanbul Bilgi Üniversitesi, Türkiye'nin en prestijli özel üniversitelerinden biridir. Eğitim programlarının kalitesini ve uluslararası akademik standartlara bağlılığını yansıtan çeşitli uluslararası akreditasyonlar almıştır. Bunların en önemlileri:",
+"اعتماد WASC: وهو اعتماد من الرابطة الغربية للمدارس والكليات، يُمنح للمؤسسات التي تلتزم بمعايير جودة التعليم. تُعَدُّ جامعة بيلجي الجامعة الخاصة الوحيدة في تركيا الحاصلة على هذا الاعتماد.":"WASC Akreditasyonu: Batı Okullar ve Kolejler Birliği'nden verilen bir akreditasyondur ve eğitim kalite standartlarına uyan kurumlara verilir. Bilgi Üniversitesi, Türkiye'de bu akreditasyona sahip tek özel üniversitedir.",
+"اعتماد QS STARS: وهو اعتماد دولي من المملكة المتحدة، يُمنح للجامعات التي تحقق معايير جودة عالية في التعليم والبحث الأكاديمي.":"QS STARS Akreditasyonu: Birleşik Krallık'tan verilen uluslararası bir akreditasyondur ve eğitim ve akademik araştırmada yüksek kalite standartlarına ulaşan üniversitelere verilir.",
+"اعتماد CEA: منحته لجنة اعتماد برامج اللغة الإنجليزية، ويُشير إلى جودة البرامج المقدمة باللغة الإنجليزية في الجامعة.":"CEA Akreditasyonu: İngilizce Dil Programları Akreditasyon Komisyonu tarafından verilir ve üniversitede İngilizce olarak sunulan programların kalitesini gösterir.",
+"اعتماد TPD: من جمعية علماء النفس الأتراك، ويُمنح لتخصص علم النفس في الجامعة.":"TPD Akreditasyonu: Türk Psikologlar Derneği tarafından verilir ve üniversitenin Psikoloji Bölümü'ne verilir.",
+"السكن الطلابي في جامعة إسطنبول بيلجي يتميز بجودة عالية، حيث يوفر بيئة مريحة وآمنة تساعد الطلاب على التركيز على دراستهم والاستمتاع بالحياة الجامعية. الخيارات المتاحة تشمل:":"İstanbul Bilgi Üniversitesi'ndeki öğrenci yurtları yüksek kalitede olup, öğrencilerin derslerine odaklanmalarına ve üniversite hayatının tadını çıkarmalarına yardımcı olan rahat ve güvenli bir ortam sunar. Mevcut seçenekler şunlardır:",
+"سكن الجامعة الداخلي: يقع بالقرب من الحرم الجامعي. يوفر سهولة الوصول إلى الكليات والمرافق التعليمية. يضم غرفًا مفروشة بالكامل. السكن الخاص المتعاقد مع الجامعة: يشمل مباني سكنية خاصة بالقرب من الجامعة. يتيح خيارات متنوعة من الغرف الفردية أو المشتركة. السكن الخارجي (المستقل): يمكن للطلاب استئجار شقق أو غرف في مناطق قريبة من الجامعة. مناسب للطلاب الذين يبحثون عن خصوصية أكبر.":"Üniversite yurtları: Kampüse yakın bir konumda bulunur. Fakültelere ve eğitim tesislerine kolay erişim sağlar. Tamamen mobilyalı odalar içerir. Üniversite ile anlaşmalı özel yurtlar: Üniversiteye yakın özel yurt binalarını içerir. Tek veya paylaşımlı oda seçenekleri sunar. Bağımsız yurtlar (özel): Öğrenciler, üniversiteye yakın bölgelerde daire veya oda kiralayabilir. Daha fazla mahremiyet arayan öğrenciler için uygundur.",
+"الحياة الطلابية في جامعة إسطنبول بيلجي تُعتبر تجربة فريدة تجمع بين التعلم الأكاديمي والأنشطة الترفيهية والاجتماعية. الجامعة تركز على خلق بيئة شاملة تمنح الطلاب فرصة للتطور الشخصي والأكاديمي، بالإضافة إلى الاستمتاع بوقتهم.":"İstanbul Bilgi Üniversitesi'nde öğrenci hayatı, akademik öğrenmeyi eğlenceli ve sosyal aktivitelerle birleştiren benzersiz bir deneyimdir. Üniversite, öğrencilere kişisel ve akademik gelişim fırsatı sunmanın yanı sıra eğlenmeleri için kapsayıcı bir ortam yaratmaya odaklanır.",
+"تضم الجامعة أكثر من 100 نادي طلابي يغطي اهتمامات متنوعة مثل الرياضة، الفنون، التكنولوجيا، ريادة الأعمال، والعمل التطوعي.":"Üniversite, spor, sanat, teknoloji, girişimcilik ve gönüllülük gibi çeşitli ilgi alanlarını kapsayan 100'den fazla öğrenci kulübüne sahiptir.",
+"تنظم الجامعة معارض فنية، وعروض مسرحية، وحفلات موسيقية.":"Üniversite, sanat sergileri, tiyatro gösterileri ve konserler düzenler.",
+"مكتب خدمات الطلاب الدوليين: يوفر دعمًا للطلاب الدوليين، بما في ذلك التوجيه الأكاديمي والمساعدة في القضايا اليومية.":"Uluslararası Öğrenci Ofisi: Uluslararası öğrencilere akademik rehberlik ve günlük konularda yardım dahil olmak üzere destek sağlar.",
+"مجموعة متنوعة من المطاعم والمقاهي داخل الحرم الجامعي تقدم خيارات محلية ودولية. لجامعات الأوربية":"Kampüs içinde çeşitli restoranlar ve kafeler yerel ve uluslararası seçenekler sunar. Avrupa Üniversiteleri için",
+"المنح الدراسية: الجامعة تقدم برامج منح للطلاب المتميزين، مما يجعل التعليم ميسورًا.":"Burslar: Üniversite, başarılı öğrenciler için burs programları sunarak eğitimi daha erişilebilir hale getirir.",
+"مميزات الدراسة في جامعة بيلجي":"Bilgi Üniversitesi'nde Okumanın Avantajları",
+"تتميز جامعة بيلجي بمناهجها القوية التي تحدثها سنويًا؛ من أجل أنالدراسة في جامعة إسطنبول بيلجي تحمل العديد من المميزات التي تجعلها واحدة من أفضل الخيارات للطلاب المحليين والدوليين. إليك أبرز هذه المميزات:":"Bilgi Üniversitesi, yıllık olarak güncellediği güçlü müfredatı ile öne çıkar; İstanbul Bilgi Üniversitesi'nde okumak, yerel ve uluslararası öğrenciler için en iyi seçeneklerden biri olmasını sağlayan birçok avantaja sahiptir. İşte bu avantajlardan bazıları:",
+"تقدم أكثر من 150 برنامجًا أكاديميًا في مختلف التخصصات، بما في ذلك الهندسة، العلوم الاجتماعية، الفنون، وإدارة الأعمال.":"Mühendislik, sosyal bilimler, sanat ve işletme yönetimi gibi çeşitli disiplinlerde 150'den fazla akademik program sunar.",
+"أعضاء هيئة تدريس متميزون: فريق أكاديمي يضم أساتذة وخبراء ذوي خبرة عالمية":"Seçkin öğretim üyeleri: Küresel deneyime sahip profesörler ve uzmanlardan oluşan bir akademik ekip",
+"بيئة تعليمية متقدمة: توفر الجامعة معامل ومختبرات حديثة.":"Gelişmiş eğitim ortamı: Üniversite, modern laboratuvarlar ve tesisler sunar.",
+"مكتب دعم التوظيف يساعد الطلاب والخريجين في العثور على وظائف.":"Kariyer Destek Ofisi, öğrencilere ve mezunlara iş bulmalarında yardımcı olur.",
+"الأوراق المطلوبة للتقديم على جامعة بيلجي":"Bilgi Üniversitesi'ne Başvuru için Gerekli Belgeler",
+"كليات وتخصصات جامعة بيلجي":"Bilgi Üniversitesi Fakülteleri ve Bölümleri",
+"الخدمة الاجتماعية":"Sosyal Hizmet",
+"المحاسبة و الضرائب":"Muhasebe ve Vergi",
+"الترميم المعماري":"Mimari Restorasyon",
+"إدارة الفن والثقافة":"Sanat ve Kültür Yönetimi",
+"علم الوراثة والهندسة الحيوية":"Genetik ve Biyomühendislik",
+"تصميم وإدارة الاتصالات":"İletişim Tasarımı ve Yönetimi",
+"بيلجي":"Bilgi",
+"الطهو":"Aşçılık",
+
+
+
+
+
+
+"جامعة فنربهتشه في تركيا": "Fenerbahçe Üniversitesi Türkiye'de",  
+"معلومات عامة عن جامعة فنربهتشه": "Fenerbahçe Üniversitesi hakkında genel bilgiler",  
+"تأسست جامعة فنربهتشه في عام 2016.": "Fenerbahçe Üniversitesi 2016 yılında kurulmuştur.",  
+"جامعة فنربهتشه تقع في مدينة إسطنبول، تركيا، ولها حرم جامعي يقع في منطقة فنربهتشه. الحرم الجامعي يتميز بموقعه الجميل بالقرب من بحر مرمرة، ويشمل مرافق أكاديمية متقدمة، بالإضافة إلى مناطق للاسترخاء والتفاعل الاجتماعي للطلاب. من أبرز المرافق في الحرم الجامعي:": "Fenerbahçe Üniversitesi, Türkiye'nin İstanbul şehrinde bulunmaktadır ve Fenerbahçe bölgesinde bir kampüsü vardır. Kampüs, Marmara Denizi'ne yakın güzel konumuyla dikkat çeker ve öğrenciler için akademik tesislerin yanı sıra dinlenme ve sosyal etkileşim alanlarını da içerir. Kampüsteki en öne çıkan tesislerden bazıları şunlardır:",  
+"المكتبات: توفر مصادر أكاديمية واسعة.": "Kütüphaneler: Geniş akademik kaynaklar sağlar.",  
+"المرافق الترفيهية: مثل المقاهي والمطاعم التي توفر بيئة اجتماعية للطلاب.": "Rekreasyon tesisleri: Öğrenciler için sosyal bir ortam sunan kafeler ve restoranlar gibi.",  
+"يمتاز الحرم الجامعي بتصميمه العصري والمتطور، ويعد مركزًا للأنشطة الأكاديمية والثقافية في نفس الوقت.": "Kampüs, modern ve gelişmiş tasarımıyla öne çıkar ve aynı zamanda akademik ve kültürel faaliyetlerin merkezidir.",  
+"لغات التدريس في جامعة فنربهتشه؟": "Fenerbahçe Üniversitesi'nde eğitim dilleri?",  
+"اللغات المعتمدة في جامعة فنربهتشه الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.": "Fenerbahçe Üniversitesi'nde onaylanan diller İngilizce veya Türkçe'dir ve bu, gerekli uzmanlık alanına ve öğrencinin seçimine göre belirlenir.",  
+"اعترافات جامعة فنربهتشه": "Fenerbahçe Üniversitesi'nin tanınması",  
+"جامعة فنربهتشه في تركيا معترف بها من قبل العديد من الهيئات الأكاديمية الوطنية والدولية. إليك بعض المعلومات حول اعتمادات الجامعة:": "Fenerbahçe Üniversitesi, Türkiye'de birçok ulusal ve uluslararası akademik kuruluş tarafından tanınmaktadır. İşte üniversitenin akreditasyonları hakkında bazı bilgiler:",  
+"مجلس التعليم العالي التركي (YÖK) هو الهيئة الرسمية المسؤولة عن تنظيم وتنسيق التعليم العالي في تركيا": "Türkiye Yükseköğretim Kurulu (YÖK), Türkiye'de yükseköğretimi düzenleme ve koordine etme yetkisine sahip resmi kurumdur.",  
+"كما تسعى بعض برامجها للحصول على اعتماد من هيئات دولية متخصصة، مثل AACSB و AMBA، وذلك في مجالات مثل إدارة الأعمال.": "Bazı programları, işletme gibi alanlarda AACSB ve AMBA gibi uluslararası uzman kuruluşlardan akreditasyon almak için çalışmaktadır.",  
+"الجامعة تستقطب طلابًا دوليين، مما يعني أن بعض برامجها قد تكون معتمدة من قبل هيئات دولية متخصصة، وهي تسعى لتعزيز مستوى التعليم والبحث الأكاديمي بمواصفات دولية.": "Üniversite, uluslararası öğrencileri çekmektedir, bu da bazı programlarının uluslararası uzman kuruluşlar tarafından akredite edilmiş olabileceği anlamına gelir ve eğitim ile akademik araştırma seviyesini uluslararası standartlara göre geliştirmeyi hedefler.",  
+"مميزات الدراسة في جامعة فنربهتشه": "Fenerbahçe Üniversitesi'nde öğrenim görmenin avantajları",  
+"الرحلات الطلابية: تنظيم رحلات داخل إسطنبول وخارجها لاستكشاف التراث الثقافي والطبيعي لتركيا.": "Öğrenci gezileri: Türkiye'nin kültürel ve doğal mirasını keşfetmek için İstanbul içi ve dışı geziler düzenlenir.",
+"الأندية الطلابية: تضم الجامعة مجموعة واسعة من الأندية التي تغطي اهتمامات مختلفة، مثل الموسيقى، الفن، الرياضة، البيئة، والتطوع.":  
+"Öğrenci Kulüpleri: Üniversite, müzik, sanat, spor, çevre ve gönüllülük gibi farklı ilgi alanlarını kapsayan geniş bir kulüp yelpazesine sahiptir.",
+
+"الأندية الأكاديمية: يمكن للطلاب الانضمام إلى أندية متخصصة مثل نادي إدارة الأعمال، نادي الهندسة، ونادي الإعلام لتعزيز معرفتهم العملية.":  
+"Akademik Kulüpler: Öğrenciler, pratik bilgilerini geliştirmek için İşletme Yönetimi Kulübü, Mühendislik Kulübü ve Medya Kulübü gibi uzmanlaşmış kulüplere katılabilirler.",
+
+"ورش العمل والمحاضرات: تنظم الجامعة فعاليات أكاديمية مثل ورش العمل، الندوات، والمحاضرات التي يقدمها خبراء في مختلف المجالات.":  
+"Atölye Çalışmaları ve Dersler: Üniversite, çeşitli alanlarda uzmanlar tarafından sunulan atölye çalışmaları, seminerler ve dersler gibi akademik etkinlikler düzenler.",
+
+"الحياة الطلابية في جامعة فنربهتشه تُعدّ تجربة مميزة ومليئة بالأنشطة الأكاديمية والاجتماعية والثقافية، مما يجعلها بيئة مثالية لتطوير مهارات الطلاب وتعزيز تفاعلهم مع زملائهم. إليك لمحة عن الحياة الطلابية في الجامعة:":  
+"Fenerbahçe Üniversitesi'nde öğrenci hayatı, öğrencilerin becerilerini geliştirmek ve arkadaşlarıyla etkileşimlerini artırmak için ideal bir ortam sunan, akademik, sosyal ve kültürel faaliyetlerle dolu benzersiz bir deneyimdir. İşte üniversitedeki öğrenci hayatına bir bakış:",
+
+"تختلف تكاليف السكن بناءً على نوع الغرفة والخدمات المقدمة. عادة ما يكون السكن الطلابي الجامعي خيارًا اقتصاديًا مقارنة بالسكن الخارجي في إسطنبول.":  
+"Konaklama maliyetleri, oda tipine ve sunulan hizmetlere göre değişir. Üniversite öğrenci yurtları, genellikle İstanbul'daki dış konaklama seçeneklerine kıyasla ekonomik bir tercihtir.",
+
+"توفر الجامعة دعمًا للطلاب في العثور على خيارات سكن بديلة إذا لزم الأمر.":  
+"Üniversite, gerekirse öğrencilere alternatif konaklama seçenekleri bulma konusunda destek sağlar.",
+
+"يمكن للطلاب اختيار السكن في شقق خاصة قريبة من الحرم الجامعي.":  
+"Öğrenciler, kampüse yakın özel dairelerde konaklamayı tercih edebilirler.",
+
+"جامعة فنربهتشه توفر خيارات متنوعة للسكن الطلابي لتلبية احتياجات الطلاب المحليين والدوليين. السكن الطلابي مصمم لتوفير بيئة مريحة وآمنة تدعم حياة الطالب الأكاديمية والاجتماعية. فيما يلي معلومات عن السكن الطلابي في الجامعة:":  
+"Fenerbahçe Üniversitesi, yerel ve uluslararası öğrencilerin ihtiyaçlarını karşılamak için çeşitli öğrenci konaklama seçenekleri sunar. Öğrenci konaklaması, öğrencinin akademik ve sosyal hayatını destekleyen rahat ve güvenli bir ortam sağlamak üzere tasarlanmıştır. İşte üniversitedeki öğrenci konaklaması hakkında bilgiler:",
+
+"تقدم برامج تعليمية معاصرة ومتوافقة مع المعايير الدولية. تتبع منهجيات تدريس حديثة تُركز على التطبيق العملي والبحث العلمي.":  
+"Uluslararası standartlara uygun çağdaş eğitim programları sunar. Pratik uygulama ve bilimsel araştırmaya odaklanan modern öğretim metodolojilerini takip eder.",
+
+"الجامعة مرتبطة بنادي فنربهتشه الرياضي الشهير، مما يتيح للطلاب الاستفادة من مرافق النادي، خاصة في مجالات الرياضة والتربية البدنية.":  
+"Üniversite, ünlü Fenerbahçe Spor Kulübü ile bağlantılıdır ve bu, öğrencilerin özellikle spor ve beden eğitimi alanlarında kulübün tesislerinden yararlanmalarını sağlar.",
+
+"تضم الجامعة مرافق تعليمية متطورة، بما في ذلك مختبرات حديثة ومكتبات مجهزة بشكل كامل.":  
+"Üniversite, modern laboratuvarlar ve tam donanımlı kütüphaneler de dahil olmak üzere gelişmiş eğitim tesislerine sahiptir.",
+
+"توفر الجامعة خدمات استشارية وأكاديمية لمساعدة الطلاب على النجاح في دراستهم.":  
+"Üniversite, öğrencilerin eğitimlerinde başarılı olmalarına yardımcı olmak için danışmanlık ve akademik hizmetler sunar.",
+
+"توفر الجامعة برامج تدريبية بالتعاون مع الشركات المحلية والدولية، مما يساعد الطلاب على اكتساب خبرة عملية.":  
+"Üniversite, yerel ve uluslararası şirketlerle iş birliği içinde eğitim programları sunarak öğrencilerin pratik deneyim kazanmalarına yardımcı olur.",
+
+"الأوراق المطلوبة للتقديم على جامعة فنربهتشه":  
+"Fenerbahçe Üniversitesi'ne başvurmak için gerekli belgeler",
+
+"كليات وتخصصات جامعة فنربهتشه":  
+"Fenerbahçe Üniversitesi'nin Fakülteleri ve Uzmanlık Alanları",
+
+"الأطراف الصناعية و تقويم العظام":  
+"Protez Uzuvlar ve Ortez",
+
+"التمويل الدولي والمصارف":  
+"Uluslararası Finans ve Bankacılık",
+
+"التربية البدنية والتدريس الرياضي":  
+"Beden Eğitimi ve Spor Öğretimi",
+
+"التمارين وعلوم الرياضة":  
+"Egzersiz ve Spor Bilimleri",
+
+"التدريب":  
+"Eğitim",
+
+"علوم الرياضة":  
+"Spor Bilimleri",
+
+"التمريض (الطب الباطني)":  
+"Hemşirelik (Dahiliye)",
+
+"فنربهتشه":  
+"Fenerbahçe",
+
+
+
+
+
+"جامعة الخليج في تركيا":"Türkiye'de Körfez Üniversitesi",
+"البرامج الأكاديمية للجامعة تتبع المعايير الأكاديمية التركية التي يحددها مجلس التعليم العالي.":"Üniversitenin akademik programları, Yükseköğretim Kurulu tarafından belirlenen Türk akademik standartlarına uymaktadır.",
+"بعض البرامج الأكاديمية في جامعة الخليج معتمدة من قبل هيئات دولية في مجالات معينة مثل الهندسة، إدارة الأعمال، والفنون.":"Körfez Üniversitesi'ndeki bazı akademik programlar, mühendislik, işletme ve sanat gibi belirli alanlarda uluslararası kuruluşlar tarafından akredite edilmiştir.",
+"تحظى الجامعة بعدد من الاعتمادات الدولية، بما في ذلك المشاركة في تصنيفات الجامعات العالمية مثل تصنيف QS و تصنيف Times Higher Education (THE)، مما يعكس جودة التعليم والبحث الذي تقدمه.":"Üniversite, QS Sıralaması ve Times Higher Education (THE) Sıralaması gibi küresel üniversite sıralamalarına katılım da dahil olmak üzere birçok uluslararası akreditasyona sahiptir ve bu, sunduğu eğitim ve araştırma kalitesini yansıtmaktadır.",
+"جامعة الخليج (Haliç University) معتمدة من قبل العديد من الهيئات المحلية والدولية، مما يساهم في تعزيز سمعتها الأكاديمية. من بين الاعتمادات والاعترفات الرئيسية للجامعة:":"Haliç Üniversitesi, güçlü akademik itibarını destekleyen birçok yerel ve uluslararası kuruluş tarafından akredite edilmiştir. Üniversitenin başlıca akreditasyonları ve tanınmaları şunları içerir:",
+"اعترافات جامعة الخليج":"Haliç Üniversitesi Tanınmaları",
+"اللغات المعتمدة في جامعة الخليج الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":"Haliç Üniversitesi'nde resmi diller, seçilen bölüme ve öğrencinin tercihine bağlı olarak İngilizce veya Türkçe'dir.",
+"لغات التدريس في جامعة الخليج؟":"Haliç Üniversitesi'nde eğitim dilleri nelerdir?",
+"الجامعة تُعتبر من الجامعات التي تولي اهتمامًا كبيرًا بتوفير بيئة تعليمية متكاملة لدعم الطلاب في مختلف جوانب حياتهم الأكاديمية والاجتماعية.":"Üniversite, öğrencilerin akademik ve sosyal yaşamlarının çeşitli yönlerini desteklemek için kapsamlı bir eğitim ortamı sağlamaya büyük önem veren kurumlardan biri olarak kabul edilmektedir.",
+"مرافق ترفيهية واجتماعية: تحتوي على أماكن للاستراحة والمقاهي، فضلاً عن مساحات مخصصة للأنشطة الطلابية.":"Rekreasyon ve sosyal tesisler: Üniversite, dinlenme alanları, kafeler ve öğrenci etkinlikleri için ayrılmış alanlar içermektedir.",
+"مرافق رياضية: تشمل صالات رياضية وملاعب، لتلبية احتياجات الطلاب الرياضية.":"Spor tesisleri: Üniversite, öğrencilerin spor ihtiyaçlarını karşılamak için spor salonları ve spor sahaları sunmaktadır.",
+"مرافق أكاديمية: تحتوي على العديد من القاعات الدراسية الحديثة والمختبرات.":"Akademik tesisler: Üniversite, birçok modern derslik ve laboratuvara sahiptir.",
+"الجامعة تقدم بيئة تعليمية حديثة، حيث يتضمن الحرم الجامعي مرافق متطورة تشمل:":"Üniversite, kampüsünde aşağıdakiler gibi gelişmiş tesisler içeren modern bir eğitim ortamı sunmaktadır:",
+"تتميز جامعة الخليج (Haliç University) بحرمها الجامعي الذي يقع في منطقة شيشلي في إسطنبول، بالقرب من القرن الذهبي (Golden Horn).":"Haliç Üniversitesi, İstanbul'un Şişli ilçesinde, Haliç (Golden Horn) yakınında bulunan kampüsüyle öne çıkmaktadır.",
+"تأسست جامعة الخليج (Haliç University) في عام 1998. تُعد من الجامعات الخاصة المرموقة في تركيا وتأسست بدعم من مؤسسة Leukemia Foundation بهدف تقديم تعليم عالي الجودة والمساهمة في تطوير الأبحاث الأكاديمية.":"Haliç Üniversitesi, 1998 yılında kurulmuştur. Türkiye'nin prestijli özel üniversitelerinden biridir ve Leukemia Foundation'ın desteğiyle yüksek kaliteli eğitim sunmak ve akademik araştırmaların gelişimine katkıda bulunmak amacıyla kurulmuştur.",
+"معلومات عامة عن جامعة الخليج":"Haliç Üniversitesi Hakkında Genel Bilgiler",
+"الأوراق المطلوبة للتقديم على جامعة الخليج":"Haliç Üniversitesi'ne Başvuru için Gerekli Belgeler",
+"البرامج مصممة لتلبية احتياجات سوق العمل العالمي والمحلي، مما يتيح للطلاب فرصًا كبيرة في الحياة المهنية.":"Programlar, hem küresel hem de yerel iş piyasasının ihtiyaçlarını karşılamak üzere tasarlanmıştır ve öğrencilere önemli kariyer fırsatları sunar.",
+"تقدم جامعة الخليج برامج دراسات بكاليريوس، ماجستير ودكتوراه في مجموعة واسعة من التخصصات، بما في ذلك الهندسة، إدارة الأعمال، الفنون، علوم الحاسوب، والعلوم الاجتماعية":"Haliç Üniversitesi, mühendislik, işletme, sanat, bilgisayar bilimleri ve sosyal bilimler gibi geniş bir yelpazede lisans, yüksek lisans ve doktora programları sunmaktadır.",
+"مكتبات كبيرة تحتوي على مجموعة واسعة من الكتب والمراجع الأكاديمية والرقمية.":"Geniş bir akademik ve dijital kaynak koleksiyonuna sahip büyük kütüphaneler.",
+"تقدم الجامعة بيئة تعليمية حديثة تضم قاعات دراسية مجهزة بأحدث التقنيات. تحتوي على مختبرات متخصصة في مجالات متعددة مثل الهندسة، الإعلام، والفنون.":"Üniversite, en son teknolojilerle donatılmış derslikler içeren modern bir eğitim ortamı sunmaktadır. Mühendislik, medya ve sanat gibi çeşitli alanlarda uzmanlaşmış laboratuvarlar bulunmaktadır.",
+"مميزات الدراسة في جامعة الخليج":"Haliç Üniversitesi'nde Eğitimin Avantajları",
+"كما توفر الدعم الاجتماعي عبر فرق استشارية لمساعدة الطلاب في التكيف مع الحياة الجامعية وحل المشكلات الشخصية التي قد يواجهونها.":"Ayrıca, üniversite, öğrencilerin üniversite yaşamına uyum sağlamalarına ve karşılaşabilecekleri kişisel sorunları çözmelerine yardımcı olmak için danışman ekipler aracılığıyla sosyal destek sunmaktadır.",
+"تقدم الجامعة مرافق رياضية مثل صالات اللياقة البدنية، الملاعب، والأماكن المخصصة للأنشطة الرياضية الجماعية. تُنظم مسابقات رياضية وفعاليات لتشجيع الطلاب على المشاركة في الأنشطة البدنية والتمتع بنمط حياة صحي.":"Üniversite, fitness merkezleri, spor sahaları ve grup spor etkinlikleri için alanlar gibi spor tesisleri sunmaktadır. Öğrencileri fiziksel aktivitelere katılmaya ve sağlıklı bir yaşam tarzı sürdürmeye teşvik etmek için spor yarışmaları ve etkinlikler düzenlemektedir.",
+"الفعاليات الثقافية: تنظم الجامعة العديد من الفعاليات الثقافية والفنية مثل المعارض، الحفلات الموسيقية، والمسرحيات التي يشارك فيها الطلاب.":"Kültürel etkinlikler: Üniversite, öğrencilerin katılabileceği sergiler, konserler ve tiyatro oyunları gibi çeşitli kültürel ve sanatsal etkinlikler düzenlemektedir.",
+"الأندية الطلابية: تقدم جامعة الخليج مجموعة واسعة من الأندية الطلابية التي تغطي اهتمامات مختلفة مثل الفن، الرياضة، الثقافة، والموسيقى. هذه الأندية توفر للطلاب الفرصة للمشاركة في الأنشطة الترفيهية والاجتماعية.":"Öğrenci kulüpleri: Haliç Üniversitesi, sanat, spor, kültür ve müzik gibi farklı ilgi alanlarını kapsayan geniş bir öğrenci kulüpleri yelpazesi sunmaktadır. Bu kulüpler, öğrencilere eğlenceli ve sosyal aktivitelere katılma fırsatı sağlar.",
+"الحياة الطلابية في جامعة الخليج (Haliç University) تُعد من الجوانب المميزة للطلاب، حيث توفر الجامعة بيئة تعليمية غنية ومتكاملة تشجع على التفاعل الاجتماعي والثقافي. إليك بعض الجوانب الرئيسية للحياة الطلابية في الجامعة:":"Haliç Üniversitesi'nde öğrenci yaşamı, öğrenciler için en belirgin yönlerden biridir çünkü üniversite, sosyal ve kültürel etkileşimi teşvik eden zengin ve kapsamlı bir eğitim ortamı sunmaktadır. İşte üniversitedeki öğrenci yaşamının bazı önemli yönleri:",
+"الإضافة إلى السكن الجامعي داخل الحرم الجامعي، يمكن للطلاب اختيار الإقامة في السكن الطلابي الخاص في مناطق مختلفة من إسطنبول. توفر هذه المساكن عادةً غرفًا مجهزة تجهيزًا جيدًا، ويمكن أن تتضمن مرافق مثل الصالات الرياضية، والمطاعم، ومناطق للدراسة الجماعية. المرافق والخدمات: تحتوي مرافق السكن الطلابي على مساحات اجتماعية للطلاب للاسترخاء والدراسة. تشمل الخدمات الأخرى دعمًا أكاديميًا واجتماعيًا للطلاب المقيمين في السكن، مثل خدمات الصحة والمساعدة في التأقلم مع الحياة الجامعية. الجامعة تهدف إلى توفير بيئة مريحة وآمنة للطلاب للعيش والدراسة أثناء فترة دراستهم.":"Kampüs içi yurtlara ek olarak, öğrenciler İstanbul'un çeşitli bölgelerinde özel öğrenci konaklama yerlerinde kalmayı seçebilirler. Bu konaklama yerleri genellikle iyi donanımlıdır ve spor salonları, restoranlar ve grup çalışma alanları gibi olanaklar içerebilir. Tesisler ve Hizmetler: Öğrenci konaklama tesisleri, öğrencilerin dinlenmesi ve çalışması için sosyal alanlar içermektedir. Diğer hizmetler arasında, yurtta kalan öğrenciler için sağlık hizmetleri ve üniversite yaşamına uyum sağlama konusunda yardım gibi akademik ve sosyal destek bulunmaktadır. Üniversite, öğrencilerin eğitim süreleri boyunca yaşamaları ve çalışmaları için rahat ve güvenli bir ortam sağlamayı amaçlamaktadır.",
+"كليات وتخصصات جامعة الخليج":"Haliç Üniversitesi Fakülteleri ve Uzmanlık Alanları",
+"تقدم الجامعة للطلاب فرصًا للإقامة في سكن طلابي داخل الحرم الجامعي أو بالقرب منه. تتوفر عدة أنواع من الغرف، سواء كانت غرف فردية أو غرف مشتركة، بحسب احتياجات الطلاب. يتم تجهيز الغرف بمرافق أساسية مثل الإنترنت، والتدفئة، والمرافق الصحية.":"Üniversite, öğrencilere kampüs içinde veya yakınında öğrenci yurtlarında kalma fırsatı sunmaktadır. Öğrencilerin ihtiyaçlarına bağlı olarak tek kişilik veya paylaşımlı odalar gibi çeşitli oda seçenekleri mevcuttur. Odalar, internet, ısıtma ve sanitasyon gibi temel olanaklarla donatılmıştır.",
+"الخدمات المصرفية والتأمين":"Banka Hizmetleri ve Sigorta",
+"إدارة السياحة و الفنادق":"Turizm ve Otel Yönetimi",
+"الكهرباء":"Elektrik Mühendisliği",
+"تكنلوجيا الكومبيوتر":"Bilgisayar Teknolojisi",
+"الآلات":"Makine",
+"الثقافة الأمريكية والأدب":"Amerikan Kültürü ve Edebiyatı",
+"إعادة التأهيل":"Rehabilitasyon",
+"الموسيقى التركية التقليدية":"Geleneksel Türk Müziği",
+"ترفيه":"Eğlence",
+"الرياضيات التطبيقية":"Uygulamalı Matematik",
+"المحاسبة و التدقيق":"Muhasebe ve Denetim",
+"المحاسبة و المالية":"Muhasebe ve Finans",
+"علم النفس التطبيقي":"Uygulamalı Psikoloji",
+"إدارة الأعمال الدولية":"Uluslararası İşletme Yönetimi",
+"تكنولوجيا الاتصالات الإلكترونية":"Elektronik İletişim Teknolojisi",
+"تقدم الجامعة دعمًا أكاديميًا وشخصيًا من خلال مستشارين أكاديميين ونفسيين لمساعدة الطلاب في تجاوز التحديات الدراسية والاجتماعية.":"Üniversite, öğrencilerin akademik ve sosyal zorlukların üstesinden gelmelerine yardımcı olmak için akademik ve psikolojik danışmanlar aracılığıyla akademik ve kişisel destek sunmaktadır.",
+
+
+
+
+
+"جامعة إيشيك في تركيا":"Türkiye'de Işık Üniversitesi",  
+"معلومات عامة عن جامعة إيشيك":"Işık Üniversitesi Hakkında Genel Bilgiler",  
+"تأسست جامعة إيشك (İşık University) في عام 1996 في مدينة إسطنبول، تركيا. تم إنشاؤها كمؤسسة تعليمية خاصة تحت إشراف مؤسسة العلوم والتكنولوجيا التركية (Işık Foundation). بدأت الجامعة رحلتها بتقديم برامج تعليمية تهدف إلى تزويد الطلاب بالمعرفة والمهارات اللازمة في مختلف المجالات الأكاديمية.":"Işık Üniversitesi, 1996 yılında İstanbul, Türkiye'de kurulmuştur. Türk Bilim ve Teknoloji Vakfı (Işık Foundation) gözetiminde özel bir eğitim kurumu olarak faaliyete başlamıştır. Üniversite, öğrencilere çeşitli akademik alanlarda gerekli bilgi ve becerileri sağlamayı amaçlayan eğitim programları sunarak yolculuğuna başladı.",  
+"جامعة إيشك تمتلك حرمين جامعيين رئيسيين في إسطنبول:":"Işık Üniversitesi, İstanbul'da iki ana kampüse sahiptir:",  
+"الحرم الجامعي الرئيسي (Işık University Main Campus): يقع في منطقة Şile، وهي منطقة جميلة خارج وسط المدينة، حيث توفر بيئة هادئة تركز على التعليم والبحث.":"Işık Üniversitesi Ana Kampüsü: Şile'de bulunur, şehir merkezinin dışında güzel bir bölgedir ve eğitim ile araştırmaya odaklanan huzurlu bir ortam sunar.",  
+"حرم Çekmeköy: يقع في منطقة Çekmeköy، وهو حرم جامعي حديث يقدم خدمات أكاديمية ومرافق ملائمة لدراسة مختلف البرامج الأكاديمية.":"Çekmeköy Kampüsü: Çekmeköy'de bulunur ve çeşitli akademik programların incelenmesi için uygun akademik hizmetler ve tesisler sunan modern bir kampüstür.",  
+"كلا الحرمين يوفران بيئة تعليمية حديثة ومتطورة للطلاب، مع التركيز على توفير الراحة والفرص التعليمية المتكاملة.":"Her iki kampüs de öğrenciler için modern ve gelişmiş bir öğrenme ortamı sunar, konfor ve entegre eğitim fırsatları sağlamaya odaklanır.",  
+"لغات التدريس في جامعة إيشيك؟":"Işık Üniversitesi'nde eğitim dilleri nelerdir?",  
+"اللغات المعتمدة في جامعة إيشيك الإنكليزية أو التركية ويحدد ذلك بناءً على  التخصص المطلوب واختيار الطالب.":"Işık Üniversitesi'nde onaylanan diller İngilizce veya Türkçe'dir ve bu, gerekli uzmanlık alanına ve öğrencinin seçimine göre belirlenir.",  
+"اعترافات جامعة إيشيك":"Işık Üniversitesi'nin Tanınırlığı",  
+"اعتماد البرمجيات الهندسية والتقنية: البرامج الهندسية في جامعة إيشك، مثل برامج الهندسة الكهربائية والهندسة الصناعية، قد حصلت على اعتماد من هيئات أكاديمية متخصصة، مما يجعل شهادات هذه البرامج معترفًا بها في مجال العمل الدولي.":"Mühendislik ve Teknik Yazılım Akreditasyonu: Işık Üniversitesi'ndeki elektrik mühendisliği ve endüstri mühendisliği gibi mühendislik programları, uzman akademik kuruluşlar tarafından akredite edilmiştir ve bu programların diplomaları uluslararası iş alanında tanınmaktadır.",  
+"الاعتماد الأكاديمي الدولي: بعض برامج الجامعة حصلت على اعتماد من هيئات دولية. هذه الاعتمادات تتيح للطلاب الحصول على تعليم معترف به دوليًا، مما يسهل عليهم العمل أو متابعة دراساتهم العليا في الخارج.":"Uluslararası Akademik Akreditasyon: Üniversitenin bazı programları uluslararası kuruluşlar tarafından akredite edilmiştir. Bu akreditasyonlar, öğrencilerin uluslararası düzeyde tanınan bir eğitim almalarını sağlar ve yurtdışında çalışmalarını veya lisansüstü eğitimlerini sürdürmelerini kolaylaştırır.",  
+"جامعة إيشك توفر خيارات سكنية متنوعة للطلاب داخل الحرم الجامعي وفي المناطق المحيطة به. السكن الطلابي في الجامعة يهدف إلى توفير بيئة مريحة وآمنة لدعم تجربة الطالب الأكاديمية والاجتماعية. إليك بعض المعلومات حول السكن الطلابي في جامعة إيشك: السكن داخل الحرم الجامعي: يوجد في الحرم الجامعي الرئيسي في Şile وبعض المرافق السكنية للطلاب، حيث يمكن للطلاب الإقامة في غرف فردية أو مشتركة. تم تجهيز السكن الطلابي بمرافق أساسية مثل الإنترنت، وتكييف الهواء، ومرافق للغسيل، ومناطق ترفيهية وداعمة للدراسة.":"Işık Üniversitesi, kampüs içinde ve çevresinde öğrenciler için çeşitli konaklama seçenekleri sunar. Üniversitenin öğrenci yurtları, öğrencilerin akademik ve sosyal deneyimlerini desteklemek için rahat ve güvenli bir ortam sağlamayı amaçlar. İşte Işık Üniversitesi'ndeki öğrenci yurtları hakkında bazı bilgiler: Kampüs içi konaklama: Şile'deki ana kampüste öğrenciler için tek veya paylaşımlı odalarda kalabilecekleri yurtlar bulunmaktadır. Öğrenci yurtları, internet, klima, çamaşırhane, eğlence alanları ve çalışma alanları gibi temel olanaklarla donatılmıştır.",  
+"الحياة الطلابية في جامعة إيشك تتميز بتنوع الأنشطة والفرص التي تهدف إلى تطوير مهارات الطلاب خارج نطاق الفصول الدراسية. توفر الجامعة بيئة داعمة وملهمة للطلاب للانخراط في الأنشطة الاجتماعية، الثقافية، الرياضية، والبحثية، مما يعزز من تجربتهم الجامعية. إليك بعض الجوانب المهمة للحياة الطلابية في جامعة إيشك:":"",  
+"النوادي الطلابية: تقدم الجامعة مجموعة واسعة من الأندية الطلابية التي تغطي مجالات متنوعة مثل الفنون، الرياضة، التكنولوجيا، الأدب، والمسؤولية الاجتماعية. يمكن للطلاب الانضمام إلى هذه الأندية للمشاركة في الأنشطة المنظمة مثل الندوات، العروض الفنية، والمعارض":"Öğrenci Kulüpleri: Üniversite, sanat, spor, teknoloji, edebiyat ve sosyal sorumluluk gibi çeşitli alanları kapsayan geniş bir öğrenci kulüpleri yelpazesi sunar. Öğrenciler, seminerler, sanat gösterileri ve sergiler gibi organize edilmiş etkinliklere katılmak için bu kulüplere katılabilir.",  
+"الفعاليات الثقافية: تحرص الجامعة على تنظيم فعاليات ثقافية مثل حفلات الموسيقى، ورش العمل الفنية، والمهرجانات السنوية التي تجمع الطلاب من مختلف الخلفيات الثقافية.":"Kültürel Etkinlikler: Üniversite, müzik konserleri, sanat atölyeleri ve farklı kültürel geçmişlere sahip öğrencileri bir araya getiren yıllık festivaller gibi kültürel etkinlikler düzenlemeye özen gösterir.",  
+"جامعة إيشك توفر منشآت رياضية حديثة، بما في ذلك ملاعب كرة القدم، كرة السلة، وصالات لياقة بدنية، ما يتيح للطلاب المشاركة في الأنشطة الرياضية والتمارين البدنية.":"Işık Üniversitesi, futbol sahaları, basketbol sahaları ve fitness salonları dahil olmak üzere modern spor tesisleri sunar ve öğrencilerin spor aktivitelerine ve fiziksel egzersizlere katılmalarını sağlar.",  
+"مميزات الدراسة في جامعة إيشيك":"Işık Üniversitesi'nde Okumanın Avantajları",  
+"دراسة في جامعة إيشك تتمتع بعدد من المميزات التي تجعلها خيارًا مفضلًا للطلاب المحليين والدوليين على حد سواء. إليك بعض أهم مميزات الدراسة في جامعة إيشك:":"Işık Üniversitesi'nde okumak, hem yerel hem de uluslararası öğrenciler için tercih edilen bir seçenek haline getiren bir dizi avantaja sahiptir. İşte Işık Üniversitesi'nde okumanın en önemli avantajlarından bazıları:",  
+"تقدم جامعة إيشك برامج أكاديمية متطورة في مختلف التخصصات، وتستخدم طرق تدريس حديثة تركز على تطوير المهارات العملية والنظرية للطلاب.":"Işık Üniversitesi, çeşitli disiplinlerde ileri düzey akademik programlar sunar ve öğrencilerin pratik ve teorik becerilerini geliştirmeye odaklanan modern öğretim yöntemleri kullanır.",  
+"يُدرس الطلاب في بيئة أكاديمية تدعم البحث والابتكار، حيث توفر الجامعة تقنيات وموارد متطورة للمساعدة في التجارب التعليمية.":"Öğrenciler, araştırma ve yeniliği destekleyen akademik bir ortamda eğitim görür ve üniversite, eğitim deneyimlerine yardımcı olmak için ileri teknolojiler ve kaynaklar sağlar.",  
+"تقدم جامعة إيشك مجموعة واسعة من البرامج الأكاديمية في مجالات مثل الهندسة، العلوم الاجتماعية، الفنون، الأعمال، التصميم، والعلوم الطبيعية.":"Işık Üniversitesi, mühendislik, sosyal bilimler, sanat, işletme, tasarım ve doğa bilimleri gibi alanlarda geniş bir akademik program yelpazesi sunar.",  
+"تشجع الجامعة طلابها على الانخراط في الأبحاث الأكاديمية والتجريبية، مما يتيح لهم فرصة المشاركة في مشاريع بحثية مع أساتذة وخبراء في مجالاتهم.":"Üniversite, öğrencilerini akademik ve deneysel araştırmalara katılmaya teşvik eder ve onlara alanlarında profesörler ve uzmanlarla araştırma projelerine katılma fırsatı sunar.",  
+"الأوراق المطلوبة للتقديم على جامعة إيشيك":"Işık Üniversitesi'ne Başvurmak İçin Gerekli Belgeler",  
+"الاقتصاد التطبيقي":"Uygulamalı Ekonomi",  
+"تصميم الاتصالات البصرية":"Görsel İletişim Tasarımı",  
+"دراسات الشرق الأوسط":"Orta Doğu Çalışmaları",  
+"دراسات الأعمال المعاصرة":"Çağdaş İşletme Çalışmaları",  
+"كليات وتخصصات جامعة إيشيك":"Işık Üniversitesi Fakülteleri ve Bölümleri",  
+"إيشيك":"Işık",
+
+
+
+
+
+
+
+"جامعة يني يوزل في تركيا":"Türkiye'de Yeni Yüzyıl Üniversitesi",  
+"معلومات عامة عن جامعة يني يوزل":"Yeni Yüzyıl Üniversitesi Hakkında Genel Bilgiler",  
+"تأسست جامعة يني يوزيل على يد مؤسسة وطن للصحة والتعليم (VASEV) في عام 2009، وهي من المؤسسات ذات السمعة الطيبة في جمهورية تركيا. يبرز دور هذه المؤسسة بشكل كبير في ملف الصحة، حيث اهتمت ببناء المستشفيات الجامعية لتخصص طب الأسنان والطب البشري في تركيا، بالإضافة إلى وجود العديد من التخصصات الطبية التابعة لجامعة اسطنبول يني يوزيل.":"Yeni Yüzyıl Üniversitesi, 2009 yılında Ulusal Sağlık ve Eğitim Vakfı (VASEV) tarafından kurulmuştur ve Türkiye Cumhuriyeti'nde saygın kurumlardan biridir. Bu kurumun rolü, özellikle sağlık alanında öne çıkmaktadır. Türkiye'de diş hekimliği ve tıp alanında üniversite hastaneleri inşa etmeye odaklanmıştır. Ayrıca, İstanbul Yeni Yüzyıl Üniversitesi bünyesinde birçok tıbbi uzmanlık alanı bulunmaktadır.",  
+"تمتلك جامعة اسطنبول يني يوزيل خمسة الأحرم الجامعية قريبة من بعضها البعض بشكل نسبي، وبالطبع تختلف أغراض كل حرم جامعي عن الآخر، وهم:":"İstanbul Yeni Yüzyıl Üniversitesi, birbirine nispeten yakın beş kampüse sahiptir ve her kampüsün amacı farklıdır. Bunlar:",  
+"1-حرم الدكتور عزمي أوفلو أوغلو. وهو الحرم الرئيسي للجامعة الذي يقع في توبكابي. يحتوي هذا الحرم على عدد من المكاتب الإدارية والتنفيذية لجامعة اسطنبول يني يوزيل، بالإضافة إلى قاعات دراسية وعدد من مختبرات العلوم والكمبيوتر، واستوديوهات تصوير وتلفزيون وإذاعة وقاعة مؤتمرات، ومكتبة الجامعة، وعدد من المرافق الترفيهية":"1. Dr. Azmi Ofluoğlu Kampüsü: Üniversitenin ana kampüsüdür ve Topkapı'da bulunur. Bu kampüs, İstanbul Yeni Yüzyıl Üniversitesi'nin idari ve yönetici ofislerinin yanı sıra derslikler, fen ve bilgisayar laboratuvarları, televizyon ve radyo stüdyoları, bir konferans salonu, üniversite kütüphanesi ve çeşitli rekreasyon tesislerini içerir.",  
+"2-حرم جيفز لي باغ. والذي يقع في زيتون بورنو. يشمل هذا الحرم الكليات التي تهتم بدراسة علوم الحياة، حيث يوجد به مختبرات تقنية وعلمية، ومختبر خاص بعلوم الطب الشرعي. ينفذ فيه الطلاب مشاريعهم العملية في تخصصات كلٍ من: الطب، والبيولوجيا الجزيئية وعلم الوراثة، والهندسة الطبية الحيوية، وعلم التغذية، والصيدلة.":"2. Cevizlibağ Kampüsü: Zeytinburnu'nda bulunur. Bu kampüs, yaşam bilimleri üzerine çalışan fakülteleri içerir. Teknik ve bilimsel laboratuvarların yanı sıra adli tıp laboratuvarı da bulunur. Öğrenciler, tıp, moleküler biyoloji ve genetik, biyomedikal mühendisliği, beslenme ve eczacılık gibi alanlarda pratik projelerini burada gerçekleştirir.",  
+"3-مستشفى وكلية طب الأسنان. تقع كلية طب الأسنان والمستشفى الجامعي الخاص بها في منطقة سوتلوس هاليجي أوغلو.يحتوي هذا الحرم على قاعات دراسية، و8 عيادات بشرية تضم 60 وحدة لطب الأسنان، ومختبرات، ومرافق تعقيم مركزي، وغرفة عمليات، وغرفة طوارئ.":"3. Diş Hastanesi ve Diş Hekimliği Fakültesi: Diş Hekimliği Fakültesi ve üniversite hastanesi, Sütlüce Halıcıoğlu bölgesinde yer alır. Bu kampüs, derslikler, 60 diş ünitesine sahip 8 insan kliniği, laboratuvarlar, merkezi sterilizasyon tesisleri, bir ameliyathane ve acil servis içerir.",  
+"4-مستشفى غازي عثمان باشا. يقع هذا الحرم في منطقة غازي عثمان باشا في اسطنبول. يشمل حرم غازي عثمان باشا كلية الطب البشري والمستشفى الجامعي التابعة لها، كما تتضمن مراكز تدريب طبية لطلاب الصفوف الأخيرة بالجامعة. يتم التدريب العملي والممارسة في أكثر من 100 عيادة و12 غرفة جراحة و 254 غرفة مرضية بإجمالي 336 سرير طبي.":"4. Gaziosmanpaşa Hastanesi: Bu kampüs, İstanbul'un Gaziosmanpaşa ilçesinde bulunur. Gaziosmanpaşa Kampüsü, Tıp Fakültesi ve üniversite hastanesini içerir. Ayrıca, son sınıf öğrencileri için tıbbi eğitim merkezleri bulunur. Pratik eğitim, 100'den fazla klinik, 12 ameliyathane ve 254 hasta odasında toplam 336 yatakla gerçekleştirilir.",  
+"5-حرم شيرنفلر. يقع هذا الحرم في منطقة شيرنفلر، وهو أحدث حرم جامعي تم إنشاؤه في جامعة اسطنبول يني يوزيل. يشمل هذا الحرم المراكز التدريبية ومركز أبحاث وتطبيق التعليم المستمر في الجامعة (YENİSEM).":"5. Çerkezköy Kampüsü: Çerkezköy ilçesinde bulunan bu kampüs, İstanbul Yeni Yüzyıl Üniversitesi'nin en yeni kampüsüdür. Eğitim merkezlerini ve Sürekli Eğitim Araştırma ve Uygulama Merkezi'ni (YENİSEM) içerir.",  
+"لغات التدريس في جامعة يني يوزل؟":"Yeni Yüzyıl Üniversitesi'nde Öğretim Dilleri?",  
+"اللغات المعتمدة في جامعة يني يوزل الإنكليزية أو التركية ويحدد ذلك بناءً على التخصص المطلوب واختيار الطالب.":"Yeni Yüzyıl Üniversitesi'nde öğretim dilleri İngilizce veya Türkçe'dir ve bu, öğrencinin seçtiği uzmanlık alanına göre belirlenir.",  
+"اعترافات جامعة يني يوزل":"Yeni Yüzyıl Üniversitesi'nin Akreditasyonları",  
+"حازت جامعة يني يوزل في اسطنبول على إعتمادات عالمية عديدة منها:":"İstanbul Yeni Yüzyıl Üniversitesi, birçok uluslararası akreditasyon almıştır, örneğin:",  
+"بعض برامج الجامعة قد تكون معتمدة من هيئات اعتماد دولية، ولكن هذا يعتمد على التخصص والكلية. على سبيل المثال، بعض الكليات مثل الطب والهندسة تسعى للحصول على اعتماد عالمي مثل (WFME) أو (ABET).":"Üniversitenin bazı programları uluslararası akreditasyon kuruluşları tarafından akredite edilmiş olabilir, ancak bu, uzmanlık alanı ve fakülteye bağlıdır. Örneğin, tıp ve mühendislik gibi bazı fakülteler, (WFME) veya (ABET) gibi uluslararası akreditasyonlar almayı hedefler.",  
+"الجامعة قد تكون عضوًا في اتحادات جامعية دولية أو لديها اتفاقيات شراكة مع جامعات عالمية.":"Üniversite, uluslararası üniversite birliklerine üye olabilir veya küresel üniversitelerle ortaklık anlaşmalarına sahip olabilir.",  
+"السكن الطلابي في جامعة يني يوزيل (Yeni Yüzyıl University) يوفر خيارات متعددة للطلاب المحليين والدوليين، حيث يمكن للطلاب الاختيار بين السكن الخاص أو السكن الجامعي القريب من الجامعة عادةً ما يشمل السكن: غرف فردية أو مزدوجة. إنترنت مجاني. مناطق دراسة مشتركة. خدمات تنظيف. أمن على مدار الساعة.":"Yeni Yüzyıl Üniversitesi (Yeni Yüzyıl Üniversitesi) öğrenci yurtları, yerel ve uluslararası öğrenciler için çeşitli seçenekler sunar. Öğrenciler, özel konaklama veya üniversiteye yakın yurtlar arasında seçim yapabilir. Yurtlar genellikle şunları içerir: tek veya çift kişilik odalar, ücretsiz internet, ortak çalışma alanları, temizlik hizmetleri ve 24 saat güvenlik.",  
+"الحياة الطلابية في جامعة يني يوزيل ممتعة ومتنوعة، حيث تسعى الجامعة لتوفير بيئة تعليمية واجتماعية تتيح للطلاب تطوير أنفسهم أكاديميًا وثقافيًا واجتماعيًا. إليك لمحة عن الجوانب المختلفة للحياة الطلابية:":"Yeni Yüzyıl Üniversitesi'nde öğrenci yaşamı eğlenceli ve çeşitlidir. Üniversite, öğrencilerin akademik, kültürel ve sosyal olarak kendilerini geliştirmelerine olanak tanıyan bir eğitim ve sosyal ortam sunar. Öğrenci yaşamının çeşitli yönlerine bir göz atalım:",  
+"توجد العديد من النوادي الطلابية التي تغطي مختلف الاهتمامات مثل: الرياضة الفن والثقافة العلوم والتكنولوجيا التطوع والخدمة المجتمعية يمكن للطلاب الانضمام إلى أي نادي أو حتى تأسيس نادي جديد يتماشى مع اهتماماتهم. الفعاليات والمهرجانات: تنظم الجامعة العديد من الفعاليات مثل: مهرجانات ثقافية وموسيقية. مؤتمرات وورش عمل تعليمية. معارض فنية ومعارض توظيف":"Çeşitli ilgi alanlarını kapsayan birçok öğrenci kulübü bulunmaktadır: spor, sanat ve kültür, bilim ve teknoloji, gönüllülük ve toplum hizmeti. Öğrenciler, herhangi bir kulübe katılabilir veya kendi ilgi alanlarına uygun yeni bir kulüp kurabilir. Etkinlikler ve Festivaller: Üniversite, kültürel ve müzik festivalleri, eğitim konferansları ve atölyeler, sanat sergileri ve iş fuarları gibi birçok etkinlik düzenler.",  
+"مكتبات حديثة: مكتبة الجامعة تحتوي على موارد أكاديمية متنوعة، بالإضافة إلى أماكن مخصصة للدراسة الفردية والجماعية. صالات رياضية ومرافق ترفيهية: تتوفر صالات رياضية ومرافق للأنشطة البدنية مثل كرة القدم، كرة السلة، والتنس. أماكن استراحة: مساحات مخصصة للطلاب للاستراحة أو العمل على المشاريع، بالإضافة إلى مقاهي ومطاعم داخل الحرم الجامعي.":"Modern Kütüphaneler: Üniversite kütüphanesi, çeşitli akademik kaynakların yanı sıra bireysel ve grup çalışması için ayrılmış alanlar içerir. Spor Salonları ve Rekreasyon Alanları: Üniversite, futbol, basketbol ve tenis gibi fiziksel aktiviteler için spor salonları ve tesisler sunar. Dinlenme Alanları: Öğrencilerin dinlenebileceği veya projeler üzerinde çalışabileceği alanların yanı sıra kampüs içinde kafeler ve restoranlar bulunur.",  
+"موقع الجامعة في إسطنبول يجعلها قريبة من وسائل النقل العام مثل المترو والحافلات، مما يسهل على الطلاب التنقل داخل المدينة. بعض الجامعات توفر خدمات نقل مجانية أو مدفوعة للطلاب بين الحرم الجامعي وأماكن السكن.":"Üniversitenin İstanbul'daki konumu, metro ve otobüs gibi toplu taşıma araçlarına yakın olmasını sağlar, bu da öğrencilerin şehir içinde seyahat etmesini kolaylaştırır. Bazı üniversiteler, kampüs ve konaklama yerleri arasında ücretsiz veya ücretli servis hizmeti sunar.",  
+"يمكن للطلاب العمل بدوام جزئي في إسطنبول، خاصة في مجالات مثل التعليم، الترجمة، أو العمل في المقاهي والمطاعم، مما يمنحهم فرصة لتحمل بعض تكاليف المعيشة.":"Öğrenciler, İstanbul'da eğitim, çeviri veya kafe ve restoranlarda çalışma gibi alanlarda yarı zamanlı iş bulabilir, bu da yaşam maliyetlerini karşılamalarına yardımcı olur.",  
+"مميزات الدراسة في جامعة يني يوزل":"Yeni Yüzyıl Üniversitesi'nde Öğrenim Avantajları",  
+"جامعة يني يوزيل هي واحدة من الجامعات الخاصة المميزة في تركيا، وتقدم بيئة تعليمية متطورة ومزايا عديدة تجعلها خيارًا مفضلًا للطلاب المحليين والدوليين. إليك أهم مميزات الدراسة فيها:":"Yeni Yüzyıl Üniversitesi, Türkiye'deki seçkin özel üniversitelerden biridir ve modern bir eğitim ortamı ile yerel ve uluslararası öğrenciler için tercih edilen bir seçenek haline getiren birçok avantaj sunar. İşte burada öğrenim görmenin temel avantajları:",  
+"برامجها الأكاديمية تتمتع بمعايير تعليمية عالية، وتحرص الجامعة على تحديث المناهج بما يتماشى مع تطورات سوق العمل.":"Akademik programları yüksek eğitim standartlarına sahiptir ve üniversite, müfredatı iş piyasasındaki gelişmelere uygun olarak güncellemeye özen gösterir.",  
+"تركز الجامعة على التعليم العملي من خلال: مختبرات مجهزة بأحدث التقنيات. شراكات مع مستشفيات ومراكز طبية لتوفير التدريب العملي لطلاب الطب والصحة. مشاريع تطبيقية لطلاب الهندسة والتخصصات العلمية.":"Üniversite, pratik eğitime odaklanır: en son teknolojilerle donatılmış laboratuvarlar, tıp ve sağlık öğrencileri için pratik eğitim sağlamak amacıyla hastaneler ve tıp merkezleriyle ortaklıklar, mühendislik ve bilimsel disiplinlerdeki öğrenciler için uygulamalı projeler.",  
+"توفر الجامعة دعمًا كبيرًا للطلاب الدوليين من خلال: مكاتب خاصة لخدمتهم والإجابة عن استفساراتهم. برامج لتسهيل الاندماج الثقافي والاجتماعي. دورات في اللغة التركية للطلاب الذين يحتاجون إلى تحسين مهاراتهم اللغوية.":"Üniversite, uluslararası öğrencilere büyük destek sağlar: onlara yardımcı olmak ve sorularını yanıtlamak için özel ofisler, kültürel ve sosyal entegrasyonu kolaylaştıran programlar, dil becerilerini geliştirmek isteyen öğrenciler için Türkçe kursları.",  
+"الأوراق المطلوبة للتقديم على جامعة يني يوزل":"Yeni Yüzyıl Üniversitesi'ne Başvuru için Gerekli Belgeler",  
+"كليات وتخصصات جامعة يني يوزل":"Yeni Yüzyıl Üniversitesi Fakülteleri ve Uzmanlık Alanları",  
+"العناية بكبار السن":"Yaşlı Bakımı",  
+"الخدمات الجراحية":"Cerrahi Hizmetler",  
+"العلاقات العامة":"Halkla İlişkiler",  
+"السياحة و خدمات السفر":"Turizm ve Seyahat Hizmetleri",  
+"تقويم الأسنان":"Ortodonti",  
+"إدارة الاتصالات":"İletişim Yönetimi",  
+"الأدب الأمريكي و الكتابة الإبداعية":"Amerikan Edebiyatı ve Yaratıcı Yazarlık",  
+"الأنثروبولوجيا الصحية":"Sağlık Antropolojisi",  
+"تكنولوجيا وترميم اللوحات الفنية":"Sanat Eserlerini Restorasyon Teknolojisi",  
+"علم الأجنة السريري":"Klinik Embriyoloji",  
+"يني يوزل":"Yeni Yüzyıl",  
+"تقنيات ترميم اللوحات الفنية":"Tablo Restorasyon Teknikleri"
+
+
+
+
  
 }

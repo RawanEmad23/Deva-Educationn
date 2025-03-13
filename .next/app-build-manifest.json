@@ -12,21 +12,25 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/khadamat/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/khadamat/page.css",
-      "static/chunks/app/khadamat/page.js"
-    ],
     "/universitys/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/universitys/page.js"
     ],
-    "/ankraMedipol/page": [
+    "/bahcesehir/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/ankraMedipol/page.js"
+      "static/chunks/app/bahcesehir/page.js"
+    ],
+    "/beykent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/beykent/page.js"
+    ],
+    "/beykoz/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/beykoz/page.js"
     ]
   }
 }

@@ -8,15 +8,48 @@ import altsss from "../../Public/images/atat.jpg";
 import altn from "../../Public/images/ata.jpg";
 import awrak from "../../Public/images/awark.jpg";
 import alt from "../../Public/images/altnffff.webp";
+import coveren from "../../Public/images/altin_en.png";
+import coverfr from "../../Public/images/atilim_fr.png";
+import coverfa from "../../Public/images/atilem_fa.png";
+import covertr from "../../Public/images/atilim_tr.png";
+import coverru from "../../Public/images/atilim_ru.png";
+
 import { useTranslation } from "react-i18next";
+const images = {
+  ar: {
+    altmcover: cover,
+   
+  },
+  en: {
+    altmcover: coveren,
+   
+  },
+  fr: {
+    altmcover: coverfr,
+   
+  },
+  fa: {
+    altmcover: coverfa,
+   
+  },
+  tr: {
+    altmcover:covertr,
+   
+  },
+  ru: {
+    altmcover: coverru,
+   
+  },
+};
 const atilim = () => {
-  const { t, i18n  } = useTranslation();
+  const { t, i18n } = useTranslation();
+  const lang = i18n.language || "ar";
   return (
     <>
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-8 my-10  -mt-0 pt-24 max-lg:w-[75rem] max-lg:mr-6">
         <div className="h-auto rounded-lg bg-gradient-to-r from-purple-50 to-pink-50  lg:col-span-2 max-[1366px]:grid-cols-1">
           <Image
-            src={cover}
+            src={images[lang].altmcover}
             className="w-[75rem] justify-center items-center mx-auto my-6 rounded-lg"
           />
           <Image
@@ -3016,7 +3049,7 @@ const atilim = () => {
                           </p>
                           :
                           <p className="text-gray-600 text-sm pr-1 mt-1 font-medium">
-                           التغذية والحمية {t("التخصص")}
+                {t("التغذية والحمية")}
                           </p>
                         </div>
                         <hr className="my-2" />
@@ -6458,7 +6491,7 @@ const atilim = () => {
                         <hr className="my-2" />
                         <div className="mt-4 flex">
                           <p className="text-gray-800 text-lg pl-1 font-semibold ">
-                            لغة الدراسة :  {t("أتيليم")}
+                          {t("لغة الدراسة :")}
                           </p>
                           <p className="text-gray-600 text-sm pr-1 mt-1 font-medium">
                             {t("الانجليزية")}
@@ -7205,7 +7238,7 @@ const atilim = () => {
                             </div>
 
                             <p className="mt-0.5 text-lg font-medium text-gray-900">
-                              أتيليم {t("التخصص")}
+                            {t("أتيليم")} 
                             </p>
                           </div>
                         </div>
@@ -7297,7 +7330,7 @@ const atilim = () => {
                             </div>
 
                             <p className="mt-0.5 text-lg font-medium text-gray-900">
-                              أتيليم  {t("التخصص")} 
+                            {t("أتيليم")} 
                             </p>
                           </div>
                         </div>

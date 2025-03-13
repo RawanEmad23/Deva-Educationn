@@ -12,7 +12,7 @@ import alt from "../../Public/images/Ankara-Medipol-University (1111).jpg";
 import coveren from "../../Public/images/medpol_en.png";
 import coverfr from "../../Public/images/medpo_fr.png";
 import coverfa from "../../Public/images/ankra_fa.png";
-import covertr from "../../Public/images/medpoil_tr.png";
+import covertr from "../../Public/images/medpol_tr.png";
 import coverru from "../../Public/images/medpoil_ru.png";
 import { useTranslation } from "react-i18next";
 
@@ -3029,7 +3029,7 @@ const ankraMedipol = () => {
 
                             <p className="mt-0.5 text-lg font-medium text-gray-900">
                              
-                              {t(" أنقره ميدبول")}
+                              {t("أنقره ميدبول")}
                             </p>
                           </div>
                         </div>
@@ -4093,7 +4093,7 @@ const ankraMedipol = () => {
                             {t("لغة الدراسة :")}
                           </p>
                           <p className="text-gray-600 text-sm pr-1 mt-1 font-medium">
-                            <b className="text-red-600">التركية</b>
+                            <b className="text-red-600">{t("التركية")}</b>
                           </p>
                         </div>
                         <hr className="my-2" />
@@ -4106,7 +4106,7 @@ const ankraMedipol = () => {
                             </del>
                           </div>
                           <div className="text-gray-700 text-sm pr-1 mt-1 font-medium flex">
-                            بعد الخصم :
+                          {t("قبل الخصم :")}
                             <p className="text-red-600 text-sm pr-1 mt-1 font-medium">
                               4000$
                             </p>

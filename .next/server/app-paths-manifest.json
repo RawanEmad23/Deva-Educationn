@@ -1,6 +1,7 @@
 {
   "/page": "app/page.js",
   "/universitys/page": "app/universitys/page.js",
-  "/khadamat/page": "app/khadamat/page.js",
-  "/ankraMedipol/page": "app/ankraMedipol/page.js"
+  "/beykoz/page": "app/beykoz/page.js",
+  "/bahcesehir/page": "app/bahcesehir/page.js",
+  "/beykent/page": "app/beykent/page.js"
 }
