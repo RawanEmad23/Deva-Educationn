@@ -1,7 +1,6 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
   "/universitys/page": "app/universitys/page.js",
-  "/beykoz/page": "app/beykoz/page.js",
-  "/bahcesehir/page": "app/bahcesehir/page.js",
-  "/beykent/page": "app/beykent/page.js"
+  "/arel/page": "app/arel/page.js"
 }

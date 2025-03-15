@@ -156,7 +156,7 @@ function yeni() {
             </svg>
             <h1 className="font-bold text-gray-900 text-2xl pr-4 mt-2 max-sm:text-3xl">
               
-              {t("عدد الطلاب ")}
+              {t("عدد الطلاب")}
               <b className="text-xl text-gray-500  max-sm:text-3xl">10,642</b>
             </h1>
           </div>

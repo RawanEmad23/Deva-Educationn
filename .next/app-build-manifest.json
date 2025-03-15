@@ -17,20 +17,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/universitys/page.js"
     ],
-    "/bahcesehir/page": [
+    "/arel/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/bahcesehir/page.js"
+      "static/chunks/app/arel/page.js"
     ],
-    "/beykent/page": [
+    "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/beykent/page.js"
-    ],
-    "/beykoz/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/beykoz/page.js"
+      "static/chunks/app/_not-found/page.js"
     ]
   }
 }
